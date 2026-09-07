@@ -1,0 +1,1000 @@
+﻿ORD-00001,2025-04-13 00:00:00.000,CUST-0100,Customer 100,Bago,Pyay,Furniture,Desk,5,292900,0,1464500,1050000,414500,Bank Transfer,Nandar,Completed
+ORD-00002,2025-05-11 00:00:00.000,CUST-0022,Customer 022,Yangon,Hlaing,Furniture,Bookshelf,6,165600,0.15,844560,690000,154560,KBZ Pay,Thiri,Completed
+ORD-00003,2026-07-15 00:00:00.000,CUST-0108,Customer 108,Mandalay,Chanmyathazi,Electronics,Headphones,4,93000,0.05,353400,220000,133400,Wave Money,May Zin,Completed
+ORD-00004,2025-09-01 00:00:00.000,CUST-0250,Customer 250,Mandalay,Chanmyathazi,Accessories,Laptop Bag,5,74400,0,-372000,-215000,-157000,KBZ Pay,Aung Aung,Returned
+ORD-00005,2025-12-12 00:00:00.000,CUST-0164,Customer 164,Yangon,Mayangone,Electronics,Headphones,7,96700,0.1,609210,385000,224210,Cash,Su Su,Completed
+ORD-00006,2026-01-23 00:00:00.000,CUST-0190,Customer 190,Yangon,Hlaing,Electronics,Headphones,6,87900,0.1,474660,330000,144660,KBZ Pay,Htet Htet,Completed
+ORD-00007,2025-09-27 00:00:00.000,CUST-0111,Customer 111,Naypyidaw,Pyinmana,Electronics,Monitor,4,389400,0.02,1526448,1200000,326448,KBZ Pay,Thiri,Completed
+ORD-00008,2025-08-05 00:00:00.000,CUST-0236,Customer 236,Yangon,Mayangone,Electronics,Laptop,7,1183100,0,8281700,6650000,1631700,Cash,Nandar,Completed
+ORD-00009,2026-04-17 00:00:00.000,CUST-0028,Customer 028,Yangon,Tamwe,Furniture,Meeting Table,3,542600,0,1627800,1095000,532800,Cash,May Zin,Completed
+ORD-00010,2025-07-20 00:00:00.000,CUST-0035,Customer 035,Naypyidaw,Zabuthiri,Electronics,Monitor,7,431300,0.08,2777572,2100000,677572,Wave Money,Aung Aung,Completed
+ORD-00011,2026-04-07 00:00:00.000,CUST-0124,Customer 124,Bago,Bago,Office Supplies,Mouse,6,28000,0.05,159600,90000,69600,KBZ Pay,Thiri,Completed
+ORD-00012,2026-07-29 00:00:00.000,CUST-0029,Customer 029,Shan,Taunggyi,Electronics,Headphones,4,101200,0.02,396704,220000,176704,Wave Money,Htet Htet,Completed
+ORD-00013,2026-06-09 00:00:00.000,CUST-0108,Customer 108,Yangon,Tamwe,Furniture,Bookshelf,2,188900,0.05,-358910,-230000,-128910,Credit Card,Htet Htet,Returned
+ORD-00014,2025-12-06 00:00:00.000,CUST-0190,Customer 190,Shan,Muse,Electronics,Monitor,4,410300,0.1,1477080,1200000,277080,Wave Money,Aung Aung,Completed
+ORD-00015,2025-09-16 00:00:00.000,CUST-0118,Customer 118,Yangon,Mayangone,Office Supplies,Keyboard,5,46400,0.02,227360,130000,97360,Wave Money,Nandar,Completed
+ORD-00016,2026-04-17 00:00:00.000,CUST-0113,Customer 113,Naypyidaw,Naypyidaw,Electronics,Smartphone,4,623700,0.08,2295216,1880000,415216,Bank Transfer,Nandar,Completed
+ORD-00017,2025-03-22 00:00:00.000,CUST-0053,Customer 053,Yangon,Hlaing,Office Supplies,Keyboard,7,43400,0.1,273420,182000,91420,KBZ Pay,Htet Htet,Completed
+ORD-00018,2026-02-20 00:00:00.000,CUST-0240,Customer 240,Mandalay,Chanmyathazi,Furniture,Meeting Table,1,539000,0.02,528220,365000,163220,Wave Money,Nandar,Completed
+ORD-00019,2025-07-20 00:00:00.000,CUST-0148,Customer 148,Yangon,Hlaing,Furniture,Meeting Table,4,505500,0.02,1981560,1460000,521560,Wave Money,Nandar,Completed
+ORD-00020,2026-05-04 00:00:00.000,CUST-0099,Customer 099,Naypyidaw,Pyinmana,Accessories,USB Drive,3,31200,0,-93600,-54000,-39600,KBZ Pay,May Zin,Returned
+ORD-00021,2025-05-24 00:00:00.000,CUST-0247,Customer 247,Bago,Bago,Office Supplies,Printer,2,410200,0.15,697340,560000,137340,Wave Money,Aung Aung,Completed
+ORD-00022,2025-08-21 00:00:00.000,CUST-0227,Customer 227,Yangon,Mayangone,Furniture,Bookshelf,1,184100,0,184100,115000,69100,Credit Card,Nandar,Completed
+ORD-00023,2026-05-25 00:00:00.000,CUST-0228,Customer 228,Shan,Taunggyi,Electronics,Headphones,6,95700,0.08,528264,330000,198264,Cash,Aung Aung,Completed
+ORD-00024,2026-08-03 00:00:00.000,CUST-0115,Customer 115,Yangon,Yangon,Electronics,Headphones,7,98400,0.02,675024,385000,290024,Wave Money,Kyaw Kyaw,Completed
+ORD-00025,2026-01-10 00:00:00.000,CUST-0028,Customer 028,Yangon,Hlaing,Accessories,USB Drive,3,34000,0.05,96900,54000,42900,Cash,May Zin,Completed
+ORD-00026,2026-04-26 00:00:00.000,CUST-0046,Customer 046,Yangon,Yangon,Office Supplies,Office Chair,3,250300,0,0,0,0,Bank Transfer,Thiri,Cancelled
+ORD-00027,2026-06-02 00:00:00.000,CUST-0191,Customer 191,Yangon,Yangon,Accessories,USB Drive,1,32300,0.05,0,0,0,Credit Card,Thiri,Cancelled
+ORD-00028,2025-06-10 00:00:00.000,CUST-0032,Customer 032,Yangon,Mayangone,Office Supplies,Keyboard,7,47500,0.15,282625,182000,100625,KBZ Pay,May Zin,Completed
+ORD-00029,2025-06-04 00:00:00.000,CUST-0099,Customer 099,Yangon,Hlaing,Furniture,Desk,1,320000,0.02,313600,210000,103600,KBZ Pay,Su Su,Completed
+ORD-00030,2026-02-12 00:00:00.000,CUST-0115,Customer 115,Shan,Lashio,Electronics,Headphones,5,90400,0,452000,275000,177000,Credit Card,May Zin,Completed
+ORD-00031,2025-05-23 00:00:00.000,CUST-0058,Customer 058,Yangon,Hlaing,Office Supplies,Mouse,6,27200,0,0,0,0,KBZ Pay,Kyaw Kyaw,Cancelled
+ORD-00032,2025-11-01 00:00:00.000,CUST-0005,Customer 005,Yangon,Hlaing,Electronics,Monitor,4,408400,0.08,1502912,1200000,302912,Credit Card,May Zin,Completed
+ORD-00033,2025-07-15 00:00:00.000,CUST-0145,Customer 145,Bago,Taungoo,Office Supplies,Mouse,4,26400,0.15,89760,60000,29760,Wave Money,Nandar,Completed
+ORD-00034,2026-08-27 00:00:00.000,CUST-0122,Customer 122,Naypyidaw,Zabuthiri,Electronics,Laptop,6,1317200,0.08,7270944,5700000,1570944,KBZ Pay,Aung Aung,Completed
+ORD-00035,2025-04-06 00:00:00.000,CUST-0247,Customer 247,Mandalay,Mandalay,Furniture,Desk,1,332600,0.08,305992,210000,95992,Bank Transfer,Min Min,Completed
+ORD-00036,2025-03-17 00:00:00.000,CUST-0197,Customer 197,Mandalay,Chanmyathazi,Furniture,Desk,5,291000,0,1455000,1050000,405000,Credit Card,Htet Htet,Completed
+ORD-00037,2025-08-06 00:00:00.000,CUST-0100,Customer 100,Bago,Bago,Office Supplies,Printer,6,376000,0.02,2210880,1680000,530880,Bank Transfer,Su Su,Completed
+ORD-00038,2025-06-29 00:00:00.000,CUST-0241,Customer 241,Yangon,Hlaing,Accessories,Power Bank,1,90600,0.08,83352,58000,25352,KBZ Pay,Htet Htet,Completed
+ORD-00039,2025-06-09 00:00:00.000,CUST-0161,Customer 161,Shan,Lashio,Office Supplies,Printer,1,398900,0.08,366988,280000,86988,Cash,Nandar,Completed
+ORD-00040,2025-02-12 00:00:00.000,CUST-0008,Customer 008,Yangon,Yangon,Electronics,Smartphone,2,602100,0.05,1143990,940000,203990,KBZ Pay,Thiri,Completed
+ORD-00041,2026-08-25 00:00:00.000,CUST-0217,Customer 217,Yangon,Tamwe,Electronics,Headphones,2,98000,0.05,-186200,-110000,-76200,Credit Card,Thiri,Returned
+ORD-00042,2026-01-29 00:00:00.000,CUST-0012,Customer 012,Mandalay,Chanmyathazi,Accessories,Power Bank,4,88200,0.08,324576,232000,92576,Bank Transfer,Aung Aung,Completed
+ORD-00043,2026-06-09 00:00:00.000,CUST-0019,Customer 019,Naypyidaw,Pyinmana,Electronics,Laptop,1,1251100,0.08,1151012,950000,201012,Wave Money,Aung Aung,Completed
+ORD-00044,2026-01-31 00:00:00.000,CUST-0069,Customer 069,Shan,Muse,Electronics,Monitor,4,450200,0.15,1530680,1200000,330680,Bank Transfer,Min Min,Completed
+ORD-00045,2026-01-31 00:00:00.000,CUST-0167,Customer 167,Yangon,Tamwe,Electronics,Laptop,7,1306300,0,-9144100,-6650000,-2494100,KBZ Pay,Kyaw Kyaw,Returned
+ORD-00046,2025-08-11 00:00:00.000,CUST-0145,Customer 145,Yangon,Tamwe,Accessories,Laptop Bag,3,70400,0,211200,129000,82200,Credit Card,Thiri,Completed
+ORD-00047,2025-08-18 00:00:00.000,CUST-0136,Customer 136,Yangon,Yangon,Electronics,Laptop,2,1328400,0,2656800,1900000,756800,Wave Money,Nandar,Completed
+ORD-00048,2025-12-31 00:00:00.000,CUST-0189,Customer 189,Yangon,Mayangone,Electronics,Monitor,1,426200,0.02,417676,300000,117676,Wave Money,Htet Htet,Completed
+ORD-00049,2025-07-01 00:00:00.000,CUST-0148,Customer 148,Naypyidaw,Zabuthiri,Accessories,Laptop Bag,6,74900,0,449400,258000,191400,KBZ Pay,Htet Htet,Completed
+ORD-00050,2026-04-01 00:00:00.000,CUST-0056,Customer 056,Yangon,Yangon,Furniture,Meeting Table,5,498200,0.05,2366450,1825000,541450,Cash,Aung Aung,Completed
+ORD-00051,2025-04-27 00:00:00.000,CUST-0164,Customer 164,Shan,Taunggyi,Accessories,USB Drive,7,34000,0.05,0,0,0,Bank Transfer,Min Min,Cancelled
+ORD-00052,2026-06-16 00:00:00.000,CUST-0203,Customer 203,Yangon,Tamwe,Office Supplies,Keyboard,7,44700,0.05,297255,182000,115255,Cash,Htet Htet,Completed
+ORD-00053,2025-11-26 00:00:00.000,CUST-0060,Customer 060,Shan,Lashio,Office Supplies,Office Chair,5,231500,0,1157500,825000,332500,KBZ Pay,Su Su,Completed
+ORD-00054,2026-06-24 00:00:00.000,CUST-0220,Customer 220,Yangon,Yangon,Electronics,Monitor,6,388600,0.02,2284968,1800000,484968,Bank Transfer,Nandar,Completed
+ORD-00055,2026-07-12 00:00:00.000,CUST-0109,Customer 109,Yangon,Hlaing,Accessories,Power Bank,5,91600,0.05,-435100,-290000,-145100,KBZ Pay,Thiri,Returned
+ORD-00056,2025-04-29 00:00:00.000,CUST-0027,Customer 027,Mandalay,Amarapura,Furniture,Meeting Table,1,509700,0.08,468924,365000,103924,Wave Money,Aung Aung,Completed
+ORD-00057,2026-04-06 00:00:00.000,CUST-0102,Customer 102,Yangon,Yangon,Office Supplies,Printer,5,353000,0.1,1588500,1400000,188500,Bank Transfer,Min Min,Completed
+ORD-00058,2026-03-13 00:00:00.000,CUST-0173,Customer 173,Mandalay,Mandalay,Accessories,Webcam,3,81600,0.05,232560,156000,76560,Wave Money,Thiri,Completed
+ORD-00059,2026-03-22 00:00:00.000,CUST-0050,Customer 050,Bago,Taungoo,Office Supplies,Office Chair,7,246600,0.05,1639890,1155000,484890,Wave Money,Htet Htet,Completed
+ORD-00060,2025-02-23 00:00:00.000,CUST-0142,Customer 142,Shan,Lashio,Accessories,USB Drive,1,30100,0,30100,18000,12100,Bank Transfer,Su Su,Completed
+ORD-00061,2025-03-16 00:00:00.000,CUST-0191,Customer 191,Yangon,Hlaing,Office Supplies,Keyboard,6,45800,0.05,261060,156000,105060,Wave Money,Su Su,Completed
+ORD-00062,2025-11-04 00:00:00.000,CUST-0184,Customer 184,Mandalay,Mandalay,Furniture,Bookshelf,7,180700,0.08,1163708,805000,358708,KBZ Pay,Aung Aung,Completed
+ORD-00063,2025-11-26 00:00:00.000,CUST-0111,Customer 111,Bago,Bago,Accessories,USB Drive,2,31100,0.05,59090,36000,23090,Wave Money,Aung Aung,Completed
+ORD-00064,2025-07-02 00:00:00.000,CUST-0155,Customer 155,Mandalay,Chanmyathazi,Electronics,Headphones,4,90200,0.02,-353584,-220000,-133584,Wave Money,Thiri,Returned
+ORD-00065,2025-03-02 00:00:00.000,CUST-0233,Customer 233,Yangon,Tamwe,Furniture,Bookshelf,4,175600,0,702400,460000,242400,Bank Transfer,Htet Htet,Completed
+ORD-00066,2025-12-12 00:00:00.000,CUST-0063,Customer 063,Shan,Taunggyi,Office Supplies,Printer,3,352000,0.08,971520,840000,131520,Wave Money,Nandar,Completed
+ORD-00067,2026-07-27 00:00:00.000,CUST-0028,Customer 028,Yangon,Mayangone,Furniture,Desk,3,294400,0,883200,630000,253200,KBZ Pay,May Zin,Completed
+ORD-00068,2025-03-19 00:00:00.000,CUST-0237,Customer 237,Mandalay,Mandalay,Electronics,Monitor,3,434300,0.1,1172610,900000,272610,Credit Card,Su Su,Completed
+ORD-00069,2026-05-21 00:00:00.000,CUST-0126,Customer 126,Yangon,Tamwe,Electronics,Laptop,7,1225500,0,8578500,6650000,1928500,KBZ Pay,Htet Htet,Completed
+ORD-00070,2026-06-21 00:00:00.000,CUST-0111,Customer 111,Shan,Taunggyi,Furniture,Meeting Table,1,519900,0,519900,365000,154900,KBZ Pay,Nandar,Completed
+ORD-00071,2026-01-04 00:00:00.000,CUST-0198,Customer 198,Mandalay,Amarapura,Electronics,Smartphone,4,665200,0.05,2527760,1880000,647760,Bank Transfer,Thiri,Completed
+ORD-00072,2026-01-12 00:00:00.000,CUST-0247,Customer 247,Yangon,Hlaing,Electronics,Smartphone,7,648700,0.1,4086810,3290000,796810,Cash,Min Min,Completed
+ORD-00073,2025-08-31 00:00:00.000,CUST-0094,Customer 094,Yangon,Yangon,Accessories,Laptop Bag,6,73800,0.15,-376380,-258000,-118380,Cash,Nandar,Returned
+ORD-00074,2026-07-28 00:00:00.000,CUST-0019,Customer 019,Shan,Muse,Office Supplies,Keyboard,3,47400,0,0,0,0,Credit Card,Htet Htet,Cancelled
+ORD-00075,2025-08-13 00:00:00.000,CUST-0003,Customer 003,Naypyidaw,Pyinmana,Furniture,Bookshelf,6,182300,0,1093800,690000,403800,Wave Money,Aung Aung,Completed
+ORD-00076,2025-01-10 00:00:00.000,CUST-0203,Customer 203,Mandalay,Amarapura,Accessories,USB Drive,2,29900,0,59800,36000,23800,Cash,May Zin,Completed
+ORD-00077,2026-07-04 00:00:00.000,CUST-0137,Customer 137,Mandalay,Amarapura,Electronics,Laptop,6,1299200,0.05,-7405440,-5700000,-1705440,Wave Money,Su Su,Returned
+ORD-00078,2026-08-11 00:00:00.000,CUST-0030,Customer 030,Yangon,Yangon,Furniture,Bookshelf,4,189800,0,759200,460000,299200,Credit Card,Min Min,Completed
+ORD-00079,2025-06-14 00:00:00.000,CUST-0125,Customer 125,Bago,Pyay,Office Supplies,Keyboard,4,43700,0.05,166060,104000,62060,Wave Money,Kyaw Kyaw,Completed
+ORD-00080,2025-01-23 00:00:00.000,CUST-0039,Customer 039,Mandalay,Mandalay,Electronics,Laptop,7,1226800,0.05,-8158220,-6650000,-1508220,Wave Money,Min Min,Returned
+ORD-00081,2025-07-17 00:00:00.000,CUST-0164,Customer 164,Shan,Muse,Furniture,Bookshelf,4,188500,0.05,716300,460000,256300,Wave Money,Thiri,Completed
+ORD-00082,2026-07-04 00:00:00.000,CUST-0074,Customer 074,Naypyidaw,Naypyidaw,Electronics,Monitor,1,388700,0.05,369265,300000,69265,Wave Money,Aung Aung,Completed
+ORD-00083,2025-04-28 00:00:00.000,CUST-0076,Customer 076,Bago,Pyay,Office Supplies,Printer,4,373800,0.08,1375584,1120000,255584,Credit Card,Thiri,Completed
+ORD-00084,2025-05-10 00:00:00.000,CUST-0046,Customer 046,Yangon,Tamwe,Furniture,Bookshelf,3,182900,0.08,0,0,0,KBZ Pay,Min Min,Cancelled
+ORD-00085,2026-01-31 00:00:00.000,CUST-0133,Customer 133,Shan,Lashio,Electronics,Laptop,7,1295200,0.05,8613080,6650000,1963080,Credit Card,Nandar,Completed
+ORD-00086,2025-05-07 00:00:00.000,CUST-0151,Customer 151,Yangon,Mayangone,Office Supplies,Printer,6,354300,0,2125800,1680000,445800,Wave Money,Aung Aung,Completed
+ORD-00087,2026-02-09 00:00:00.000,CUST-0175,Customer 175,Yangon,Mayangone,Electronics,Laptop,1,1324000,0.05,1257800,950000,307800,Bank Transfer,Aung Aung,Completed
+ORD-00088,2025-11-05 00:00:00.000,CUST-0135,Customer 135,Yangon,Mayangone,Furniture,Bookshelf,1,168900,0.05,-160455,-115000,-45455,KBZ Pay,Su Su,Returned
+ORD-00089,2026-04-20 00:00:00.000,CUST-0198,Customer 198,Naypyidaw,Naypyidaw,Office Supplies,Mouse,4,29800,0.02,116816,60000,56816,Credit Card,Thiri,Completed
+ORD-00090,2025-06-10 00:00:00.000,CUST-0177,Customer 177,Yangon,Tamwe,Electronics,Smartphone,4,620100,0.05,0,0,0,Cash,Htet Htet,Cancelled
+ORD-00091,2025-12-08 00:00:00.000,CUST-0062,Customer 062,Yangon,Yangon,Electronics,Monitor,1,407200,0.02,399056,300000,99056,Wave Money,Nandar,Completed
+ORD-00092,2025-10-12 00:00:00.000,CUST-0246,Customer 246,Naypyidaw,Naypyidaw,Office Supplies,Office Chair,3,223300,0.08,616308,495000,121308,KBZ Pay,Htet Htet,Completed
+ORD-00093,2025-04-23 00:00:00.000,CUST-0110,Customer 110,Mandalay,Amarapura,Furniture,Desk,5,288900,0.08,1328940,1050000,278940,Wave Money,Su Su,Completed
+ORD-00094,2026-01-15 00:00:00.000,CUST-0072,Customer 072,Bago,Pyay,Electronics,Smartphone,7,666500,0,4665500,3290000,1375500,Wave Money,Kyaw Kyaw,Completed
+ORD-00095,2025-08-27 00:00:00.000,CUST-0144,Customer 144,Mandalay,Chanmyathazi,Furniture,Meeting Table,2,545400,0.15,927180,730000,197180,Wave Money,Htet Htet,Completed
+ORD-00096,2026-05-15 00:00:00.000,CUST-0112,Customer 112,Naypyidaw,Naypyidaw,Office Supplies,Mouse,2,25800,0,51600,30000,21600,Wave Money,Thiri,Completed
+ORD-00097,2026-07-02 00:00:00.000,CUST-0020,Customer 020,Naypyidaw,Zabuthiri,Accessories,Laptop Bag,5,73100,0.02,358190,215000,143190,Credit Card,Thiri,Completed
+ORD-00098,2025-09-13 00:00:00.000,CUST-0238,Customer 238,Mandalay,Amarapura,Accessories,Laptop Bag,4,80700,0.08,296976,172000,124976,Wave Money,May Zin,Completed
+ORD-00099,2025-05-08 00:00:00.000,CUST-0238,Customer 238,Yangon,Hlaing,Electronics,Smartphone,1,654300,0.05,621585,470000,151585,Wave Money,Htet Htet,Completed
+ORD-00100,2026-03-18 00:00:00.000,CUST-0017,Customer 017,Shan,Lashio,Electronics,Monitor,6,447800,0,2686800,1800000,886800,KBZ Pay,Thiri,Completed
+ORD-00101,2025-06-02 00:00:00.000,CUST-0012,Customer 012,Mandalay,Chanmyathazi,Electronics,Smartphone,5,625400,0.02,3064460,2350000,714460,KBZ Pay,Thiri,Completed
+ORD-00102,2026-03-31 00:00:00.000,CUST-0193,Customer 193,Mandalay,Mandalay,Office Supplies,Office Chair,6,240700,0,1444200,990000,454200,Wave Money,Min Min,Completed
+ORD-00103,2025-10-19 00:00:00.000,CUST-0054,Customer 054,Bago,Bago,Office Supplies,Office Chair,3,234500,0.08,647220,495000,152220,Wave Money,Su Su,Completed
+ORD-00104,2025-02-24 00:00:00.000,CUST-0235,Customer 235,Naypyidaw,Zabuthiri,Electronics,Headphones,1,91500,0.05,86925,55000,31925,Credit Card,Aung Aung,Completed
+ORD-00105,2026-05-22 00:00:00.000,CUST-0171,Customer 171,Mandalay,Amarapura,Office Supplies,Keyboard,5,43900,0.02,215110,130000,85110,Bank Transfer,Nandar,Completed
+ORD-00106,2025-02-11 00:00:00.000,CUST-0101,Customer 101,Mandalay,Chanmyathazi,Furniture,Desk,4,319700,0.02,1253224,840000,413224,Wave Money,Htet Htet,Completed
+ORD-00107,2025-01-17 00:00:00.000,CUST-0215,Customer 215,Shan,Muse,Office Supplies,Office Chair,6,257600,0.08,1421952,990000,431952,Cash,Thiri,Completed
+ORD-00108,2026-01-09 00:00:00.000,CUST-0016,Customer 016,Naypyidaw,Naypyidaw,Accessories,Power Bank,7,92800,0,649600,406000,243600,KBZ Pay,May Zin,Completed
+ORD-00109,2026-02-05 00:00:00.000,CUST-0059,Customer 059,Yangon,Yangon,Office Supplies,Mouse,6,26300,0.08,145176,90000,55176,KBZ Pay,May Zin,Completed
+ORD-00110,2026-04-22 00:00:00.000,CUST-0108,Customer 108,Mandalay,Amarapura,Electronics,Monitor,2,421500,0.05,800850,600000,200850,Wave Money,Htet Htet,Completed
+ORD-00111,2025-04-08 00:00:00.000,CUST-0214,Customer 214,Shan,Muse,Electronics,Monitor,7,390800,0.02,2680888,2100000,580888,Bank Transfer,Aung Aung,Completed
+ORD-00112,2026-02-01 00:00:00.000,CUST-0141,Customer 141,Naypyidaw,Naypyidaw,Office Supplies,Keyboard,2,41600,0.1,74880,52000,22880,Bank Transfer,Su Su,Completed
+ORD-00113,2026-02-20 00:00:00.000,CUST-0016,Customer 016,Shan,Muse,Accessories,Power Bank,5,93800,0.05,445550,290000,155550,Cash,Nandar,Completed
+ORD-00114,2025-08-27 00:00:00.000,CUST-0068,Customer 068,Yangon,Hlaing,Office Supplies,Mouse,4,29100,0.02,114072,60000,54072,KBZ Pay,Su Su,Completed
+ORD-00115,2025-10-20 00:00:00.000,CUST-0250,Customer 250,Yangon,Yangon,Accessories,Laptop Bag,1,70300,0.02,68894,43000,25894,Wave Money,Thiri,Completed
+ORD-00116,2025-03-02 00:00:00.000,CUST-0199,Customer 199,Yangon,Mayangone,Office Supplies,Office Chair,7,257100,0.05,1709715,1155000,554715,Cash,Htet Htet,Completed
+ORD-00117,2026-07-25 00:00:00.000,CUST-0169,Customer 169,Mandalay,Mandalay,Office Supplies,Printer,3,380800,0.02,1119552,840000,279552,KBZ Pay,Aung Aung,Completed
+ORD-00118,2026-05-21 00:00:00.000,CUST-0061,Customer 061,Bago,Taungoo,Furniture,Bookshelf,7,171800,0.05,1142470,805000,337470,Cash,Min Min,Completed
+ORD-00119,2026-05-05 00:00:00.000,CUST-0068,Customer 068,Mandalay,Amarapura,Furniture,Meeting Table,3,497100,0.02,1461474,1095000,366474,Cash,Kyaw Kyaw,Completed
+ORD-00120,2025-12-23 00:00:00.000,CUST-0009,Customer 009,Yangon,Yangon,Office Supplies,Mouse,4,27900,0,111600,60000,51600,KBZ Pay,May Zin,Completed
+ORD-00121,2025-02-09 00:00:00.000,CUST-0146,Customer 146,Shan,Muse,Electronics,Headphones,4,93100,0.02,364952,220000,144952,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00122,2025-02-06 00:00:00.000,CUST-0186,Customer 186,Yangon,Yangon,Accessories,USB Drive,1,29800,0.1,26820,18000,8820,Wave Money,Min Min,Completed
+ORD-00123,2026-07-22 00:00:00.000,CUST-0059,Customer 059,Naypyidaw,Pyinmana,Accessories,USB Drive,6,32100,0.1,173340,108000,65340,Wave Money,Nandar,Completed
+ORD-00124,2025-12-29 00:00:00.000,CUST-0249,Customer 249,Yangon,Yangon,Furniture,Meeting Table,3,541000,0,-1623000,-1095000,-528000,KBZ Pay,Min Min,Returned
+ORD-00125,2025-01-31 00:00:00.000,CUST-0221,Customer 221,Bago,Taungoo,Furniture,Desk,6,330300,0,1981800,1260000,721800,Bank Transfer,Htet Htet,Completed
+ORD-00126,2025-10-22 00:00:00.000,CUST-0163,Customer 163,Yangon,Yangon,Office Supplies,Printer,1,388000,0.02,380240,280000,100240,Bank Transfer,Nandar,Completed
+ORD-00127,2025-11-22 00:00:00.000,CUST-0022,Customer 022,Yangon,Tamwe,Office Supplies,Office Chair,2,233900,0.05,-444410,-330000,-114410,Bank Transfer,Htet Htet,Returned
+ORD-00128,2026-04-29 00:00:00.000,CUST-0210,Customer 210,Yangon,Tamwe,Electronics,Headphones,6,98200,0.05,559740,330000,229740,Wave Money,Su Su,Completed
+ORD-00129,2025-09-27 00:00:00.000,CUST-0134,Customer 134,Shan,Taunggyi,Office Supplies,Mouse,3,28400,0.02,83496,45000,38496,Cash,May Zin,Completed
+ORD-00130,2025-03-20 00:00:00.000,CUST-0233,Customer 233,Bago,Pyay,Furniture,Bookshelf,2,173500,0.15,294950,230000,64950,Bank Transfer,May Zin,Completed
+ORD-00131,2025-09-28 00:00:00.000,CUST-0081,Customer 081,Bago,Bago,Electronics,Headphones,2,99100,0.02,194236,110000,84236,Wave Money,Kyaw Kyaw,Completed
+ORD-00132,2026-03-16 00:00:00.000,CUST-0001,Customer 001,Mandalay,Mandalay,Accessories,USB Drive,3,34400,0.08,94944,54000,40944,Wave Money,Su Su,Completed
+ORD-00133,2026-06-11 00:00:00.000,CUST-0174,Customer 174,Naypyidaw,Pyinmana,Electronics,Laptop,4,1262600,0.05,4797880,3800000,997880,Credit Card,Aung Aung,Completed
+ORD-00134,2026-08-28 00:00:00.000,CUST-0122,Customer 122,Bago,Pyay,Office Supplies,Keyboard,4,41500,0.08,152720,104000,48720,Credit Card,Min Min,Completed
+ORD-00135,2026-07-12 00:00:00.000,CUST-0188,Customer 188,Mandalay,Amarapura,Electronics,Laptop,6,1287100,0.05,7336470,5700000,1636470,Cash,May Zin,Completed
+ORD-00136,2026-05-16 00:00:00.000,CUST-0110,Customer 110,Yangon,Mayangone,Office Supplies,Office Chair,5,226500,0.05,1075875,825000,250875,KBZ Pay,May Zin,Completed
+ORD-00137,2025-06-15 00:00:00.000,CUST-0076,Customer 076,Yangon,Yangon,Furniture,Bookshelf,1,166700,0.05,158365,115000,43365,Cash,Aung Aung,Completed
+ORD-00138,2025-02-15 00:00:00.000,CUST-0002,Customer 002,Yangon,Mayangone,Office Supplies,Office Chair,4,234100,0.08,-861488,-660000,-201488,Cash,Aung Aung,Returned
+ORD-00139,2026-08-12 00:00:00.000,CUST-0119,Customer 119,Yangon,Hlaing,Electronics,Smartphone,7,618900,0.08,3985716,3290000,695716,KBZ Pay,Htet Htet,Completed
+ORD-00140,2025-11-01 00:00:00.000,CUST-0204,Customer 204,Shan,Taunggyi,Furniture,Bookshelf,1,192600,0,192600,115000,77600,KBZ Pay,Nandar,Completed
+ORD-00141,2025-11-14 00:00:00.000,CUST-0127,Customer 127,Bago,Pyay,Furniture,Meeting Table,3,552800,0.05,1575480,1095000,480480,KBZ Pay,Min Min,Completed
+ORD-00142,2025-05-07 00:00:00.000,CUST-0122,Customer 122,Mandalay,Amarapura,Office Supplies,Keyboard,6,45700,0.08,252264,156000,96264,Wave Money,Min Min,Completed
+ORD-00143,2026-07-21 00:00:00.000,CUST-0211,Customer 211,Mandalay,Mandalay,Electronics,Monitor,5,430700,0.05,2045825,1500000,545825,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00144,2026-07-03 00:00:00.000,CUST-0135,Customer 135,Shan,Taunggyi,Office Supplies,Office Chair,2,236300,0.02,463148,330000,133148,Cash,Htet Htet,Completed
+ORD-00145,2025-06-08 00:00:00.000,CUST-0164,Customer 164,Mandalay,Mandalay,Electronics,Headphones,6,102400,0,-614400,-330000,-284400,Cash,Su Su,Returned
+ORD-00146,2025-04-27 00:00:00.000,CUST-0012,Customer 012,Yangon,Mayangone,Accessories,Webcam,4,83900,0.02,328888,208000,120888,Bank Transfer,Min Min,Completed
+ORD-00147,2025-08-25 00:00:00.000,CUST-0014,Customer 014,Mandalay,Mandalay,Furniture,Meeting Table,2,538000,0.1,968400,730000,238400,Credit Card,Kyaw Kyaw,Completed
+ORD-00148,2025-01-02 00:00:00.000,CUST-0084,Customer 084,Yangon,Yangon,Electronics,Laptop,6,1169500,0.05,6666150,5700000,966150,Cash,Su Su,Completed
+ORD-00149,2025-05-25 00:00:00.000,CUST-0045,Customer 045,Yangon,Yangon,Office Supplies,Mouse,5,25800,0.05,122550,75000,47550,Credit Card,May Zin,Completed
+ORD-00150,2025-10-30 00:00:00.000,CUST-0020,Customer 020,Yangon,Hlaing,Electronics,Smartphone,2,644700,0.08,1186248,940000,246248,Bank Transfer,Nandar,Completed
+ORD-00151,2026-05-28 00:00:00.000,CUST-0120,Customer 120,Yangon,Hlaing,Electronics,Laptop,3,1297300,0.08,3580548,2850000,730548,Cash,Htet Htet,Completed
+ORD-00152,2025-06-05 00:00:00.000,CUST-0026,Customer 026,Bago,Taungoo,Electronics,Laptop,4,1203900,0,4815600,3800000,1015600,Credit Card,Thiri,Completed
+ORD-00153,2025-01-01 00:00:00.000,CUST-0181,Customer 181,Yangon,Hlaing,Electronics,Monitor,5,393300,0.05,1868175,1500000,368175,Credit Card,Su Su,Completed
+ORD-00154,2025-08-04 00:00:00.000,CUST-0151,Customer 151,Naypyidaw,Zabuthiri,Accessories,Webcam,5,90000,0.05,427500,260000,167500,KBZ Pay,Htet Htet,Completed
+ORD-00155,2025-10-21 00:00:00.000,CUST-0247,Customer 247,Yangon,Mayangone,Electronics,Headphones,2,90500,0.08,0,0,0,Cash,Nandar,Cancelled
+ORD-00156,2025-12-18 00:00:00.000,CUST-0210,Customer 210,Yangon,Tamwe,Electronics,Smartphone,1,685200,0.15,582420,470000,112420,KBZ Pay,Aung Aung,Completed
+ORD-00157,2026-06-22 00:00:00.000,CUST-0048,Customer 048,Bago,Bago,Electronics,Headphones,1,97900,0.08,90068,55000,35068,Bank Transfer,Thiri,Completed
+ORD-00158,2025-12-27 00:00:00.000,CUST-0073,Customer 073,Yangon,Mayangone,Electronics,Headphones,6,92200,0.1,0,0,0,Bank Transfer,Thiri,Cancelled
+ORD-00159,2026-08-12 00:00:00.000,CUST-0141,Customer 141,Yangon,Tamwe,Accessories,USB Drive,6,31100,0.08,171672,108000,63672,KBZ Pay,Aung Aung,Completed
+ORD-00160,2025-10-06 00:00:00.000,CUST-0199,Customer 199,Mandalay,Chanmyathazi,Office Supplies,Keyboard,6,46100,0.02,271068,156000,115068,KBZ Pay,May Zin,Completed
+ORD-00161,2026-08-28 00:00:00.000,CUST-0194,Customer 194,Mandalay,Mandalay,Office Supplies,Mouse,4,25800,0.05,98040,60000,38040,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00162,2025-01-03 00:00:00.000,CUST-0207,Customer 207,Mandalay,Amarapura,Office Supplies,Printer,5,370300,0.02,1814470,1400000,414470,Bank Transfer,Htet Htet,Completed
+ORD-00163,2025-02-12 00:00:00.000,CUST-0124,Customer 124,Bago,Taungoo,Furniture,Meeting Table,3,479900,0,1439700,1095000,344700,Bank Transfer,May Zin,Completed
+ORD-00164,2025-02-20 00:00:00.000,CUST-0157,Customer 157,Yangon,Yangon,Office Supplies,Mouse,2,26500,0.05,50350,30000,20350,Wave Money,May Zin,Completed
+ORD-00165,2025-06-05 00:00:00.000,CUST-0007,Customer 007,Mandalay,Amarapura,Office Supplies,Keyboard,2,43400,0.05,82460,52000,30460,Wave Money,May Zin,Completed
+ORD-00166,2025-04-18 00:00:00.000,CUST-0118,Customer 118,Yangon,Yangon,Electronics,Monitor,1,424500,0.02,0,0,0,Credit Card,May Zin,Cancelled
+ORD-00167,2026-01-20 00:00:00.000,CUST-0026,Customer 026,Yangon,Yangon,Office Supplies,Mouse,5,28500,0.08,-131100,-75000,-56100,Cash,Aung Aung,Returned
+ORD-00168,2025-01-10 00:00:00.000,CUST-0060,Customer 060,Yangon,Yangon,Furniture,Desk,2,297900,0.02,583884,420000,163884,Credit Card,May Zin,Completed
+ORD-00169,2025-07-21 00:00:00.000,CUST-0161,Customer 161,Bago,Pyay,Office Supplies,Printer,7,385300,0,2697100,1960000,737100,KBZ Pay,May Zin,Completed
+ORD-00170,2026-03-08 00:00:00.000,CUST-0002,Customer 002,Yangon,Tamwe,Office Supplies,Office Chair,3,229700,0.02,675318,495000,180318,Cash,Nandar,Completed
+ORD-00171,2025-09-20 00:00:00.000,CUST-0068,Customer 068,Naypyidaw,Pyinmana,Office Supplies,Printer,7,393700,0,2755900,1960000,795900,Wave Money,Su Su,Completed
+ORD-00172,2025-04-12 00:00:00.000,CUST-0231,Customer 231,Mandalay,Chanmyathazi,Furniture,Desk,1,314700,0.05,298965,210000,88965,Cash,Htet Htet,Completed
+ORD-00173,2026-07-15 00:00:00.000,CUST-0125,Customer 125,Bago,Bago,Electronics,Headphones,5,91500,0.05,434625,275000,159625,Credit Card,Su Su,Completed
+ORD-00174,2025-09-16 00:00:00.000,CUST-0186,Customer 186,Yangon,Hlaing,Accessories,Webcam,6,85800,0.08,473616,312000,161616,Credit Card,Htet Htet,Completed
+ORD-00175,2026-03-29 00:00:00.000,CUST-0144,Customer 144,Yangon,Tamwe,Furniture,Meeting Table,2,486400,0.05,924160,730000,194160,Cash,Htet Htet,Completed
+ORD-00176,2026-05-30 00:00:00.000,CUST-0030,Customer 030,Shan,Taunggyi,Electronics,Monitor,6,453100,0.1,2446740,1800000,646740,Cash,Thiri,Completed
+ORD-00177,2025-03-25 00:00:00.000,CUST-0225,Customer 225,Naypyidaw,Zabuthiri,Furniture,Desk,5,326200,0.08,1500520,1050000,450520,Credit Card,May Zin,Completed
+ORD-00178,2025-04-24 00:00:00.000,CUST-0196,Customer 196,Yangon,Yangon,Electronics,Monitor,1,423600,0.02,415128,300000,115128,KBZ Pay,Su Su,Completed
+ORD-00179,2025-11-07 00:00:00.000,CUST-0166,Customer 166,Yangon,Hlaing,Office Supplies,Keyboard,4,47500,0,-190000,-104000,-86000,KBZ Pay,Su Su,Returned
+ORD-00180,2026-03-05 00:00:00.000,CUST-0163,Customer 163,Yangon,Mayangone,Office Supplies,Keyboard,6,42400,0,254400,156000,98400,Bank Transfer,Su Su,Completed
+ORD-00181,2025-05-10 00:00:00.000,CUST-0095,Customer 095,Yangon,Hlaing,Accessories,Power Bank,2,94600,0,-189200,-116000,-73200,Credit Card,Kyaw Kyaw,Returned
+ORD-00182,2025-04-20 00:00:00.000,CUST-0226,Customer 226,Shan,Lashio,Electronics,Monitor,3,413200,0,1239600,900000,339600,Bank Transfer,Htet Htet,Completed
+ORD-00183,2026-06-21 00:00:00.000,CUST-0191,Customer 191,Yangon,Yangon,Office Supplies,Office Chair,4,232800,0.05,884640,660000,224640,Credit Card,Kyaw Kyaw,Completed
+ORD-00184,2025-02-12 00:00:00.000,CUST-0178,Customer 178,Mandalay,Chanmyathazi,Electronics,Monitor,5,438900,0.05,2084775,1500000,584775,Wave Money,Thiri,Completed
+ORD-00185,2025-02-25 00:00:00.000,CUST-0097,Customer 097,Yangon,Tamwe,Electronics,Monitor,5,394600,0.02,1933540,1500000,433540,Credit Card,Htet Htet,Completed
+ORD-00186,2026-07-06 00:00:00.000,CUST-0116,Customer 116,Bago,Pyay,Electronics,Laptop,4,1281100,0.1,4611960,3800000,811960,Bank Transfer,May Zin,Completed
+ORD-00187,2026-07-28 00:00:00.000,CUST-0062,Customer 062,Naypyidaw,Pyinmana,Office Supplies,Office Chair,6,252600,0.08,1394352,990000,404352,KBZ Pay,Min Min,Completed
+ORD-00188,2026-02-09 00:00:00.000,CUST-0242,Customer 242,Yangon,Tamwe,Office Supplies,Mouse,2,26600,0.05,50540,30000,20540,KBZ Pay,Thiri,Completed
+ORD-00189,2025-08-01 00:00:00.000,CUST-0183,Customer 183,Yangon,Yangon,Accessories,Power Bank,1,84400,0.05,80180,58000,22180,Credit Card,Thiri,Completed
+ORD-00190,2026-05-25 00:00:00.000,CUST-0042,Customer 042,Yangon,Mayangone,Electronics,Smartphone,3,637100,0.02,1873074,1410000,463074,Bank Transfer,Thiri,Completed
+ORD-00191,2025-04-15 00:00:00.000,CUST-0188,Customer 188,Yangon,Mayangone,Electronics,Laptop,2,1237500,0.02,2425500,1900000,525500,KBZ Pay,Nandar,Completed
+ORD-00192,2025-10-11 00:00:00.000,CUST-0069,Customer 069,Naypyidaw,Zabuthiri,Office Supplies,Keyboard,1,45800,0,45800,26000,19800,Wave Money,Nandar,Completed
+ORD-00193,2026-03-25 00:00:00.000,CUST-0133,Customer 133,Mandalay,Mandalay,Electronics,Monitor,3,430700,0.08,1188732,900000,288732,Cash,Htet Htet,Completed
+ORD-00194,2025-10-04 00:00:00.000,CUST-0186,Customer 186,Yangon,Tamwe,Electronics,Monitor,4,438500,0.08,1613680,1200000,413680,Wave Money,Thiri,Completed
+ORD-00195,2025-12-16 00:00:00.000,CUST-0194,Customer 194,Bago,Taungoo,Electronics,Headphones,4,101100,0.08,372048,220000,152048,Cash,May Zin,Completed
+ORD-00196,2026-07-15 00:00:00.000,CUST-0164,Customer 164,Yangon,Mayangone,Furniture,Desk,1,311500,0,0,0,0,Bank Transfer,Htet Htet,Cancelled
+ORD-00197,2026-05-03 00:00:00.000,CUST-0183,Customer 183,Yangon,Yangon,Office Supplies,Mouse,4,26500,0,106000,60000,46000,KBZ Pay,Aung Aung,Completed
+ORD-00198,2026-05-03 00:00:00.000,CUST-0120,Customer 120,Mandalay,Amarapura,Office Supplies,Keyboard,4,43100,0,172400,104000,68400,Cash,Thiri,Completed
+ORD-00199,2025-05-02 00:00:00.000,CUST-0224,Customer 224,Bago,Pyay,Accessories,Power Bank,1,90600,0.05,86070,58000,28070,Credit Card,Min Min,Completed
+ORD-00200,2025-09-13 00:00:00.000,CUST-0027,Customer 027,Mandalay,Chanmyathazi,Electronics,Headphones,5,98500,0,492500,275000,217500,Credit Card,Su Su,Completed
+ORD-00201,2026-04-08 00:00:00.000,CUST-0030,Customer 030,Mandalay,Mandalay,Office Supplies,Printer,5,394800,0.05,1875300,1400000,475300,Bank Transfer,May Zin,Completed
+ORD-00202,2025-04-18 00:00:00.000,CUST-0132,Customer 132,Naypyidaw,Naypyidaw,Electronics,Smartphone,2,599000,0.02,1174040,940000,234040,Cash,Nandar,Completed
+ORD-00203,2026-04-28 00:00:00.000,CUST-0169,Customer 169,Mandalay,Amarapura,Furniture,Desk,2,322000,0.08,592480,420000,172480,KBZ Pay,Nandar,Completed
+ORD-00204,2025-01-13 00:00:00.000,CUST-0121,Customer 121,Mandalay,Amarapura,Furniture,Bookshelf,6,189600,0,1137600,690000,447600,Bank Transfer,Htet Htet,Completed
+ORD-00205,2026-08-10 00:00:00.000,CUST-0138,Customer 138,Naypyidaw,Pyinmana,Electronics,Headphones,3,102500,0.02,301350,165000,136350,Credit Card,Nandar,Completed
+ORD-00206,2025-08-15 00:00:00.000,CUST-0173,Customer 173,Yangon,Hlaing,Office Supplies,Office Chair,7,220900,0.05,1468985,1155000,313985,Cash,Htet Htet,Completed
+ORD-00207,2025-09-30 00:00:00.000,CUST-0158,Customer 158,Mandalay,Mandalay,Office Supplies,Office Chair,5,243100,0.05,1154725,825000,329725,KBZ Pay,Su Su,Completed
+ORD-00208,2025-06-08 00:00:00.000,CUST-0159,Customer 159,Yangon,Tamwe,Office Supplies,Keyboard,3,41800,0.02,122892,78000,44892,Bank Transfer,Htet Htet,Completed
+ORD-00209,2025-01-19 00:00:00.000,CUST-0047,Customer 047,Mandalay,Amarapura,Electronics,Monitor,1,392400,0.02,384552,300000,84552,Wave Money,Min Min,Completed
+ORD-00210,2025-04-28 00:00:00.000,CUST-0103,Customer 103,Naypyidaw,Naypyidaw,Office Supplies,Office Chair,7,225300,0.05,1498245,1155000,343245,Wave Money,Aung Aung,Completed
+ORD-00211,2026-08-25 00:00:00.000,CUST-0198,Customer 198,Mandalay,Mandalay,Office Supplies,Keyboard,2,42600,0.08,78384,52000,26384,Bank Transfer,Aung Aung,Completed
+ORD-00212,2026-07-17 00:00:00.000,CUST-0074,Customer 074,Shan,Lashio,Accessories,Webcam,3,83300,0.05,237405,156000,81405,Bank Transfer,Nandar,Completed
+ORD-00213,2025-09-18 00:00:00.000,CUST-0182,Customer 182,Naypyidaw,Zabuthiri,Electronics,Monitor,7,419800,0.05,2791670,2100000,691670,Cash,Kyaw Kyaw,Completed
+ORD-00214,2025-12-30 00:00:00.000,CUST-0135,Customer 135,Yangon,Tamwe,Accessories,USB Drive,4,29500,0.02,115640,72000,43640,Credit Card,Min Min,Completed
+ORD-00215,2025-08-08 00:00:00.000,CUST-0228,Customer 228,Bago,Taungoo,Electronics,Smartphone,7,644800,0.08,4152512,3290000,862512,Bank Transfer,Nandar,Completed
+ORD-00216,2026-08-19 00:00:00.000,CUST-0160,Customer 160,Mandalay,Chanmyathazi,Electronics,Headphones,2,93600,0.02,-183456,-110000,-73456,KBZ Pay,Nandar,Returned
+ORD-00217,2025-07-22 00:00:00.000,CUST-0058,Customer 058,Shan,Muse,Accessories,USB Drive,2,33700,0.08,62008,36000,26008,Bank Transfer,Thiri,Completed
+ORD-00218,2025-03-23 00:00:00.000,CUST-0189,Customer 189,Yangon,Tamwe,Electronics,Headphones,1,94500,0.15,80325,55000,25325,Cash,Aung Aung,Completed
+ORD-00219,2025-06-10 00:00:00.000,CUST-0098,Customer 098,Yangon,Mayangone,Office Supplies,Printer,7,391200,0.05,0,0,0,Bank Transfer,Htet Htet,Cancelled
+ORD-00220,2025-02-12 00:00:00.000,CUST-0002,Customer 002,Yangon,Hlaing,Office Supplies,Keyboard,6,43000,0.1,232200,156000,76200,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00221,2025-04-22 00:00:00.000,CUST-0059,Customer 059,Yangon,Hlaing,Office Supplies,Office Chair,3,245800,0.05,700530,495000,205530,Credit Card,Su Su,Completed
+ORD-00222,2025-08-31 00:00:00.000,CUST-0079,Customer 079,Bago,Pyay,Accessories,Webcam,7,88500,0.08,569940,364000,205940,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00223,2026-08-27 00:00:00.000,CUST-0200,Customer 200,Yangon,Yangon,Office Supplies,Keyboard,4,47000,0,188000,104000,84000,Wave Money,Htet Htet,Completed
+ORD-00224,2025-04-07 00:00:00.000,CUST-0011,Customer 011,Yangon,Tamwe,Electronics,Headphones,7,99900,0.02,685314,385000,300314,Wave Money,Nandar,Completed
+ORD-00225,2025-09-25 00:00:00.000,CUST-0042,Customer 042,Mandalay,Mandalay,Office Supplies,Printer,7,388700,0,-2720900,-1960000,-760900,KBZ Pay,Htet Htet,Returned
+ORD-00226,2026-04-13 00:00:00.000,CUST-0220,Customer 220,Mandalay,Amarapura,Electronics,Monitor,5,447300,0.02,0,0,0,Cash,Aung Aung,Cancelled
+ORD-00227,2026-06-04 00:00:00.000,CUST-0046,Customer 046,Shan,Muse,Electronics,Smartphone,6,698600,0.1,3772440,2820000,952440,Wave Money,May Zin,Completed
+ORD-00228,2025-01-16 00:00:00.000,CUST-0247,Customer 247,Shan,Taunggyi,Accessories,USB Drive,6,32700,0,-196200,-108000,-88200,Wave Money,Nandar,Returned
+ORD-00229,2026-06-21 00:00:00.000,CUST-0009,Customer 009,Yangon,Mayangone,Furniture,Bookshelf,2,167900,0.08,308936,230000,78936,Bank Transfer,Htet Htet,Completed
+ORD-00230,2026-05-01 00:00:00.000,CUST-0214,Customer 214,Mandalay,Chanmyathazi,Furniture,Desk,3,329900,0.08,910524,630000,280524,KBZ Pay,Min Min,Completed
+ORD-00231,2026-08-11 00:00:00.000,CUST-0051,Customer 051,Yangon,Hlaing,Electronics,Headphones,2,88900,0.02,174244,110000,64244,Cash,May Zin,Completed
+ORD-00232,2025-12-04 00:00:00.000,CUST-0163,Customer 163,Naypyidaw,Naypyidaw,Office Supplies,Office Chair,6,249100,0.08,1375032,990000,385032,Wave Money,Aung Aung,Completed
+ORD-00233,2025-09-29 00:00:00.000,CUST-0004,Customer 004,Yangon,Tamwe,Furniture,Meeting Table,7,492300,0.08,0,0,0,Wave Money,Su Su,Cancelled
+ORD-00234,2025-05-23 00:00:00.000,CUST-0099,Customer 099,Yangon,Tamwe,Furniture,Desk,6,322900,0.1,1743660,1260000,483660,Cash,Htet Htet,Completed
+ORD-00235,2025-07-26 00:00:00.000,CUST-0245,Customer 245,Yangon,Yangon,Accessories,Laptop Bag,7,71000,0.02,487060,301000,186060,Credit Card,Nandar,Completed
+ORD-00236,2026-07-01 00:00:00.000,CUST-0083,Customer 083,Mandalay,Chanmyathazi,Electronics,Headphones,1,88000,0.08,-80960,-55000,-25960,Cash,Kyaw Kyaw,Returned
+ORD-00237,2026-03-02 00:00:00.000,CUST-0142,Customer 142,Naypyidaw,Naypyidaw,Accessories,Laptop Bag,1,72700,0.08,66884,43000,23884,Credit Card,Nandar,Completed
+ORD-00238,2026-03-13 00:00:00.000,CUST-0233,Customer 233,Mandalay,Mandalay,Electronics,Headphones,1,94500,0.02,92610,55000,37610,Wave Money,Min Min,Completed
+ORD-00239,2025-11-30 00:00:00.000,CUST-0062,Customer 062,Naypyidaw,Pyinmana,Accessories,Power Bank,2,92400,0.05,-175560,-116000,-59560,Bank Transfer,Aung Aung,Returned
+ORD-00240,2026-03-08 00:00:00.000,CUST-0195,Customer 195,Yangon,Tamwe,Electronics,Smartphone,2,657600,0.08,1209984,940000,269984,Bank Transfer,Htet Htet,Completed
+ORD-00241,2025-07-20 00:00:00.000,CUST-0147,Customer 147,Shan,Muse,Furniture,Desk,5,319600,0,-1598000,-1050000,-548000,Cash,Su Su,Returned
+ORD-00242,2026-08-28 00:00:00.000,CUST-0004,Customer 004,Yangon,Yangon,Office Supplies,Office Chair,1,247800,0.02,242844,165000,77844,Credit Card,Kyaw Kyaw,Completed
+ORD-00243,2025-03-17 00:00:00.000,CUST-0210,Customer 210,Mandalay,Amarapura,Electronics,Headphones,2,94600,0.15,160820,110000,50820,Cash,Aung Aung,Completed
+ORD-00244,2026-07-27 00:00:00.000,CUST-0168,Customer 168,Mandalay,Amarapura,Accessories,Laptop Bag,4,74600,0.05,283480,172000,111480,Wave Money,Kyaw Kyaw,Completed
+ORD-00245,2025-10-18 00:00:00.000,CUST-0097,Customer 097,Mandalay,Mandalay,Office Supplies,Keyboard,1,41500,0,41500,26000,15500,Credit Card,Su Su,Completed
+ORD-00246,2025-12-07 00:00:00.000,CUST-0088,Customer 088,Mandalay,Amarapura,Office Supplies,Keyboard,6,43400,0.08,239568,156000,83568,Cash,Thiri,Completed
+ORD-00247,2026-07-25 00:00:00.000,CUST-0001,Customer 001,Mandalay,Mandalay,Electronics,Headphones,3,88100,0.05,-251085,-165000,-86085,Bank Transfer,Nandar,Returned
+ORD-00248,2025-01-19 00:00:00.000,CUST-0091,Customer 091,Mandalay,Mandalay,Furniture,Desk,1,326100,0.15,277185,210000,67185,Cash,Kyaw Kyaw,Completed
+ORD-00249,2025-12-09 00:00:00.000,CUST-0082,Customer 082,Naypyidaw,Pyinmana,Electronics,Monitor,4,432500,0,1730000,1200000,530000,Credit Card,Thiri,Completed
+ORD-00250,2026-02-16 00:00:00.000,CUST-0202,Customer 202,Mandalay,Mandalay,Electronics,Smartphone,3,634900,0.15,1618995,1410000,208995,Cash,Su Su,Completed
+ORD-00251,2025-09-23 00:00:00.000,CUST-0093,Customer 093,Mandalay,Chanmyathazi,Accessories,USB Drive,7,33900,0.08,218316,126000,92316,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00252,2026-01-22 00:00:00.000,CUST-0101,Customer 101,Mandalay,Amarapura,Electronics,Smartphone,4,628700,0.05,2389060,1880000,509060,KBZ Pay,Thiri,Completed
+ORD-00253,2026-07-28 00:00:00.000,CUST-0099,Customer 099,Mandalay,Chanmyathazi,Office Supplies,Office Chair,1,223400,0.02,218932,165000,53932,Credit Card,Thiri,Completed
+ORD-00254,2026-01-10 00:00:00.000,CUST-0048,Customer 048,Mandalay,Amarapura,Furniture,Bookshelf,3,178600,0.05,509010,345000,164010,Wave Money,Nandar,Completed
+ORD-00255,2025-04-28 00:00:00.000,CUST-0047,Customer 047,Naypyidaw,Naypyidaw,Office Supplies,Keyboard,4,44500,0,-178000,-104000,-74000,Cash,Htet Htet,Returned
+ORD-00256,2025-07-21 00:00:00.000,CUST-0136,Customer 136,Naypyidaw,Pyinmana,Electronics,Monitor,3,413900,0.02,1216866,900000,316866,Bank Transfer,Su Su,Completed
+ORD-00257,2026-03-16 00:00:00.000,CUST-0075,Customer 075,Shan,Taunggyi,Electronics,Laptop,5,1344400,0.02,0,0,0,Wave Money,Thiri,Cancelled
+ORD-00258,2025-06-04 00:00:00.000,CUST-0229,Customer 229,Yangon,Tamwe,Office Supplies,Keyboard,3,41600,0.08,114816,78000,36816,KBZ Pay,Su Su,Completed
+ORD-00259,2025-05-05 00:00:00.000,CUST-0059,Customer 059,Yangon,Mayangone,Electronics,Monitor,6,426900,0.08,0,0,0,Bank Transfer,May Zin,Cancelled
+ORD-00260,2026-05-15 00:00:00.000,CUST-0123,Customer 123,Yangon,Mayangone,Electronics,Headphones,5,89700,0.05,426075,275000,151075,Bank Transfer,May Zin,Completed
+ORD-00261,2026-07-08 00:00:00.000,CUST-0243,Customer 243,Bago,Bago,Electronics,Laptop,5,1218500,0.02,0,0,0,Credit Card,Aung Aung,Cancelled
+ORD-00262,2026-08-27 00:00:00.000,CUST-0082,Customer 082,Mandalay,Mandalay,Office Supplies,Mouse,2,28000,0.05,0,0,0,Credit Card,Nandar,Cancelled
+ORD-00263,2025-08-02 00:00:00.000,CUST-0064,Customer 064,Mandalay,Amarapura,Office Supplies,Mouse,5,26400,0.1,118800,75000,43800,Wave Money,Min Min,Completed
+ORD-00264,2025-04-27 00:00:00.000,CUST-0184,Customer 184,Mandalay,Amarapura,Office Supplies,Office Chair,6,225800,0.08,1246416,990000,256416,Cash,Htet Htet,Completed
+ORD-00265,2026-07-12 00:00:00.000,CUST-0228,Customer 228,Yangon,Hlaing,Electronics,Monitor,2,452300,0.05,-859370,-600000,-259370,KBZ Pay,Kyaw Kyaw,Returned
+ORD-00266,2026-08-10 00:00:00.000,CUST-0206,Customer 206,Yangon,Mayangone,Office Supplies,Mouse,3,29900,0.02,87906,45000,42906,Bank Transfer,Min Min,Completed
+ORD-00267,2025-03-23 00:00:00.000,CUST-0081,Customer 081,Mandalay,Chanmyathazi,Furniture,Meeting Table,5,518000,0.15,2201500,1825000,376500,Bank Transfer,Aung Aung,Completed
+ORD-00268,2025-05-27 00:00:00.000,CUST-0214,Customer 214,Yangon,Tamwe,Office Supplies,Printer,7,387700,0.1,2442510,1960000,482510,Bank Transfer,Min Min,Completed
+ORD-00269,2026-07-20 00:00:00.000,CUST-0019,Customer 019,Mandalay,Amarapura,Office Supplies,Office Chair,2,233600,0.08,429824,330000,99824,Wave Money,Su Su,Completed
+ORD-00270,2025-09-21 00:00:00.000,CUST-0232,Customer 232,Shan,Muse,Electronics,Monitor,1,409400,0.05,388930,300000,88930,Bank Transfer,Nandar,Completed
+ORD-00271,2025-07-07 00:00:00.000,CUST-0158,Customer 158,Naypyidaw,Pyinmana,Accessories,Laptop Bag,2,70300,0.02,137788,86000,51788,Credit Card,May Zin,Completed
+ORD-00272,2025-12-24 00:00:00.000,CUST-0102,Customer 102,Yangon,Mayangone,Electronics,Headphones,5,101800,0,0,0,0,Wave Money,Nandar,Cancelled
+ORD-00273,2025-03-07 00:00:00.000,CUST-0034,Customer 034,Yangon,Tamwe,Furniture,Bookshelf,4,169800,0.08,624864,460000,164864,Credit Card,May Zin,Completed
+ORD-00274,2026-03-27 00:00:00.000,CUST-0233,Customer 233,Bago,Taungoo,Electronics,Monitor,3,387900,0.05,1105515,900000,205515,Cash,Kyaw Kyaw,Completed
+ORD-00275,2026-03-13 00:00:00.000,CUST-0010,Customer 010,Yangon,Tamwe,Office Supplies,Printer,1,357100,0.1,321390,280000,41390,KBZ Pay,Htet Htet,Completed
+ORD-00276,2026-04-01 00:00:00.000,CUST-0205,Customer 205,Mandalay,Amarapura,Electronics,Headphones,6,99900,0.08,551448,330000,221448,Credit Card,Min Min,Completed
+ORD-00277,2026-04-16 00:00:00.000,CUST-0079,Customer 079,Naypyidaw,Pyinmana,Electronics,Smartphone,2,683700,0.08,1258008,940000,318008,Cash,Aung Aung,Completed
+ORD-00278,2025-08-29 00:00:00.000,CUST-0172,Customer 172,Mandalay,Amarapura,Furniture,Bookshelf,6,191400,0.05,1090980,690000,400980,Bank Transfer,Aung Aung,Completed
+ORD-00279,2025-06-06 00:00:00.000,CUST-0141,Customer 141,Shan,Taunggyi,Office Supplies,Mouse,1,29500,0.02,28910,15000,13910,Wave Money,Min Min,Completed
+ORD-00280,2025-06-26 00:00:00.000,CUST-0217,Customer 217,Yangon,Mayangone,Accessories,USB Drive,1,33000,0.05,31350,18000,13350,Wave Money,Nandar,Completed
+ORD-00281,2025-06-24 00:00:00.000,CUST-0094,Customer 094,Yangon,Yangon,Accessories,USB Drive,1,30900,0,30900,18000,12900,Cash,Aung Aung,Completed
+ORD-00282,2026-06-17 00:00:00.000,CUST-0099,Customer 099,Mandalay,Chanmyathazi,Office Supplies,Keyboard,1,44000,0.15,37400,26000,11400,Cash,May Zin,Completed
+ORD-00283,2026-05-11 00:00:00.000,CUST-0031,Customer 031,Yangon,Hlaing,Furniture,Desk,4,327800,0,1311200,840000,471200,Credit Card,Su Su,Completed
+ORD-00284,2026-06-12 00:00:00.000,CUST-0137,Customer 137,Yangon,Hlaing,Office Supplies,Office Chair,6,229100,0.08,1264632,990000,274632,KBZ Pay,Nandar,Completed
+ORD-00285,2025-09-20 00:00:00.000,CUST-0021,Customer 021,Yangon,Tamwe,Electronics,Headphones,4,93400,0.08,343712,220000,123712,Credit Card,Htet Htet,Completed
+ORD-00286,2025-08-23 00:00:00.000,CUST-0165,Customer 165,Yangon,Yangon,Furniture,Bookshelf,2,181300,0,362600,230000,132600,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00287,2026-02-02 00:00:00.000,CUST-0228,Customer 228,Mandalay,Mandalay,Furniture,Bookshelf,1,191700,0.02,187866,115000,72866,Cash,Su Su,Completed
+ORD-00288,2025-07-07 00:00:00.000,CUST-0170,Customer 170,Yangon,Yangon,Electronics,Headphones,7,90700,0,634900,385000,249900,Bank Transfer,Min Min,Completed
+ORD-00289,2025-06-24 00:00:00.000,CUST-0126,Customer 126,Bago,Taungoo,Electronics,Monitor,5,409400,0.08,1883240,1500000,383240,Cash,Htet Htet,Completed
+ORD-00290,2026-06-12 00:00:00.000,CUST-0215,Customer 215,Mandalay,Mandalay,Office Supplies,Mouse,4,29600,0,-118400,-60000,-58400,Cash,Aung Aung,Returned
+ORD-00291,2026-05-19 00:00:00.000,CUST-0079,Customer 079,Mandalay,Amarapura,Electronics,Headphones,3,98200,0.15,250410,165000,85410,Bank Transfer,Htet Htet,Completed
+ORD-00292,2026-04-16 00:00:00.000,CUST-0022,Customer 022,Naypyidaw,Zabuthiri,Accessories,Laptop Bag,5,75400,0.08,346840,215000,131840,Credit Card,Aung Aung,Completed
+ORD-00293,2026-06-13 00:00:00.000,CUST-0181,Customer 181,Yangon,Mayangone,Office Supplies,Printer,2,401100,0.02,786156,560000,226156,Bank Transfer,Nandar,Completed
+ORD-00294,2025-12-26 00:00:00.000,CUST-0057,Customer 057,Shan,Muse,Furniture,Meeting Table,1,507100,0.1,456390,365000,91390,Credit Card,May Zin,Completed
+ORD-00295,2025-06-08 00:00:00.000,CUST-0178,Customer 178,Naypyidaw,Zabuthiri,Furniture,Bookshelf,5,179900,0.02,881510,575000,306510,Cash,Kyaw Kyaw,Completed
+ORD-00296,2025-01-15 00:00:00.000,CUST-0046,Customer 046,Yangon,Hlaing,Furniture,Desk,6,298800,0.08,1649376,1260000,389376,KBZ Pay,Thiri,Completed
+ORD-00297,2025-08-11 00:00:00.000,CUST-0077,Customer 077,Yangon,Hlaing,Accessories,Power Bank,4,95700,0.08,352176,232000,120176,Wave Money,Su Su,Completed
+ORD-00298,2026-06-07 00:00:00.000,CUST-0190,Customer 190,Yangon,Mayangone,Accessories,Power Bank,4,96500,0.15,328100,232000,96100,KBZ Pay,Aung Aung,Completed
+ORD-00299,2025-11-28 00:00:00.000,CUST-0115,Customer 115,Yangon,Yangon,Accessories,Laptop Bag,7,71600,0,501200,301000,200200,Credit Card,Thiri,Completed
+ORD-00300,2026-07-25 00:00:00.000,CUST-0239,Customer 239,Yangon,Yangon,Accessories,USB Drive,2,34400,0.02,67424,36000,31424,Credit Card,Kyaw Kyaw,Completed
+ORD-00301,2026-03-03 00:00:00.000,CUST-0101,Customer 101,Naypyidaw,Pyinmana,Accessories,Webcam,6,89800,0.05,511860,312000,199860,Credit Card,Htet Htet,Completed
+ORD-00302,2026-05-27 00:00:00.000,CUST-0022,Customer 022,Mandalay,Chanmyathazi,Office Supplies,Office Chair,2,233200,0.1,419760,330000,89760,Wave Money,Thiri,Completed
+ORD-00303,2025-06-04 00:00:00.000,CUST-0243,Customer 243,Yangon,Tamwe,Accessories,USB Drive,2,34100,0,0,0,0,KBZ Pay,Aung Aung,Cancelled
+ORD-00304,2026-08-24 00:00:00.000,CUST-0206,Customer 206,Bago,Bago,Office Supplies,Office Chair,5,222100,0,1110500,825000,285500,KBZ Pay,Aung Aung,Completed
+ORD-00305,2025-10-01 00:00:00.000,CUST-0148,Customer 148,Shan,Taunggyi,Office Supplies,Mouse,2,28700,0.02,56252,30000,26252,Bank Transfer,Htet Htet,Completed
+ORD-00306,2025-09-23 00:00:00.000,CUST-0068,Customer 068,Bago,Bago,Electronics,Smartphone,1,616200,0.1,554580,470000,84580,Bank Transfer,Thiri,Completed
+ORD-00307,2025-09-13 00:00:00.000,CUST-0040,Customer 040,Mandalay,Chanmyathazi,Office Supplies,Office Chair,2,253000,0,506000,330000,176000,KBZ Pay,Thiri,Completed
+ORD-00308,2026-02-09 00:00:00.000,CUST-0112,Customer 112,Bago,Pyay,Office Supplies,Mouse,2,26700,0.05,50730,30000,20730,Wave Money,May Zin,Completed
+ORD-00309,2026-07-12 00:00:00.000,CUST-0040,Customer 040,Yangon,Yangon,Office Supplies,Keyboard,7,47700,0.05,317205,182000,135205,Wave Money,May Zin,Completed
+ORD-00310,2025-07-08 00:00:00.000,CUST-0023,Customer 023,Naypyidaw,Naypyidaw,Furniture,Bookshelf,4,170000,0.1,612000,460000,152000,Credit Card,Thiri,Completed
+ORD-00311,2026-08-04 00:00:00.000,CUST-0168,Customer 168,Yangon,Yangon,Furniture,Desk,5,305900,0.05,1453025,1050000,403025,KBZ Pay,May Zin,Completed
+ORD-00312,2025-03-26 00:00:00.000,CUST-0239,Customer 239,Yangon,Tamwe,Accessories,Webcam,7,80800,0.02,554288,364000,190288,Credit Card,Aung Aung,Completed
+ORD-00313,2025-12-09 00:00:00.000,CUST-0039,Customer 039,Mandalay,Amarapura,Electronics,Laptop,3,1204300,0,3612900,2850000,762900,Credit Card,Nandar,Completed
+ORD-00314,2026-05-19 00:00:00.000,CUST-0009,Customer 009,Bago,Taungoo,Office Supplies,Printer,3,374800,0.08,1034448,840000,194448,KBZ Pay,Aung Aung,Completed
+ORD-00315,2026-04-25 00:00:00.000,CUST-0065,Customer 065,Yangon,Yangon,Office Supplies,Office Chair,4,245100,0,980400,660000,320400,Cash,May Zin,Completed
+ORD-00316,2026-07-17 00:00:00.000,CUST-0167,Customer 167,Yangon,Yangon,Office Supplies,Keyboard,7,46500,0.05,-309225,-182000,-127225,KBZ Pay,Thiri,Returned
+ORD-00317,2025-11-09 00:00:00.000,CUST-0063,Customer 063,Yangon,Tamwe,Electronics,Laptop,5,1192700,0.08,5486420,4750000,736420,Cash,Aung Aung,Completed
+ORD-00318,2025-03-17 00:00:00.000,CUST-0146,Customer 146,Naypyidaw,Naypyidaw,Accessories,USB Drive,1,31400,0,31400,18000,13400,Credit Card,Aung Aung,Completed
+ORD-00319,2025-02-12 00:00:00.000,CUST-0134,Customer 134,Bago,Taungoo,Furniture,Bookshelf,2,178200,0.02,349272,230000,119272,Wave Money,Aung Aung,Completed
+ORD-00320,2025-06-17 00:00:00.000,CUST-0204,Customer 204,Yangon,Yangon,Electronics,Headphones,6,89200,0.15,454920,330000,124920,Wave Money,Nandar,Completed
+ORD-00321,2026-07-09 00:00:00.000,CUST-0114,Customer 114,Bago,Pyay,Electronics,Monitor,2,445000,0.08,818800,600000,218800,Wave Money,Nandar,Completed
+ORD-00322,2026-08-18 00:00:00.000,CUST-0005,Customer 005,Naypyidaw,Naypyidaw,Office Supplies,Keyboard,5,43600,0.02,213640,130000,83640,Cash,Aung Aung,Completed
+ORD-00323,2025-03-10 00:00:00.000,CUST-0033,Customer 033,Yangon,Tamwe,Office Supplies,Keyboard,1,46300,0.02,45374,26000,19374,Credit Card,Thiri,Completed
+ORD-00324,2025-03-25 00:00:00.000,CUST-0063,Customer 063,Naypyidaw,Pyinmana,Electronics,Monitor,3,439200,0.05,0,0,0,KBZ Pay,Su Su,Cancelled
+ORD-00325,2025-12-27 00:00:00.000,CUST-0197,Customer 197,Shan,Lashio,Office Supplies,Keyboard,1,42100,0.05,0,0,0,Cash,Su Su,Cancelled
+ORD-00326,2026-04-19 00:00:00.000,CUST-0124,Customer 124,Mandalay,Mandalay,Electronics,Headphones,7,91400,0,639800,385000,254800,KBZ Pay,Nandar,Completed
+ORD-00327,2026-08-09 00:00:00.000,CUST-0108,Customer 108,Naypyidaw,Zabuthiri,Office Supplies,Mouse,3,26100,0.15,66555,45000,21555,Credit Card,Min Min,Completed
+ORD-00328,2026-08-19 00:00:00.000,CUST-0096,Customer 096,Yangon,Hlaing,Electronics,Smartphone,6,698400,0.02,4106592,2820000,1286592,Cash,Nandar,Completed
+ORD-00329,2025-11-22 00:00:00.000,CUST-0079,Customer 079,Yangon,Mayangone,Electronics,Smartphone,5,616100,0,3080500,2350000,730500,Bank Transfer,Min Min,Completed
+ORD-00330,2026-07-14 00:00:00.000,CUST-0007,Customer 007,Yangon,Mayangone,Office Supplies,Keyboard,6,46300,0.05,263910,156000,107910,Credit Card,Aung Aung,Completed
+ORD-00331,2025-05-17 00:00:00.000,CUST-0074,Customer 074,Mandalay,Mandalay,Electronics,Laptop,5,1273400,0.08,5857640,4750000,1107640,Cash,Su Su,Completed
+ORD-00332,2025-02-23 00:00:00.000,CUST-0155,Customer 155,Yangon,Mayangone,Furniture,Meeting Table,1,514500,0.02,504210,365000,139210,Cash,Su Su,Completed
+ORD-00333,2025-09-05 00:00:00.000,CUST-0047,Customer 047,Yangon,Tamwe,Office Supplies,Keyboard,2,46500,0,93000,52000,41000,Credit Card,Nandar,Completed
+ORD-00334,2026-07-29 00:00:00.000,CUST-0161,Customer 161,Yangon,Hlaing,Electronics,Headphones,2,88400,0.05,167960,110000,57960,KBZ Pay,Min Min,Completed
+ORD-00335,2026-06-12 00:00:00.000,CUST-0202,Customer 202,Yangon,Mayangone,Electronics,Smartphone,6,637900,0.05,3636030,2820000,816030,Wave Money,Kyaw Kyaw,Completed
+ORD-00336,2026-08-26 00:00:00.000,CUST-0028,Customer 028,Mandalay,Chanmyathazi,Furniture,Desk,1,295400,0.08,271768,210000,61768,Credit Card,Aung Aung,Completed
+ORD-00337,2026-07-03 00:00:00.000,CUST-0114,Customer 114,Naypyidaw,Pyinmana,Office Supplies,Printer,2,364700,0.08,671048,560000,111048,Credit Card,Htet Htet,Completed
+ORD-00338,2026-07-03 00:00:00.000,CUST-0107,Customer 107,Bago,Taungoo,Furniture,Bookshelf,3,182800,0,548400,345000,203400,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00339,2025-03-29 00:00:00.000,CUST-0240,Customer 240,Shan,Muse,Electronics,Monitor,6,387200,0.05,-2207040,-1800000,-407040,Bank Transfer,Thiri,Returned
+ORD-00340,2025-01-21 00:00:00.000,CUST-0056,Customer 056,Naypyidaw,Pyinmana,Furniture,Meeting Table,3,545400,0,-1636200,-1095000,-541200,Wave Money,Su Su,Returned
+ORD-00341,2026-06-19 00:00:00.000,CUST-0036,Customer 036,Yangon,Yangon,Office Supplies,Office Chair,1,252600,0,252600,165000,87600,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00342,2025-06-26 00:00:00.000,CUST-0118,Customer 118,Mandalay,Chanmyathazi,Electronics,Laptop,5,1330700,0,6653500,4750000,1903500,Cash,Thiri,Completed
+ORD-00343,2026-03-02 00:00:00.000,CUST-0160,Customer 160,Shan,Muse,Office Supplies,Keyboard,1,41500,0.02,40670,26000,14670,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00344,2026-01-07 00:00:00.000,CUST-0158,Customer 158,Yangon,Tamwe,Office Supplies,Mouse,5,29000,0.08,133400,75000,58400,Cash,Aung Aung,Completed
+ORD-00345,2025-08-23 00:00:00.000,CUST-0011,Customer 011,Naypyidaw,Pyinmana,Electronics,Smartphone,7,609000,0.02,4177740,3290000,887740,Credit Card,Kyaw Kyaw,Completed
+ORD-00346,2025-09-04 00:00:00.000,CUST-0190,Customer 190,Yangon,Tamwe,Electronics,Monitor,6,450900,0.05,2570130,1800000,770130,Cash,Aung Aung,Completed
+ORD-00347,2025-01-19 00:00:00.000,CUST-0176,Customer 176,Naypyidaw,Pyinmana,Furniture,Desk,2,301400,0.05,572660,420000,152660,Bank Transfer,May Zin,Completed
+ORD-00348,2025-07-24 00:00:00.000,CUST-0026,Customer 026,Naypyidaw,Naypyidaw,Electronics,Laptop,7,1178600,0.08,7590184,6650000,940184,Bank Transfer,Aung Aung,Completed
+ORD-00349,2026-03-27 00:00:00.000,CUST-0207,Customer 207,Yangon,Yangon,Accessories,USB Drive,1,32600,0.1,29340,18000,11340,Wave Money,Thiri,Completed
+ORD-00350,2026-02-20 00:00:00.000,CUST-0179,Customer 179,Naypyidaw,Naypyidaw,Furniture,Desk,1,308300,0.1,277470,210000,67470,Credit Card,Kyaw Kyaw,Completed
+ORD-00351,2025-07-18 00:00:00.000,CUST-0232,Customer 232,Mandalay,Chanmyathazi,Furniture,Desk,5,309200,0,1546000,1050000,496000,Cash,Su Su,Completed
+ORD-00352,2026-03-11 00:00:00.000,CUST-0116,Customer 116,Yangon,Hlaing,Electronics,Smartphone,6,638500,0.05,0,0,0,Credit Card,Aung Aung,Cancelled
+ORD-00353,2025-02-18 00:00:00.000,CUST-0083,Customer 083,Yangon,Hlaing,Office Supplies,Keyboard,7,43100,0.15,256445,182000,74445,Wave Money,Min Min,Completed
+ORD-00354,2025-07-25 00:00:00.000,CUST-0158,Customer 158,Yangon,Tamwe,Furniture,Meeting Table,4,538500,0.08,1981680,1460000,521680,Wave Money,Min Min,Completed
+ORD-00355,2025-03-03 00:00:00.000,CUST-0250,Customer 250,Bago,Bago,Electronics,Headphones,2,99100,0.05,188290,110000,78290,Cash,Su Su,Completed
+ORD-00356,2026-01-03 00:00:00.000,CUST-0009,Customer 009,Naypyidaw,Pyinmana,Furniture,Desk,3,318500,0.05,907725,630000,277725,Credit Card,May Zin,Completed
+ORD-00357,2025-08-08 00:00:00.000,CUST-0245,Customer 245,Yangon,Hlaing,Accessories,Laptop Bag,7,76200,0.08,-490728,-301000,-189728,Bank Transfer,Kyaw Kyaw,Returned
+ORD-00358,2026-07-28 00:00:00.000,CUST-0187,Customer 187,Yangon,Hlaing,Office Supplies,Mouse,6,27500,0.05,156750,90000,66750,Bank Transfer,Su Su,Completed
+ORD-00359,2025-10-27 00:00:00.000,CUST-0128,Customer 128,Naypyidaw,Naypyidaw,Office Supplies,Keyboard,4,44600,0.05,0,0,0,Cash,Kyaw Kyaw,Cancelled
+ORD-00360,2026-05-20 00:00:00.000,CUST-0155,Customer 155,Yangon,Hlaing,Furniture,Desk,1,311400,0.08,286488,210000,76488,Bank Transfer,Htet Htet,Completed
+ORD-00361,2026-08-09 00:00:00.000,CUST-0161,Customer 161,Naypyidaw,Pyinmana,Furniture,Meeting Table,7,494000,0,3458000,2555000,903000,Credit Card,Htet Htet,Completed
+ORD-00362,2026-01-27 00:00:00.000,CUST-0176,Customer 176,Yangon,Tamwe,Electronics,Laptop,5,1327700,0.08,6107420,4750000,1357420,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00363,2025-08-05 00:00:00.000,CUST-0225,Customer 225,Shan,Muse,Office Supplies,Mouse,5,27700,0.08,127420,75000,52420,Wave Money,Kyaw Kyaw,Completed
+ORD-00364,2026-07-04 00:00:00.000,CUST-0163,Customer 163,Yangon,Mayangone,Accessories,USB Drive,7,33500,0.08,215740,126000,89740,Wave Money,May Zin,Completed
+ORD-00365,2026-02-04 00:00:00.000,CUST-0048,Customer 048,Mandalay,Mandalay,Accessories,Laptop Bag,3,79200,0.05,225720,129000,96720,Credit Card,Thiri,Completed
+ORD-00366,2026-08-21 00:00:00.000,CUST-0003,Customer 003,Yangon,Hlaing,Accessories,USB Drive,4,29600,0.1,106560,72000,34560,Wave Money,Nandar,Completed
+ORD-00367,2025-05-05 00:00:00.000,CUST-0020,Customer 020,Mandalay,Mandalay,Electronics,Laptop,7,1296600,0.08,8350104,6650000,1700104,Cash,Nandar,Completed
+ORD-00368,2025-07-30 00:00:00.000,CUST-0050,Customer 050,Bago,Pyay,Accessories,Laptop Bag,4,75300,0,0,0,0,Credit Card,Htet Htet,Cancelled
+ORD-00369,2025-04-23 00:00:00.000,CUST-0021,Customer 021,Mandalay,Amarapura,Office Supplies,Mouse,3,29500,0.02,-86730,-45000,-41730,Wave Money,Htet Htet,Returned
+ORD-00370,2025-12-09 00:00:00.000,CUST-0143,Customer 143,Naypyidaw,Pyinmana,Accessories,Webcam,2,85700,0.08,157688,104000,53688,Cash,Nandar,Completed
+ORD-00371,2026-02-10 00:00:00.000,CUST-0043,Customer 043,Mandalay,Chanmyathazi,Office Supplies,Keyboard,6,41800,0.08,230736,156000,74736,Wave Money,May Zin,Completed
+ORD-00372,2025-10-23 00:00:00.000,CUST-0036,Customer 036,Bago,Taungoo,Accessories,Power Bank,2,88600,0,177200,116000,61200,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00373,2026-06-22 00:00:00.000,CUST-0183,Customer 183,Naypyidaw,Pyinmana,Electronics,Headphones,5,93800,0,469000,275000,194000,Credit Card,Nandar,Completed
+ORD-00374,2026-06-03 00:00:00.000,CUST-0179,Customer 179,Mandalay,Chanmyathazi,Accessories,Power Bank,3,93400,0.02,274596,174000,100596,Wave Money,Htet Htet,Completed
+ORD-00375,2025-08-22 00:00:00.000,CUST-0119,Customer 119,Naypyidaw,Pyinmana,Accessories,Power Bank,7,95000,0,665000,406000,259000,Bank Transfer,Htet Htet,Completed
+ORD-00376,2025-03-05 00:00:00.000,CUST-0050,Customer 050,Shan,Taunggyi,Electronics,Monitor,2,391200,0,782400,600000,182400,Credit Card,Kyaw Kyaw,Completed
+ORD-00377,2026-07-18 00:00:00.000,CUST-0094,Customer 094,Mandalay,Chanmyathazi,Accessories,USB Drive,4,30900,0.08,113712,72000,41712,Bank Transfer,Nandar,Completed
+ORD-00378,2025-03-01 00:00:00.000,CUST-0031,Customer 031,Bago,Bago,Office Supplies,Printer,4,362400,0.08,1333632,1120000,213632,KBZ Pay,May Zin,Completed
+ORD-00379,2025-01-11 00:00:00.000,CUST-0190,Customer 190,Mandalay,Amarapura,Electronics,Smartphone,2,650600,0,1301200,940000,361200,Credit Card,May Zin,Completed
+ORD-00380,2025-05-25 00:00:00.000,CUST-0089,Customer 089,Mandalay,Chanmyathazi,Electronics,Laptop,7,1161400,0.05,7723310,6650000,1073310,Bank Transfer,Nandar,Completed
+ORD-00381,2026-06-14 00:00:00.000,CUST-0040,Customer 040,Naypyidaw,Naypyidaw,Accessories,Laptop Bag,7,75500,0.1,0,0,0,Cash,Htet Htet,Cancelled
+ORD-00382,2025-08-06 00:00:00.000,CUST-0227,Customer 227,Yangon,Hlaing,Office Supplies,Printer,7,383600,0.08,2470384,1960000,510384,Cash,Nandar,Completed
+ORD-00383,2025-01-18 00:00:00.000,CUST-0077,Customer 077,Yangon,Tamwe,Office Supplies,Printer,6,404500,0.1,2184300,1680000,504300,Wave Money,Aung Aung,Completed
+ORD-00384,2025-07-07 00:00:00.000,CUST-0053,Customer 053,Mandalay,Chanmyathazi,Office Supplies,Office Chair,7,256600,0.08,1652504,1155000,497504,Credit Card,Kyaw Kyaw,Completed
+ORD-00385,2026-03-27 00:00:00.000,CUST-0006,Customer 006,Yangon,Yangon,Office Supplies,Office Chair,6,244000,0.05,1390800,990000,400800,Cash,Kyaw Kyaw,Completed
+ORD-00386,2026-06-28 00:00:00.000,CUST-0089,Customer 089,Bago,Pyay,Accessories,Power Bank,1,93300,0.05,88635,58000,30635,Credit Card,May Zin,Completed
+ORD-00387,2025-10-14 00:00:00.000,CUST-0020,Customer 020,Yangon,Hlaing,Office Supplies,Mouse,6,29100,0.05,165870,90000,75870,Cash,Htet Htet,Completed
+ORD-00388,2025-12-03 00:00:00.000,CUST-0218,Customer 218,Yangon,Yangon,Office Supplies,Printer,1,367500,0.02,-360150,-280000,-80150,Wave Money,May Zin,Returned
+ORD-00389,2025-08-17 00:00:00.000,CUST-0096,Customer 096,Mandalay,Mandalay,Furniture,Meeting Table,2,541700,0.05,1029230,730000,299230,Bank Transfer,Su Su,Completed
+ORD-00390,2025-08-26 00:00:00.000,CUST-0180,Customer 180,Bago,Bago,Furniture,Bookshelf,5,166900,0.05,792775,575000,217775,Cash,Su Su,Completed
+ORD-00391,2025-12-30 00:00:00.000,CUST-0227,Customer 227,Mandalay,Chanmyathazi,Office Supplies,Keyboard,1,47500,0.1,0,0,0,Credit Card,Min Min,Cancelled
+ORD-00392,2025-04-08 00:00:00.000,CUST-0065,Customer 065,Yangon,Mayangone,Electronics,Laptop,5,1172300,0.05,5568425,4750000,818425,Credit Card,Min Min,Completed
+ORD-00393,2025-08-20 00:00:00.000,CUST-0168,Customer 168,Yangon,Tamwe,Furniture,Meeting Table,7,542700,0.02,3722922,2555000,1167922,Bank Transfer,May Zin,Completed
+ORD-00394,2026-07-22 00:00:00.000,CUST-0088,Customer 088,Yangon,Hlaing,Electronics,Laptop,3,1254900,0.08,3463524,2850000,613524,Wave Money,Aung Aung,Completed
+ORD-00395,2025-05-29 00:00:00.000,CUST-0194,Customer 194,Shan,Muse,Electronics,Monitor,4,426500,0.08,1569520,1200000,369520,Credit Card,Kyaw Kyaw,Completed
+ORD-00396,2025-04-29 00:00:00.000,CUST-0228,Customer 228,Mandalay,Amarapura,Electronics,Monitor,4,451100,0,1804400,1200000,604400,Cash,May Zin,Completed
+ORD-00397,2026-05-09 00:00:00.000,CUST-0191,Customer 191,Bago,Pyay,Electronics,Headphones,3,100300,0,0,0,0,Cash,Htet Htet,Cancelled
+ORD-00398,2026-04-17 00:00:00.000,CUST-0025,Customer 025,Yangon,Mayangone,Electronics,Monitor,1,402500,0.08,370300,300000,70300,Bank Transfer,May Zin,Completed
+ORD-00399,2026-08-02 00:00:00.000,CUST-0195,Customer 195,Yangon,Hlaing,Electronics,Laptop,2,1279500,0.02,2507820,1900000,607820,Bank Transfer,Su Su,Completed
+ORD-00400,2025-10-10 00:00:00.000,CUST-0084,Customer 084,Yangon,Tamwe,Office Supplies,Printer,5,364800,0.08,1678080,1400000,278080,KBZ Pay,Htet Htet,Completed
+ORD-00401,2026-04-16 00:00:00.000,CUST-0084,Customer 084,Yangon,Mayangone,Furniture,Desk,6,294700,0,1768200,1260000,508200,Cash,Aung Aung,Completed
+ORD-00402,2026-04-14 00:00:00.000,CUST-0021,Customer 021,Naypyidaw,Naypyidaw,Electronics,Laptop,7,1340000,0,9380000,6650000,2730000,Cash,Nandar,Completed
+ORD-00403,2025-03-11 00:00:00.000,CUST-0040,Customer 040,Shan,Muse,Electronics,Monitor,2,393500,0.1,708300,600000,108300,Wave Money,Su Su,Completed
+ORD-00404,2025-05-18 00:00:00.000,CUST-0056,Customer 056,Yangon,Yangon,Electronics,Monitor,5,438800,0,2194000,1500000,694000,Bank Transfer,Min Min,Completed
+ORD-00405,2025-08-25 00:00:00.000,CUST-0108,Customer 108,Mandalay,Mandalay,Electronics,Headphones,2,98600,0,197200,110000,87200,Credit Card,Htet Htet,Completed
+ORD-00406,2026-08-25 00:00:00.000,CUST-0213,Customer 213,Bago,Pyay,Office Supplies,Printer,6,375400,0.08,2072208,1680000,392208,KBZ Pay,Nandar,Completed
+ORD-00407,2026-05-10 00:00:00.000,CUST-0249,Customer 249,Yangon,Tamwe,Electronics,Headphones,1,94400,0.02,92512,55000,37512,Cash,May Zin,Completed
+ORD-00408,2026-05-05 00:00:00.000,CUST-0017,Customer 017,Yangon,Yangon,Furniture,Bookshelf,6,191400,0.08,1056528,690000,366528,Cash,Kyaw Kyaw,Completed
+ORD-00409,2026-08-25 00:00:00.000,CUST-0143,Customer 143,Yangon,Hlaing,Office Supplies,Keyboard,5,47500,0.02,232750,130000,102750,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00410,2026-05-24 00:00:00.000,CUST-0162,Customer 162,Yangon,Yangon,Electronics,Headphones,3,87700,0.08,242052,165000,77052,Cash,Su Su,Completed
+ORD-00411,2025-01-05 00:00:00.000,CUST-0135,Customer 135,Yangon,Hlaing,Electronics,Headphones,2,102200,0.05,194180,110000,84180,Bank Transfer,Nandar,Completed
+ORD-00412,2026-07-10 00:00:00.000,CUST-0160,Customer 160,Yangon,Tamwe,Furniture,Meeting Table,4,536100,0.05,2037180,1460000,577180,Wave Money,Su Su,Completed
+ORD-00413,2026-03-08 00:00:00.000,CUST-0198,Customer 198,Yangon,Mayangone,Office Supplies,Printer,7,365100,0,2555700,1960000,595700,Bank Transfer,Su Su,Completed
+ORD-00414,2025-05-08 00:00:00.000,CUST-0028,Customer 028,Naypyidaw,Pyinmana,Office Supplies,Office Chair,3,221900,0.1,599130,495000,104130,KBZ Pay,Nandar,Completed
+ORD-00415,2025-08-25 00:00:00.000,CUST-0115,Customer 115,Naypyidaw,Pyinmana,Electronics,Headphones,7,98500,0.15,586075,385000,201075,Credit Card,May Zin,Completed
+ORD-00416,2025-05-05 00:00:00.000,CUST-0171,Customer 171,Naypyidaw,Pyinmana,Electronics,Smartphone,2,602500,0.08,1108600,940000,168600,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00417,2025-06-22 00:00:00.000,CUST-0146,Customer 146,Naypyidaw,Zabuthiri,Office Supplies,Keyboard,5,44500,0.02,-218050,-130000,-88050,KBZ Pay,May Zin,Returned
+ORD-00418,2026-02-28 00:00:00.000,CUST-0043,Customer 043,Mandalay,Mandalay,Electronics,Headphones,6,92300,0,553800,330000,223800,Wave Money,Aung Aung,Completed
+ORD-00419,2025-04-06 00:00:00.000,CUST-0205,Customer 205,Shan,Taunggyi,Furniture,Desk,6,325900,0.05,1857630,1260000,597630,Wave Money,Min Min,Completed
+ORD-00420,2026-05-30 00:00:00.000,CUST-0175,Customer 175,Shan,Muse,Office Supplies,Keyboard,1,43600,0,43600,26000,17600,Bank Transfer,Thiri,Completed
+ORD-00421,2025-02-16 00:00:00.000,CUST-0249,Customer 249,Mandalay,Chanmyathazi,Office Supplies,Office Chair,2,227400,0.05,432060,330000,102060,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00422,2025-11-10 00:00:00.000,CUST-0085,Customer 085,Yangon,Tamwe,Electronics,Smartphone,3,660700,0,1982100,1410000,572100,Wave Money,Thiri,Completed
+ORD-00423,2025-08-02 00:00:00.000,CUST-0016,Customer 016,Shan,Muse,Electronics,Smartphone,2,694400,0.05,1319360,940000,379360,Wave Money,Aung Aung,Completed
+ORD-00424,2026-06-14 00:00:00.000,CUST-0188,Customer 188,Bago,Pyay,Office Supplies,Keyboard,1,47100,0.02,46158,26000,20158,Credit Card,Thiri,Completed
+ORD-00425,2026-04-19 00:00:00.000,CUST-0012,Customer 012,Yangon,Tamwe,Office Supplies,Office Chair,7,225900,0.05,1502235,1155000,347235,Credit Card,Thiri,Completed
+ORD-00426,2026-07-09 00:00:00.000,CUST-0175,Customer 175,Bago,Bago,Electronics,Headphones,5,88700,0,443500,275000,168500,Bank Transfer,Htet Htet,Completed
+ORD-00427,2026-02-04 00:00:00.000,CUST-0019,Customer 019,Yangon,Tamwe,Electronics,Headphones,5,94100,0.02,461090,275000,186090,Credit Card,Thiri,Completed
+ORD-00428,2025-01-21 00:00:00.000,CUST-0197,Customer 197,Bago,Pyay,Accessories,USB Drive,4,33200,0.02,130144,72000,58144,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00429,2025-01-30 00:00:00.000,CUST-0073,Customer 073,Yangon,Tamwe,Furniture,Meeting Table,6,559600,0.02,3290448,2190000,1100448,Credit Card,May Zin,Completed
+ORD-00430,2026-07-04 00:00:00.000,CUST-0165,Customer 165,Yangon,Tamwe,Furniture,Desk,4,290400,0,1161600,840000,321600,Wave Money,Kyaw Kyaw,Completed
+ORD-00431,2025-10-27 00:00:00.000,CUST-0185,Customer 185,Yangon,Hlaing,Office Supplies,Mouse,7,26300,0,184100,105000,79100,Wave Money,Thiri,Completed
+ORD-00432,2025-07-08 00:00:00.000,CUST-0096,Customer 096,Naypyidaw,Pyinmana,Office Supplies,Keyboard,3,44400,0.05,126540,78000,48540,Cash,Nandar,Completed
+ORD-00433,2025-01-16 00:00:00.000,CUST-0140,Customer 140,Yangon,Yangon,Office Supplies,Office Chair,1,225800,0,225800,165000,60800,KBZ Pay,May Zin,Completed
+ORD-00434,2025-08-13 00:00:00.000,CUST-0154,Customer 154,Mandalay,Mandalay,Furniture,Desk,2,324500,0.05,616550,420000,196550,Wave Money,Min Min,Completed
+ORD-00435,2025-10-23 00:00:00.000,CUST-0060,Customer 060,Yangon,Tamwe,Furniture,Meeting Table,2,552400,0.15,939080,730000,209080,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00436,2025-01-30 00:00:00.000,CUST-0118,Customer 118,Yangon,Mayangone,Furniture,Desk,2,319500,0.02,626220,420000,206220,Cash,Su Su,Completed
+ORD-00437,2025-10-30 00:00:00.000,CUST-0089,Customer 089,Yangon,Mayangone,Electronics,Laptop,4,1290300,0,0,0,0,KBZ Pay,Su Su,Cancelled
+ORD-00438,2025-01-12 00:00:00.000,CUST-0179,Customer 179,Yangon,Mayangone,Electronics,Smartphone,1,624900,0,624900,470000,154900,Cash,Htet Htet,Completed
+ORD-00439,2026-02-12 00:00:00.000,CUST-0103,Customer 103,Mandalay,Amarapura,Furniture,Bookshelf,2,167100,0.1,300780,230000,70780,Bank Transfer,Nandar,Completed
+ORD-00440,2025-05-08 00:00:00.000,CUST-0184,Customer 184,Bago,Taungoo,Electronics,Headphones,5,91900,0.05,436525,275000,161525,Credit Card,Aung Aung,Completed
+ORD-00441,2025-04-06 00:00:00.000,CUST-0206,Customer 206,Naypyidaw,Zabuthiri,Office Supplies,Mouse,5,27000,0,135000,75000,60000,Wave Money,May Zin,Completed
+ORD-00442,2026-01-31 00:00:00.000,CUST-0098,Customer 098,Yangon,Yangon,Furniture,Desk,7,291500,0.08,-1877260,-1470000,-407260,Credit Card,Thiri,Returned
+ORD-00443,2025-04-19 00:00:00.000,CUST-0220,Customer 220,Shan,Muse,Furniture,Meeting Table,6,488200,0,2929200,2190000,739200,Cash,Min Min,Completed
+ORD-00444,2025-04-20 00:00:00.000,CUST-0095,Customer 095,Yangon,Tamwe,Furniture,Desk,3,326100,0.1,880470,630000,250470,Cash,Kyaw Kyaw,Completed
+ORD-00445,2026-05-23 00:00:00.000,CUST-0157,Customer 157,Yangon,Mayangone,Electronics,Headphones,4,88900,0,0,0,0,Wave Money,Kyaw Kyaw,Cancelled
+ORD-00446,2026-06-12 00:00:00.000,CUST-0070,Customer 070,Shan,Lashio,Office Supplies,Mouse,2,27900,0.02,54684,30000,24684,Credit Card,Nandar,Completed
+ORD-00447,2025-01-29 00:00:00.000,CUST-0167,Customer 167,Naypyidaw,Naypyidaw,Office Supplies,Mouse,5,28400,0.08,130640,75000,55640,Cash,Htet Htet,Completed
+ORD-00448,2025-08-31 00:00:00.000,CUST-0109,Customer 109,Mandalay,Amarapura,Electronics,Monitor,5,431700,0.08,1985820,1500000,485820,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00449,2025-02-12 00:00:00.000,CUST-0184,Customer 184,Yangon,Mayangone,Office Supplies,Keyboard,3,44800,0.05,127680,78000,49680,Credit Card,Min Min,Completed
+ORD-00450,2026-07-05 00:00:00.000,CUST-0019,Customer 019,Shan,Muse,Office Supplies,Keyboard,3,46000,0.08,126960,78000,48960,Wave Money,Nandar,Completed
+ORD-00451,2026-01-04 00:00:00.000,CUST-0068,Customer 068,Mandalay,Mandalay,Accessories,Power Bank,3,84800,0.1,228960,174000,54960,Bank Transfer,Aung Aung,Completed
+ORD-00452,2026-07-17 00:00:00.000,CUST-0075,Customer 075,Shan,Lashio,Furniture,Desk,5,323200,0.08,1486720,1050000,436720,Credit Card,Nandar,Completed
+ORD-00453,2025-11-01 00:00:00.000,CUST-0026,Customer 026,Naypyidaw,Zabuthiri,Office Supplies,Keyboard,1,43200,0,43200,26000,17200,Cash,Aung Aung,Completed
+ORD-00454,2025-02-23 00:00:00.000,CUST-0093,Customer 093,Mandalay,Mandalay,Office Supplies,Keyboard,3,46100,0.15,117555,78000,39555,Credit Card,Thiri,Completed
+ORD-00455,2025-03-20 00:00:00.000,CUST-0234,Customer 234,Mandalay,Mandalay,Office Supplies,Keyboard,3,46100,0.05,131385,78000,53385,Cash,May Zin,Completed
+ORD-00456,2025-10-05 00:00:00.000,CUST-0161,Customer 161,Yangon,Yangon,Electronics,Smartphone,1,660600,0.05,627570,470000,157570,Credit Card,Aung Aung,Completed
+ORD-00457,2025-07-07 00:00:00.000,CUST-0035,Customer 035,Yangon,Yangon,Office Supplies,Keyboard,2,42900,0,85800,52000,33800,Bank Transfer,Nandar,Completed
+ORD-00458,2025-10-19 00:00:00.000,CUST-0187,Customer 187,Mandalay,Chanmyathazi,Furniture,Bookshelf,1,177000,0.02,173460,115000,58460,Wave Money,May Zin,Completed
+ORD-00459,2025-09-17 00:00:00.000,CUST-0108,Customer 108,Mandalay,Chanmyathazi,Accessories,Webcam,7,85000,0,595000,364000,231000,KBZ Pay,Htet Htet,Completed
+ORD-00460,2025-08-10 00:00:00.000,CUST-0134,Customer 134,Yangon,Hlaing,Electronics,Monitor,5,394800,0.1,0,0,0,Bank Transfer,Kyaw Kyaw,Cancelled
+ORD-00461,2025-02-13 00:00:00.000,CUST-0229,Customer 229,Yangon,Hlaing,Office Supplies,Keyboard,7,48600,0,-340200,-182000,-158200,KBZ Pay,Htet Htet,Returned
+ORD-00462,2025-06-04 00:00:00.000,CUST-0231,Customer 231,Yangon,Hlaing,Electronics,Monitor,5,405200,0,2026000,1500000,526000,Credit Card,Thiri,Completed
+ORD-00463,2025-06-21 00:00:00.000,CUST-0011,Customer 011,Yangon,Tamwe,Electronics,Smartphone,4,676200,0.1,2434320,1880000,554320,KBZ Pay,Htet Htet,Completed
+ORD-00464,2025-07-15 00:00:00.000,CUST-0055,Customer 055,Yangon,Yangon,Electronics,Smartphone,4,695300,0.05,2642140,1880000,762140,Bank Transfer,Min Min,Completed
+ORD-00465,2025-05-24 00:00:00.000,CUST-0215,Customer 215,Bago,Pyay,Office Supplies,Office Chair,3,244800,0.05,697680,495000,202680,Bank Transfer,Thiri,Completed
+ORD-00466,2026-07-08 00:00:00.000,CUST-0010,Customer 010,Yangon,Tamwe,Electronics,Monitor,2,391800,0.05,744420,600000,144420,Wave Money,Htet Htet,Completed
+ORD-00467,2025-01-29 00:00:00.000,CUST-0084,Customer 084,Yangon,Hlaing,Office Supplies,Keyboard,5,48300,0.1,217350,130000,87350,KBZ Pay,May Zin,Completed
+ORD-00468,2026-08-20 00:00:00.000,CUST-0071,Customer 071,Yangon,Mayangone,Office Supplies,Printer,3,403000,0.05,0,0,0,Cash,May Zin,Cancelled
+ORD-00469,2025-08-14 00:00:00.000,CUST-0217,Customer 217,Yangon,Mayangone,Office Supplies,Office Chair,1,233500,0.05,221825,165000,56825,Cash,Su Su,Completed
+ORD-00470,2025-01-12 00:00:00.000,CUST-0171,Customer 171,Shan,Lashio,Furniture,Bookshelf,1,170400,0,170400,115000,55400,Bank Transfer,Aung Aung,Completed
+ORD-00471,2026-06-14 00:00:00.000,CUST-0160,Customer 160,Shan,Muse,Office Supplies,Keyboard,3,41400,0.08,114264,78000,36264,Wave Money,May Zin,Completed
+ORD-00472,2025-05-17 00:00:00.000,CUST-0013,Customer 013,Mandalay,Mandalay,Electronics,Laptop,2,1158300,0.15,1969110,1900000,69110,Bank Transfer,Thiri,Completed
+ORD-00473,2026-06-21 00:00:00.000,CUST-0114,Customer 114,Yangon,Hlaing,Furniture,Bookshelf,2,181400,0.05,-344660,-230000,-114660,Bank Transfer,May Zin,Returned
+ORD-00474,2026-03-15 00:00:00.000,CUST-0051,Customer 051,Bago,Pyay,Electronics,Smartphone,6,698000,0.08,3852960,2820000,1032960,Cash,Min Min,Completed
+ORD-00475,2026-03-16 00:00:00.000,CUST-0037,Customer 037,Bago,Taungoo,Furniture,Meeting Table,1,547700,0.08,-503884,-365000,-138884,Cash,Su Su,Returned
+ORD-00476,2025-05-07 00:00:00.000,CUST-0173,Customer 173,Mandalay,Amarapura,Office Supplies,Mouse,4,30200,0,120800,60000,60800,Credit Card,Kyaw Kyaw,Completed
+ORD-00477,2025-08-24 00:00:00.000,CUST-0107,Customer 107,Naypyidaw,Zabuthiri,Accessories,Power Bank,5,97100,0,485500,290000,195500,Wave Money,May Zin,Completed
+ORD-00478,2025-12-18 00:00:00.000,CUST-0210,Customer 210,Yangon,Tamwe,Electronics,Monitor,1,430500,0,430500,300000,130500,Credit Card,Nandar,Completed
+ORD-00479,2025-10-30 00:00:00.000,CUST-0031,Customer 031,Yangon,Hlaing,Office Supplies,Office Chair,4,247700,0.02,970984,660000,310984,Cash,Thiri,Completed
+ORD-00480,2025-03-31 00:00:00.000,CUST-0194,Customer 194,Mandalay,Mandalay,Office Supplies,Mouse,4,26900,0.05,102220,60000,42220,Cash,Aung Aung,Completed
+ORD-00481,2025-02-27 00:00:00.000,CUST-0247,Customer 247,Yangon,Hlaing,Accessories,USB Drive,6,29900,0.02,175812,108000,67812,Wave Money,Thiri,Completed
+ORD-00482,2025-12-21 00:00:00.000,CUST-0153,Customer 153,Yangon,Tamwe,Office Supplies,Printer,4,374400,0.05,-1422720,-1120000,-302720,Credit Card,Thiri,Returned
+ORD-00483,2026-05-23 00:00:00.000,CUST-0073,Customer 073,Yangon,Hlaing,Accessories,Webcam,5,89200,0.05,423700,260000,163700,Wave Money,Aung Aung,Completed
+ORD-00484,2025-02-11 00:00:00.000,CUST-0122,Customer 122,Yangon,Hlaing,Electronics,Headphones,7,93200,0.05,619780,385000,234780,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00485,2025-02-17 00:00:00.000,CUST-0223,Customer 223,Yangon,Tamwe,Electronics,Smartphone,1,620300,0.02,607894,470000,137894,Cash,May Zin,Completed
+ORD-00486,2026-05-31 00:00:00.000,CUST-0247,Customer 247,Naypyidaw,Naypyidaw,Electronics,Smartphone,4,625700,0.02,2452744,1880000,572744,Bank Transfer,Thiri,Completed
+ORD-00487,2025-03-20 00:00:00.000,CUST-0222,Customer 222,Naypyidaw,Zabuthiri,Furniture,Bookshelf,5,186300,0.02,-912870,-575000,-337870,Cash,Thiri,Returned
+ORD-00488,2025-09-24 00:00:00.000,CUST-0199,Customer 199,Yangon,Yangon,Electronics,Headphones,5,97700,0.02,478730,275000,203730,Credit Card,Su Su,Completed
+ORD-00489,2026-07-26 00:00:00.000,CUST-0031,Customer 031,Yangon,Mayangone,Furniture,Desk,7,304300,0.02,-2087498,-1470000,-617498,Cash,Su Su,Returned
+ORD-00490,2025-07-02 00:00:00.000,CUST-0082,Customer 082,Yangon,Hlaing,Accessories,Webcam,7,86800,0.08,558992,364000,194992,Wave Money,Min Min,Completed
+ORD-00491,2025-07-11 00:00:00.000,CUST-0015,Customer 015,Naypyidaw,Zabuthiri,Office Supplies,Mouse,6,26600,0.08,-146832,-90000,-56832,Credit Card,Aung Aung,Returned
+ORD-00492,2026-05-07 00:00:00.000,CUST-0072,Customer 072,Shan,Muse,Electronics,Monitor,6,429500,0,2577000,1800000,777000,Wave Money,Su Su,Completed
+ORD-00493,2026-08-15 00:00:00.000,CUST-0215,Customer 215,Bago,Taungoo,Office Supplies,Printer,5,402600,0.08,1851960,1400000,451960,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00494,2025-10-12 00:00:00.000,CUST-0075,Customer 075,Yangon,Tamwe,Office Supplies,Office Chair,3,240400,0,721200,495000,226200,Wave Money,Kyaw Kyaw,Completed
+ORD-00495,2025-07-08 00:00:00.000,CUST-0071,Customer 071,Yangon,Hlaing,Electronics,Smartphone,7,676200,0.08,-4354728,-3290000,-1064728,Wave Money,Aung Aung,Returned
+ORD-00496,2025-07-10 00:00:00.000,CUST-0208,Customer 208,Yangon,Hlaing,Electronics,Monitor,3,397700,0,1193100,900000,293100,Wave Money,Kyaw Kyaw,Completed
+ORD-00497,2025-06-21 00:00:00.000,CUST-0227,Customer 227,Yangon,Tamwe,Furniture,Desk,1,294600,0.08,271032,210000,61032,Cash,Nandar,Completed
+ORD-00498,2026-01-24 00:00:00.000,CUST-0124,Customer 124,Shan,Muse,Furniture,Bookshelf,3,189800,0.08,523848,345000,178848,Cash,Nandar,Completed
+ORD-00499,2025-02-19 00:00:00.000,CUST-0190,Customer 190,Yangon,Hlaing,Electronics,Smartphone,3,668600,0.05,1905510,1410000,495510,Wave Money,May Zin,Completed
+ORD-00500,2025-12-27 00:00:00.000,CUST-0078,Customer 078,Yangon,Mayangone,Office Supplies,Office Chair,6,255800,0.02,1504104,990000,514104,Credit Card,Aung Aung,Completed
+ORD-00501,2025-12-15 00:00:00.000,CUST-0054,Customer 054,Mandalay,Amarapura,Office Supplies,Mouse,7,26300,0.05,174895,105000,69895,Wave Money,Su Su,Completed
+ORD-00502,2025-07-28 00:00:00.000,CUST-0122,Customer 122,Mandalay,Mandalay,Office Supplies,Printer,4,375300,0.08,1381104,1120000,261104,KBZ Pay,Nandar,Completed
+ORD-00503,2025-09-30 00:00:00.000,CUST-0069,Customer 069,Yangon,Tamwe,Furniture,Desk,7,301100,0.05,0,0,0,Bank Transfer,Htet Htet,Cancelled
+ORD-00504,2026-03-24 00:00:00.000,CUST-0183,Customer 183,Yangon,Yangon,Office Supplies,Printer,5,402000,0,2010000,1400000,610000,KBZ Pay,Thiri,Completed
+ORD-00505,2026-02-26 00:00:00.000,CUST-0027,Customer 027,Naypyidaw,Naypyidaw,Furniture,Desk,7,306600,0,2146200,1470000,676200,KBZ Pay,Min Min,Completed
+ORD-00506,2025-02-28 00:00:00.000,CUST-0216,Customer 216,Naypyidaw,Zabuthiri,Electronics,Headphones,4,102500,0.02,401800,220000,181800,KBZ Pay,Nandar,Completed
+ORD-00507,2025-01-13 00:00:00.000,CUST-0030,Customer 030,Yangon,Hlaing,Electronics,Laptop,3,1285100,0.05,-3662535,-2850000,-812535,Wave Money,Su Su,Returned
+ORD-00508,2025-03-12 00:00:00.000,CUST-0107,Customer 107,Mandalay,Amarapura,Office Supplies,Keyboard,6,47000,0.1,253800,156000,97800,KBZ Pay,Thiri,Completed
+ORD-00509,2026-04-19 00:00:00.000,CUST-0166,Customer 166,Yangon,Tamwe,Electronics,Smartphone,3,610700,0,-1832100,-1410000,-422100,Wave Money,Nandar,Returned
+ORD-00510,2025-03-06 00:00:00.000,CUST-0062,Customer 062,Shan,Taunggyi,Electronics,Monitor,7,399000,0.05,2653350,2100000,553350,Wave Money,Kyaw Kyaw,Completed
+ORD-00511,2026-06-18 00:00:00.000,CUST-0017,Customer 017,Shan,Lashio,Office Supplies,Printer,2,356100,0.15,605370,560000,45370,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00512,2026-02-02 00:00:00.000,CUST-0114,Customer 114,Naypyidaw,Pyinmana,Furniture,Bookshelf,3,183900,0,551700,345000,206700,Wave Money,Thiri,Completed
+ORD-00513,2026-04-22 00:00:00.000,CUST-0080,Customer 080,Yangon,Yangon,Accessories,Laptop Bag,5,79300,0,396500,215000,181500,KBZ Pay,Htet Htet,Completed
+ORD-00514,2025-03-06 00:00:00.000,CUST-0046,Customer 046,Bago,Pyay,Electronics,Monitor,7,452300,0.05,3007795,2100000,907795,KBZ Pay,Thiri,Completed
+ORD-00515,2026-03-28 00:00:00.000,CUST-0084,Customer 084,Naypyidaw,Pyinmana,Office Supplies,Keyboard,2,42800,0.05,81320,52000,29320,Cash,Aung Aung,Completed
+ORD-00516,2026-03-14 00:00:00.000,CUST-0027,Customer 027,Yangon,Hlaing,Electronics,Smartphone,6,641000,0,3846000,2820000,1026000,Credit Card,Su Su,Completed
+ORD-00517,2025-04-07 00:00:00.000,CUST-0154,Customer 154,Yangon,Yangon,Accessories,Laptop Bag,1,77500,0.05,73625,43000,30625,Bank Transfer,Min Min,Completed
+ORD-00518,2025-03-20 00:00:00.000,CUST-0043,Customer 043,Naypyidaw,Naypyidaw,Electronics,Laptop,1,1333500,0.1,1200150,950000,250150,KBZ Pay,May Zin,Completed
+ORD-00519,2025-01-01 00:00:00.000,CUST-0097,Customer 097,Mandalay,Amarapura,Office Supplies,Mouse,2,28400,0.08,52256,30000,22256,Cash,Su Su,Completed
+ORD-00520,2025-07-10 00:00:00.000,CUST-0242,Customer 242,Naypyidaw,Pyinmana,Office Supplies,Office Chair,1,241000,0.08,221720,165000,56720,Wave Money,Su Su,Completed
+ORD-00521,2025-05-10 00:00:00.000,CUST-0203,Customer 203,Yangon,Hlaing,Accessories,Laptop Bag,1,77200,0,77200,43000,34200,Cash,Su Su,Completed
+ORD-00522,2026-06-21 00:00:00.000,CUST-0057,Customer 057,Mandalay,Chanmyathazi,Electronics,Laptop,5,1259100,0,6295500,4750000,1545500,Bank Transfer,Su Su,Completed
+ORD-00523,2025-12-18 00:00:00.000,CUST-0085,Customer 085,Mandalay,Amarapura,Furniture,Desk,1,293200,0.15,249220,210000,39220,Wave Money,Thiri,Completed
+ORD-00524,2025-06-01 00:00:00.000,CUST-0157,Customer 157,Yangon,Yangon,Electronics,Headphones,4,101300,0.02,397096,220000,177096,Cash,May Zin,Completed
+ORD-00525,2025-05-12 00:00:00.000,CUST-0090,Customer 090,Shan,Muse,Accessories,USB Drive,5,30800,0.05,146300,90000,56300,Wave Money,Htet Htet,Completed
+ORD-00526,2026-06-22 00:00:00.000,CUST-0017,Customer 017,Mandalay,Amarapura,Electronics,Laptop,2,1315900,0,-2631800,-1900000,-731800,Wave Money,Htet Htet,Returned
+ORD-00527,2026-08-11 00:00:00.000,CUST-0144,Customer 144,Bago,Pyay,Furniture,Desk,7,326500,0.15,1942675,1470000,472675,Credit Card,Nandar,Completed
+ORD-00528,2025-07-08 00:00:00.000,CUST-0134,Customer 134,Naypyidaw,Naypyidaw,Electronics,Smartphone,6,668100,0.05,3808170,2820000,988170,Credit Card,Nandar,Completed
+ORD-00529,2025-05-28 00:00:00.000,CUST-0063,Customer 063,Yangon,Yangon,Electronics,Smartphone,2,660000,0.05,1254000,940000,314000,Credit Card,Min Min,Completed
+ORD-00530,2026-03-12 00:00:00.000,CUST-0078,Customer 078,Mandalay,Amarapura,Accessories,Webcam,4,84700,0.1,304920,208000,96920,Bank Transfer,Nandar,Completed
+ORD-00531,2025-10-09 00:00:00.000,CUST-0084,Customer 084,Mandalay,Amarapura,Electronics,Monitor,7,408800,0.02,2804368,2100000,704368,KBZ Pay,Htet Htet,Completed
+ORD-00532,2026-07-12 00:00:00.000,CUST-0022,Customer 022,Mandalay,Amarapura,Accessories,Webcam,3,82800,0.05,235980,156000,79980,Credit Card,Su Su,Completed
+ORD-00533,2026-06-08 00:00:00.000,CUST-0107,Customer 107,Bago,Taungoo,Office Supplies,Mouse,7,28200,0.05,187530,105000,82530,Bank Transfer,Thiri,Completed
+ORD-00534,2026-03-19 00:00:00.000,CUST-0198,Customer 198,Naypyidaw,Pyinmana,Office Supplies,Keyboard,5,46500,0.05,220875,130000,90875,Bank Transfer,Aung Aung,Completed
+ORD-00535,2025-06-03 00:00:00.000,CUST-0140,Customer 140,Yangon,Yangon,Furniture,Bookshelf,2,184800,0.05,0,0,0,KBZ Pay,Kyaw Kyaw,Cancelled
+ORD-00536,2025-12-30 00:00:00.000,CUST-0103,Customer 103,Yangon,Hlaing,Electronics,Smartphone,1,610600,0.02,598388,470000,128388,Credit Card,Htet Htet,Completed
+ORD-00537,2026-02-01 00:00:00.000,CUST-0006,Customer 006,Naypyidaw,Naypyidaw,Office Supplies,Office Chair,2,248700,0.1,447660,330000,117660,KBZ Pay,Nandar,Completed
+ORD-00538,2025-11-03 00:00:00.000,CUST-0213,Customer 213,Mandalay,Mandalay,Office Supplies,Printer,2,381700,0.02,748132,560000,188132,KBZ Pay,Htet Htet,Completed
+ORD-00539,2025-04-22 00:00:00.000,CUST-0050,Customer 050,Yangon,Yangon,Office Supplies,Printer,6,401600,0.08,2216832,1680000,536832,Credit Card,Kyaw Kyaw,Completed
+ORD-00540,2025-01-20 00:00:00.000,CUST-0119,Customer 119,Shan,Muse,Electronics,Smartphone,6,685000,0.1,3699000,2820000,879000,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00541,2026-01-13 00:00:00.000,CUST-0126,Customer 126,Yangon,Tamwe,Furniture,Meeting Table,2,534400,0.02,1047424,730000,317424,Cash,May Zin,Completed
+ORD-00542,2026-03-19 00:00:00.000,CUST-0026,Customer 026,Bago,Bago,Office Supplies,Office Chair,2,228300,0.05,433770,330000,103770,KBZ Pay,Aung Aung,Completed
+ORD-00543,2025-02-26 00:00:00.000,CUST-0229,Customer 229,Yangon,Hlaing,Office Supplies,Mouse,7,27700,0.1,174510,105000,69510,Cash,Su Su,Completed
+ORD-00544,2026-08-19 00:00:00.000,CUST-0138,Customer 138,Mandalay,Amarapura,Electronics,Smartphone,6,634400,0.05,-3616080,-2820000,-796080,Bank Transfer,May Zin,Returned
+ORD-00545,2026-03-12 00:00:00.000,CUST-0210,Customer 210,Shan,Lashio,Accessories,Power Bank,1,91500,0.08,84180,58000,26180,Wave Money,Thiri,Completed
+ORD-00546,2025-10-02 00:00:00.000,CUST-0112,Customer 112,Yangon,Tamwe,Electronics,Laptop,4,1334900,0,5339600,3800000,1539600,Cash,Thiri,Completed
+ORD-00547,2026-02-14 00:00:00.000,CUST-0203,Customer 203,Mandalay,Mandalay,Electronics,Monitor,2,421000,0,842000,600000,242000,KBZ Pay,Htet Htet,Completed
+ORD-00548,2026-08-17 00:00:00.000,CUST-0073,Customer 073,Yangon,Hlaing,Furniture,Meeting Table,5,511200,0.1,2300400,1825000,475400,Credit Card,Nandar,Completed
+ORD-00549,2026-02-01 00:00:00.000,CUST-0160,Customer 160,Naypyidaw,Zabuthiri,Furniture,Desk,5,300900,0.1,1354050,1050000,304050,Credit Card,Min Min,Completed
+ORD-00550,2025-09-12 00:00:00.000,CUST-0240,Customer 240,Naypyidaw,Naypyidaw,Office Supplies,Office Chair,3,247500,0.15,0,0,0,Bank Transfer,Thiri,Cancelled
+ORD-00551,2025-08-25 00:00:00.000,CUST-0106,Customer 106,Mandalay,Chanmyathazi,Electronics,Monitor,3,400100,0.08,1104276,900000,204276,Bank Transfer,Aung Aung,Completed
+ORD-00552,2025-10-27 00:00:00.000,CUST-0056,Customer 056,Mandalay,Mandalay,Electronics,Laptop,4,1251100,0.05,4754180,3800000,954180,Credit Card,Min Min,Completed
+ORD-00553,2025-07-16 00:00:00.000,CUST-0181,Customer 181,Shan,Lashio,Furniture,Bookshelf,5,185100,0.02,-906990,-575000,-331990,Credit Card,Aung Aung,Returned
+ORD-00554,2025-03-12 00:00:00.000,CUST-0182,Customer 182,Naypyidaw,Naypyidaw,Accessories,Webcam,3,89100,0.08,245916,156000,89916,Wave Money,Min Min,Completed
+ORD-00555,2026-06-06 00:00:00.000,CUST-0009,Customer 009,Yangon,Mayangone,Accessories,Power Bank,4,96900,0.02,379848,232000,147848,Wave Money,Thiri,Completed
+ORD-00556,2025-11-05 00:00:00.000,CUST-0178,Customer 178,Yangon,Tamwe,Office Supplies,Printer,7,366300,0.05,2435895,1960000,475895,Bank Transfer,May Zin,Completed
+ORD-00557,2025-01-28 00:00:00.000,CUST-0091,Customer 091,Yangon,Mayangone,Electronics,Smartphone,2,636400,0.08,1170976,940000,230976,Wave Money,Nandar,Completed
+ORD-00558,2025-06-19 00:00:00.000,CUST-0049,Customer 049,Naypyidaw,Zabuthiri,Office Supplies,Keyboard,7,44400,0.08,285936,182000,103936,KBZ Pay,Nandar,Completed
+ORD-00559,2025-09-04 00:00:00.000,CUST-0080,Customer 080,Bago,Pyay,Office Supplies,Office Chair,3,240600,0.1,649620,495000,154620,KBZ Pay,Aung Aung,Completed
+ORD-00560,2026-01-02 00:00:00.000,CUST-0249,Customer 249,Naypyidaw,Pyinmana,Office Supplies,Office Chair,6,235600,0.15,1201560,990000,211560,KBZ Pay,Su Su,Completed
+ORD-00561,2026-05-18 00:00:00.000,CUST-0207,Customer 207,Mandalay,Chanmyathazi,Electronics,Headphones,7,100700,0.02,690802,385000,305802,Credit Card,May Zin,Completed
+ORD-00562,2026-06-12 00:00:00.000,CUST-0100,Customer 100,Mandalay,Chanmyathazi,Office Supplies,Printer,5,389200,0.05,1848700,1400000,448700,Credit Card,Htet Htet,Completed
+ORD-00563,2025-01-19 00:00:00.000,CUST-0041,Customer 041,Mandalay,Chanmyathazi,Electronics,Laptop,4,1225200,0.08,4508736,3800000,708736,KBZ Pay,Thiri,Completed
+ORD-00564,2025-08-19 00:00:00.000,CUST-0231,Customer 231,Shan,Lashio,Electronics,Monitor,4,433800,0.05,1648440,1200000,448440,Cash,Kyaw Kyaw,Completed
+ORD-00565,2025-03-26 00:00:00.000,CUST-0063,Customer 063,Bago,Bago,Electronics,Laptop,2,1176900,0.05,2236110,1900000,336110,Wave Money,Min Min,Completed
+ORD-00566,2026-04-29 00:00:00.000,CUST-0095,Customer 095,Mandalay,Mandalay,Furniture,Desk,6,306700,0.05,1748190,1260000,488190,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00567,2025-03-12 00:00:00.000,CUST-0005,Customer 005,Yangon,Yangon,Accessories,Power Bank,6,90100,0.05,513570,348000,165570,Credit Card,Nandar,Completed
+ORD-00568,2026-06-14 00:00:00.000,CUST-0040,Customer 040,Yangon,Yangon,Electronics,Headphones,1,102600,0,102600,55000,47600,Cash,Min Min,Completed
+ORD-00569,2025-06-02 00:00:00.000,CUST-0117,Customer 117,Mandalay,Amarapura,Electronics,Headphones,4,89200,0.1,321120,220000,101120,Wave Money,Thiri,Completed
+ORD-00570,2026-05-12 00:00:00.000,CUST-0020,Customer 020,Shan,Taunggyi,Office Supplies,Mouse,3,28800,0.05,82080,45000,37080,Wave Money,Aung Aung,Completed
+ORD-00571,2025-01-17 00:00:00.000,CUST-0199,Customer 199,Yangon,Hlaing,Office Supplies,Office Chair,3,249000,0.15,634950,495000,139950,Wave Money,Aung Aung,Completed
+ORD-00572,2026-07-05 00:00:00.000,CUST-0051,Customer 051,Mandalay,Mandalay,Electronics,Laptop,5,1161500,0.1,5226750,4750000,476750,Credit Card,Nandar,Completed
+ORD-00573,2025-01-14 00:00:00.000,CUST-0129,Customer 129,Yangon,Hlaing,Accessories,Power Bank,2,88100,0.08,162104,116000,46104,Cash,May Zin,Completed
+ORD-00574,2025-10-15 00:00:00.000,CUST-0065,Customer 065,Mandalay,Chanmyathazi,Electronics,Headphones,5,95200,0.08,437920,275000,162920,Credit Card,Thiri,Completed
+ORD-00575,2026-03-09 00:00:00.000,CUST-0220,Customer 220,Naypyidaw,Zabuthiri,Electronics,Monitor,6,398600,0.05,2272020,1800000,472020,Wave Money,Su Su,Completed
+ORD-00576,2025-03-23 00:00:00.000,CUST-0201,Customer 201,Bago,Taungoo,Accessories,Webcam,7,83500,0,584500,364000,220500,Cash,Kyaw Kyaw,Completed
+ORD-00577,2025-07-19 00:00:00.000,CUST-0204,Customer 204,Shan,Muse,Office Supplies,Keyboard,4,46400,0.1,167040,104000,63040,Credit Card,Su Su,Completed
+ORD-00578,2025-08-23 00:00:00.000,CUST-0135,Customer 135,Yangon,Tamwe,Electronics,Headphones,5,88200,0,441000,275000,166000,Cash,Aung Aung,Completed
+ORD-00579,2025-12-17 00:00:00.000,CUST-0122,Customer 122,Mandalay,Mandalay,Furniture,Bookshelf,6,187600,0.05,1069320,690000,379320,Credit Card,Aung Aung,Completed
+ORD-00580,2025-07-15 00:00:00.000,CUST-0058,Customer 058,Mandalay,Mandalay,Furniture,Meeting Table,7,519700,0,3637900,2555000,1082900,Bank Transfer,Min Min,Completed
+ORD-00581,2026-02-22 00:00:00.000,CUST-0067,Customer 067,Bago,Taungoo,Furniture,Desk,2,300600,0.15,511020,420000,91020,Wave Money,Thiri,Completed
+ORD-00582,2025-11-28 00:00:00.000,CUST-0069,Customer 069,Mandalay,Mandalay,Office Supplies,Office Chair,2,225600,0.02,442176,330000,112176,Wave Money,Nandar,Completed
+ORD-00583,2025-10-04 00:00:00.000,CUST-0223,Customer 223,Yangon,Mayangone,Accessories,Laptop Bag,3,74300,0.02,218442,129000,89442,Wave Money,Nandar,Completed
+ORD-00584,2026-04-18 00:00:00.000,CUST-0002,Customer 002,Bago,Taungoo,Furniture,Meeting Table,6,535600,0.02,3149328,2190000,959328,Cash,Aung Aung,Completed
+ORD-00585,2026-08-12 00:00:00.000,CUST-0216,Customer 216,Mandalay,Chanmyathazi,Accessories,Webcam,7,80100,0.1,504630,364000,140630,Credit Card,Thiri,Completed
+ORD-00586,2025-03-25 00:00:00.000,CUST-0035,Customer 035,Bago,Bago,Electronics,Laptop,5,1271900,0.1,5723550,4750000,973550,Bank Transfer,Min Min,Completed
+ORD-00587,2026-06-01 00:00:00.000,CUST-0237,Customer 237,Mandalay,Amarapura,Accessories,Power Bank,2,91900,0.05,174610,116000,58610,Wave Money,May Zin,Completed
+ORD-00588,2025-03-07 00:00:00.000,CUST-0045,Customer 045,Shan,Muse,Office Supplies,Printer,2,365300,0.05,694070,560000,134070,Cash,Min Min,Completed
+ORD-00589,2025-11-22 00:00:00.000,CUST-0093,Customer 093,Naypyidaw,Pyinmana,Office Supplies,Keyboard,2,47900,0.05,91010,52000,39010,Cash,Nandar,Completed
+ORD-00590,2025-02-18 00:00:00.000,CUST-0223,Customer 223,Naypyidaw,Zabuthiri,Furniture,Desk,7,326100,0,-2282700,-1470000,-812700,Wave Money,Nandar,Returned
+ORD-00591,2026-08-14 00:00:00.000,CUST-0094,Customer 094,Yangon,Mayangone,Accessories,Laptop Bag,1,70200,0.05,66690,43000,23690,KBZ Pay,Thiri,Completed
+ORD-00592,2026-04-09 00:00:00.000,CUST-0155,Customer 155,Yangon,Tamwe,Office Supplies,Mouse,5,29100,0.05,138225,75000,63225,Bank Transfer,Su Su,Completed
+ORD-00593,2025-05-08 00:00:00.000,CUST-0048,Customer 048,Mandalay,Chanmyathazi,Electronics,Smartphone,5,696100,0.05,3306475,2350000,956475,KBZ Pay,May Zin,Completed
+ORD-00594,2025-05-27 00:00:00.000,CUST-0116,Customer 116,Naypyidaw,Naypyidaw,Accessories,Webcam,3,84100,0.05,239685,156000,83685,Bank Transfer,Min Min,Completed
+ORD-00595,2025-04-07 00:00:00.000,CUST-0111,Customer 111,Shan,Muse,Furniture,Desk,7,333500,0.15,1984325,1470000,514325,Wave Money,Su Su,Completed
+ORD-00596,2025-05-03 00:00:00.000,CUST-0130,Customer 130,Naypyidaw,Pyinmana,Office Supplies,Office Chair,7,250300,0.08,1611932,1155000,456932,Wave Money,Su Su,Completed
+ORD-00597,2025-05-06 00:00:00.000,CUST-0164,Customer 164,Naypyidaw,Zabuthiri,Electronics,Smartphone,2,646800,0.1,1164240,940000,224240,Credit Card,Kyaw Kyaw,Completed
+ORD-00598,2025-03-26 00:00:00.000,CUST-0230,Customer 230,Yangon,Hlaing,Accessories,Laptop Bag,2,76900,0.08,141496,86000,55496,KBZ Pay,May Zin,Completed
+ORD-00599,2025-08-24 00:00:00.000,CUST-0120,Customer 120,Yangon,Yangon,Electronics,Monitor,1,387200,0,387200,300000,87200,Bank Transfer,Nandar,Completed
+ORD-00600,2025-11-07 00:00:00.000,CUST-0200,Customer 200,Mandalay,Amarapura,Furniture,Bookshelf,2,172600,0.05,327940,230000,97940,Wave Money,Nandar,Completed
+ORD-00601,2025-07-18 00:00:00.000,CUST-0249,Customer 249,Yangon,Yangon,Electronics,Smartphone,7,600600,0.08,3867864,3290000,577864,KBZ Pay,Thiri,Completed
+ORD-00602,2025-09-28 00:00:00.000,CUST-0232,Customer 232,Naypyidaw,Zabuthiri,Office Supplies,Office Chair,4,228000,0,912000,660000,252000,Cash,Thiri,Completed
+ORD-00603,2026-02-16 00:00:00.000,CUST-0029,Customer 029,Yangon,Tamwe,Furniture,Desk,1,302500,0.05,287375,210000,77375,KBZ Pay,Min Min,Completed
+ORD-00604,2025-08-08 00:00:00.000,CUST-0073,Customer 073,Naypyidaw,Naypyidaw,Furniture,Meeting Table,2,507700,0,1015400,730000,285400,Cash,Thiri,Completed
+ORD-00605,2025-05-09 00:00:00.000,CUST-0058,Customer 058,Yangon,Hlaing,Electronics,Smartphone,5,682500,0.05,3241875,2350000,891875,KBZ Pay,Su Su,Completed
+ORD-00606,2025-03-23 00:00:00.000,CUST-0237,Customer 237,Bago,Taungoo,Furniture,Meeting Table,4,531700,0.02,0,0,0,Credit Card,Kyaw Kyaw,Cancelled
+ORD-00607,2025-04-15 00:00:00.000,CUST-0035,Customer 035,Yangon,Hlaing,Furniture,Bookshelf,4,167000,0.05,634600,460000,174600,KBZ Pay,Nandar,Completed
+ORD-00608,2026-06-24 00:00:00.000,CUST-0193,Customer 193,Yangon,Mayangone,Electronics,Laptop,3,1196600,0,3589800,2850000,739800,Wave Money,May Zin,Completed
+ORD-00609,2025-04-25 00:00:00.000,CUST-0039,Customer 039,Shan,Taunggyi,Office Supplies,Keyboard,3,43500,0.02,127890,78000,49890,Wave Money,Min Min,Completed
+ORD-00610,2025-01-07 00:00:00.000,CUST-0117,Customer 117,Bago,Bago,Electronics,Monitor,2,447300,0,0,0,0,KBZ Pay,Htet Htet,Cancelled
+ORD-00611,2025-01-28 00:00:00.000,CUST-0069,Customer 069,Mandalay,Chanmyathazi,Electronics,Smartphone,4,613000,0,2452000,1880000,572000,Cash,Nandar,Completed
+ORD-00612,2025-11-03 00:00:00.000,CUST-0178,Customer 178,Yangon,Tamwe,Furniture,Desk,5,312200,0,1561000,1050000,511000,KBZ Pay,Nandar,Completed
+ORD-00613,2026-06-18 00:00:00.000,CUST-0159,Customer 159,Yangon,Mayangone,Furniture,Meeting Table,7,500500,0,3503500,2555000,948500,Credit Card,Min Min,Completed
+ORD-00614,2025-03-14 00:00:00.000,CUST-0239,Customer 239,Mandalay,Mandalay,Electronics,Headphones,6,94500,0.08,521640,330000,191640,KBZ Pay,Min Min,Completed
+ORD-00615,2026-05-29 00:00:00.000,CUST-0133,Customer 133,Yangon,Tamwe,Accessories,Webcam,4,86800,0.05,329840,208000,121840,Wave Money,Aung Aung,Completed
+ORD-00616,2026-05-21 00:00:00.000,CUST-0009,Customer 009,Shan,Lashio,Accessories,USB Drive,5,30700,0.05,145825,90000,55825,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00617,2025-01-29 00:00:00.000,CUST-0177,Customer 177,Naypyidaw,Zabuthiri,Electronics,Smartphone,2,600900,0.02,1177764,940000,237764,Cash,Htet Htet,Completed
+ORD-00618,2025-08-19 00:00:00.000,CUST-0020,Customer 020,Yangon,Hlaing,Accessories,Webcam,6,80600,0,483600,312000,171600,KBZ Pay,Su Su,Completed
+ORD-00619,2025-04-22 00:00:00.000,CUST-0236,Customer 236,Shan,Lashio,Electronics,Monitor,6,432000,0.02,2540160,1800000,740160,KBZ Pay,Thiri,Completed
+ORD-00620,2026-01-09 00:00:00.000,CUST-0218,Customer 218,Shan,Taunggyi,Accessories,Power Bank,1,87100,0,87100,58000,29100,Wave Money,Aung Aung,Completed
+ORD-00621,2025-09-10 00:00:00.000,CUST-0055,Customer 055,Yangon,Hlaing,Office Supplies,Mouse,6,28100,0.08,-155112,-90000,-65112,Wave Money,May Zin,Returned
+ORD-00622,2026-01-28 00:00:00.000,CUST-0058,Customer 058,Yangon,Hlaing,Electronics,Headphones,7,96200,0.1,606060,385000,221060,Bank Transfer,Su Su,Completed
+ORD-00623,2025-11-26 00:00:00.000,CUST-0141,Customer 141,Naypyidaw,Pyinmana,Office Supplies,Keyboard,5,45000,0,225000,130000,95000,Wave Money,Min Min,Completed
+ORD-00624,2025-01-26 00:00:00.000,CUST-0103,Customer 103,Naypyidaw,Naypyidaw,Electronics,Headphones,2,100900,0.08,185656,110000,75656,Wave Money,Su Su,Completed
+ORD-00625,2026-08-20 00:00:00.000,CUST-0057,Customer 057,Naypyidaw,Zabuthiri,Office Supplies,Printer,3,376900,0.02,1108086,840000,268086,KBZ Pay,May Zin,Completed
+ORD-00626,2025-11-25 00:00:00.000,CUST-0027,Customer 027,Yangon,Mayangone,Accessories,USB Drive,3,33300,0,99900,54000,45900,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00627,2025-03-24 00:00:00.000,CUST-0096,Customer 096,Mandalay,Amarapura,Furniture,Desk,1,307200,0.08,282624,210000,72624,KBZ Pay,Htet Htet,Completed
+ORD-00628,2025-03-13 00:00:00.000,CUST-0023,Customer 023,Yangon,Mayangone,Electronics,Laptop,2,1269500,0.08,2335880,1900000,435880,Wave Money,Aung Aung,Completed
+ORD-00629,2025-01-18 00:00:00.000,CUST-0113,Customer 113,Yangon,Hlaing,Accessories,USB Drive,7,32000,0.05,212800,126000,86800,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00630,2026-07-12 00:00:00.000,CUST-0186,Customer 186,Shan,Lashio,Furniture,Meeting Table,1,519400,0,519400,365000,154400,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00631,2025-05-30 00:00:00.000,CUST-0089,Customer 089,Mandalay,Amarapura,Office Supplies,Mouse,6,28200,0,169200,90000,79200,KBZ Pay,Thiri,Completed
+ORD-00632,2025-08-21 00:00:00.000,CUST-0035,Customer 035,Yangon,Tamwe,Electronics,Monitor,4,413700,0.1,1489320,1200000,289320,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00633,2025-05-11 00:00:00.000,CUST-0133,Customer 133,Yangon,Mayangone,Accessories,Laptop Bag,1,77600,0.05,73720,43000,30720,Credit Card,Min Min,Completed
+ORD-00634,2025-05-01 00:00:00.000,CUST-0173,Customer 173,Naypyidaw,Naypyidaw,Accessories,Power Bank,7,88700,0,620900,406000,214900,Bank Transfer,Nandar,Completed
+ORD-00635,2025-01-24 00:00:00.000,CUST-0233,Customer 233,Yangon,Mayangone,Accessories,Webcam,6,89700,0.05,511290,312000,199290,KBZ Pay,Min Min,Completed
+ORD-00636,2025-07-11 00:00:00.000,CUST-0250,Customer 250,Naypyidaw,Pyinmana,Electronics,Monitor,2,432100,0.08,795064,600000,195064,Wave Money,Kyaw Kyaw,Completed
+ORD-00637,2025-10-31 00:00:00.000,CUST-0106,Customer 106,Yangon,Tamwe,Office Supplies,Keyboard,1,45900,0,45900,26000,19900,Wave Money,Min Min,Completed
+ORD-00638,2025-07-17 00:00:00.000,CUST-0137,Customer 137,Mandalay,Mandalay,Furniture,Meeting Table,2,556300,0.08,1023592,730000,293592,Bank Transfer,Thiri,Completed
+ORD-00639,2025-09-24 00:00:00.000,CUST-0188,Customer 188,Yangon,Tamwe,Electronics,Headphones,7,96200,0.05,639730,385000,254730,Credit Card,May Zin,Completed
+ORD-00640,2026-06-07 00:00:00.000,CUST-0173,Customer 173,Yangon,Hlaing,Furniture,Meeting Table,3,482500,0.05,1375125,1095000,280125,Credit Card,Thiri,Completed
+ORD-00641,2025-01-20 00:00:00.000,CUST-0225,Customer 225,Mandalay,Amarapura,Furniture,Desk,2,323200,0,646400,420000,226400,Wave Money,Aung Aung,Completed
+ORD-00642,2025-01-13 00:00:00.000,CUST-0185,Customer 185,Yangon,Mayangone,Electronics,Monitor,3,421200,0,1263600,900000,363600,Bank Transfer,May Zin,Completed
+ORD-00643,2026-01-22 00:00:00.000,CUST-0116,Customer 116,Naypyidaw,Pyinmana,Electronics,Headphones,6,100600,0.05,573420,330000,243420,KBZ Pay,Htet Htet,Completed
+ORD-00644,2026-07-05 00:00:00.000,CUST-0188,Customer 188,Shan,Lashio,Electronics,Monitor,4,395100,0.08,1453968,1200000,253968,Bank Transfer,Min Min,Completed
+ORD-00645,2026-06-11 00:00:00.000,CUST-0090,Customer 090,Yangon,Tamwe,Electronics,Headphones,1,99000,0.08,91080,55000,36080,Credit Card,Thiri,Completed
+ORD-00646,2025-03-01 00:00:00.000,CUST-0021,Customer 021,Yangon,Tamwe,Electronics,Smartphone,5,676900,0,3384500,2350000,1034500,Cash,Aung Aung,Completed
+ORD-00647,2025-10-06 00:00:00.000,CUST-0151,Customer 151,Mandalay,Mandalay,Office Supplies,Printer,4,385100,0.08,1417168,1120000,297168,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00648,2026-05-03 00:00:00.000,CUST-0084,Customer 084,Mandalay,Mandalay,Accessories,Webcam,1,90700,0.1,81630,52000,29630,KBZ Pay,Aung Aung,Completed
+ORD-00649,2025-07-21 00:00:00.000,CUST-0250,Customer 250,Bago,Pyay,Electronics,Smartphone,5,645900,0.02,3164910,2350000,814910,Wave Money,Nandar,Completed
+ORD-00650,2026-02-28 00:00:00.000,CUST-0148,Customer 148,Yangon,Tamwe,Office Supplies,Keyboard,3,44100,0.02,129654,78000,51654,Wave Money,Aung Aung,Completed
+ORD-00651,2025-03-07 00:00:00.000,CUST-0226,Customer 226,Yangon,Yangon,Electronics,Monitor,4,438500,0.02,1718920,1200000,518920,Bank Transfer,May Zin,Completed
+ORD-00652,2026-04-08 00:00:00.000,CUST-0106,Customer 106,Mandalay,Mandalay,Electronics,Smartphone,7,634700,0.08,4087468,3290000,797468,Bank Transfer,Nandar,Completed
+ORD-00653,2025-09-30 00:00:00.000,CUST-0110,Customer 110,Mandalay,Amarapura,Electronics,Laptop,7,1345300,0.02,-9228758,-6650000,-2578758,KBZ Pay,Su Su,Returned
+ORD-00654,2025-02-06 00:00:00.000,CUST-0235,Customer 235,Naypyidaw,Pyinmana,Accessories,Power Bank,6,92500,0,555000,348000,207000,Wave Money,May Zin,Completed
+ORD-00655,2026-03-09 00:00:00.000,CUST-0107,Customer 107,Bago,Taungoo,Electronics,Headphones,7,91700,0.02,629062,385000,244062,KBZ Pay,Su Su,Completed
+ORD-00656,2025-12-30 00:00:00.000,CUST-0248,Customer 248,Yangon,Tamwe,Office Supplies,Keyboard,2,42200,0.1,75960,52000,23960,Credit Card,Su Su,Completed
+ORD-00657,2025-05-03 00:00:00.000,CUST-0139,Customer 139,Naypyidaw,Pyinmana,Furniture,Meeting Table,6,521000,0.05,2969700,2190000,779700,Wave Money,May Zin,Completed
+ORD-00658,2026-04-05 00:00:00.000,CUST-0048,Customer 048,Yangon,Tamwe,Electronics,Headphones,3,87900,0.08,242604,165000,77604,Wave Money,Kyaw Kyaw,Completed
+ORD-00659,2025-05-29 00:00:00.000,CUST-0115,Customer 115,Yangon,Mayangone,Electronics,Monitor,5,446100,0,2230500,1500000,730500,Cash,Min Min,Completed
+ORD-00660,2025-04-11 00:00:00.000,CUST-0140,Customer 140,Naypyidaw,Zabuthiri,Electronics,Monitor,1,390100,0.1,351090,300000,51090,Wave Money,Htet Htet,Completed
+ORD-00661,2025-01-12 00:00:00.000,CUST-0160,Customer 160,Yangon,Hlaing,Furniture,Desk,1,310000,0,310000,210000,100000,Cash,Kyaw Kyaw,Completed
+ORD-00662,2025-11-22 00:00:00.000,CUST-0214,Customer 214,Yangon,Hlaing,Electronics,Headphones,5,88900,0,0,0,0,Wave Money,Kyaw Kyaw,Cancelled
+ORD-00663,2025-01-24 00:00:00.000,CUST-0214,Customer 214,Yangon,Mayangone,Electronics,Monitor,4,427500,0,-1710000,-1200000,-510000,Wave Money,Su Su,Returned
+ORD-00664,2025-04-26 00:00:00.000,CUST-0219,Customer 219,Shan,Muse,Electronics,Smartphone,4,603300,0.05,2292540,1880000,412540,Credit Card,Htet Htet,Completed
+ORD-00665,2025-09-18 00:00:00.000,CUST-0167,Customer 167,Yangon,Hlaing,Electronics,Monitor,7,411500,0,2880500,2100000,780500,Credit Card,Kyaw Kyaw,Completed
+ORD-00666,2026-04-21 00:00:00.000,CUST-0197,Customer 197,Yangon,Yangon,Electronics,Headphones,2,99300,0.02,194628,110000,84628,Credit Card,Min Min,Completed
+ORD-00667,2026-01-02 00:00:00.000,CUST-0106,Customer 106,Yangon,Mayangone,Electronics,Headphones,3,93800,0.02,275772,165000,110772,KBZ Pay,Min Min,Completed
+ORD-00668,2025-02-27 00:00:00.000,CUST-0039,Customer 039,Mandalay,Chanmyathazi,Office Supplies,Office Chair,5,251400,0.08,1156440,825000,331440,Wave Money,May Zin,Completed
+ORD-00669,2025-12-01 00:00:00.000,CUST-0240,Customer 240,Yangon,Mayangone,Electronics,Headphones,3,88000,0.1,237600,165000,72600,Cash,Su Su,Completed
+ORD-00670,2025-12-05 00:00:00.000,CUST-0168,Customer 168,Bago,Pyay,Electronics,Smartphone,3,691900,0,-2075700,-1410000,-665700,Wave Money,Htet Htet,Returned
+ORD-00671,2025-08-09 00:00:00.000,CUST-0246,Customer 246,Shan,Lashio,Accessories,Webcam,5,85700,0.05,407075,260000,147075,Bank Transfer,Htet Htet,Completed
+ORD-00672,2025-01-06 00:00:00.000,CUST-0017,Customer 017,Yangon,Mayangone,Furniture,Meeting Table,1,537800,0,537800,365000,172800,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00673,2026-07-23 00:00:00.000,CUST-0067,Customer 067,Yangon,Yangon,Electronics,Monitor,2,450400,0.02,-882784,-600000,-282784,Cash,Htet Htet,Returned
+ORD-00674,2025-06-01 00:00:00.000,CUST-0219,Customer 219,Yangon,Hlaing,Furniture,Meeting Table,3,530900,0,1592700,1095000,497700,Bank Transfer,Htet Htet,Completed
+ORD-00675,2026-06-30 00:00:00.000,CUST-0113,Customer 113,Mandalay,Chanmyathazi,Office Supplies,Mouse,6,28800,0.02,169344,90000,79344,Credit Card,Thiri,Completed
+ORD-00676,2025-07-24 00:00:00.000,CUST-0201,Customer 201,Mandalay,Mandalay,Electronics,Smartphone,3,651000,0.05,1855350,1410000,445350,KBZ Pay,Aung Aung,Completed
+ORD-00677,2025-08-21 00:00:00.000,CUST-0206,Customer 206,Mandalay,Amarapura,Electronics,Laptop,1,1293400,0.05,1228730,950000,278730,KBZ Pay,May Zin,Completed
+ORD-00678,2025-12-26 00:00:00.000,CUST-0087,Customer 087,Mandalay,Amarapura,Office Supplies,Keyboard,4,43200,0.05,164160,104000,60160,Wave Money,Htet Htet,Completed
+ORD-00679,2025-03-21 00:00:00.000,CUST-0055,Customer 055,Bago,Bago,Accessories,USB Drive,2,33100,0,66200,36000,30200,Wave Money,May Zin,Completed
+ORD-00680,2026-07-28 00:00:00.000,CUST-0130,Customer 130,Shan,Taunggyi,Office Supplies,Printer,5,390600,0,1953000,1400000,553000,Cash,Thiri,Completed
+ORD-00681,2026-02-19 00:00:00.000,CUST-0153,Customer 153,Mandalay,Chanmyathazi,Office Supplies,Office Chair,7,223100,0.1,1405530,1155000,250530,Wave Money,Thiri,Completed
+ORD-00682,2025-03-26 00:00:00.000,CUST-0047,Customer 047,Mandalay,Mandalay,Accessories,Laptop Bag,6,76200,0.05,434340,258000,176340,Wave Money,May Zin,Completed
+ORD-00683,2026-02-26 00:00:00.000,CUST-0033,Customer 033,Mandalay,Amarapura,Furniture,Desk,7,313200,0,2192400,1470000,722400,Wave Money,Kyaw Kyaw,Completed
+ORD-00684,2025-12-03 00:00:00.000,CUST-0114,Customer 114,Shan,Lashio,Office Supplies,Office Chair,7,256100,0.05,1703065,1155000,548065,Bank Transfer,Htet Htet,Completed
+ORD-00685,2026-06-12 00:00:00.000,CUST-0188,Customer 188,Yangon,Tamwe,Office Supplies,Office Chair,6,236700,0.02,1391796,990000,401796,Credit Card,Htet Htet,Completed
+ORD-00686,2026-05-18 00:00:00.000,CUST-0236,Customer 236,Yangon,Yangon,Electronics,Headphones,4,99200,0.08,365056,220000,145056,KBZ Pay,Min Min,Completed
+ORD-00687,2025-04-26 00:00:00.000,CUST-0244,Customer 244,Yangon,Hlaing,Office Supplies,Printer,6,394000,0.02,2316720,1680000,636720,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00688,2026-02-19 00:00:00.000,CUST-0221,Customer 221,Shan,Taunggyi,Office Supplies,Office Chair,6,242400,0.05,1381680,990000,391680,Wave Money,Nandar,Completed
+ORD-00689,2026-03-14 00:00:00.000,CUST-0031,Customer 031,Yangon,Mayangone,Electronics,Headphones,3,90400,0,0,0,0,Cash,Min Min,Cancelled
+ORD-00690,2025-02-23 00:00:00.000,CUST-0189,Customer 189,Mandalay,Amarapura,Accessories,USB Drive,6,31100,0.1,167940,108000,59940,Cash,Min Min,Completed
+ORD-00691,2025-07-31 00:00:00.000,CUST-0108,Customer 108,Yangon,Mayangone,Furniture,Bookshelf,1,192900,0.05,183255,115000,68255,Bank Transfer,Min Min,Completed
+ORD-00692,2026-03-19 00:00:00.000,CUST-0228,Customer 228,Yangon,Yangon,Furniture,Meeting Table,2,515800,0.08,949072,730000,219072,KBZ Pay,Thiri,Completed
+ORD-00693,2025-07-23 00:00:00.000,CUST-0180,Customer 180,Yangon,Tamwe,Office Supplies,Printer,3,374300,0.15,954465,840000,114465,KBZ Pay,Nandar,Completed
+ORD-00694,2025-10-22 00:00:00.000,CUST-0116,Customer 116,Yangon,Yangon,Office Supplies,Keyboard,7,44400,0,0,0,0,Bank Transfer,Nandar,Cancelled
+ORD-00695,2025-11-07 00:00:00.000,CUST-0012,Customer 012,Yangon,Tamwe,Office Supplies,Printer,6,386500,0.15,1971150,1680000,291150,Cash,Min Min,Completed
+ORD-00696,2026-03-23 00:00:00.000,CUST-0034,Customer 034,Yangon,Mayangone,Accessories,Laptop Bag,3,77200,0,231600,129000,102600,Credit Card,May Zin,Completed
+ORD-00697,2025-05-08 00:00:00.000,CUST-0016,Customer 016,Naypyidaw,Pyinmana,Furniture,Meeting Table,1,491400,0.02,481572,365000,116572,KBZ Pay,May Zin,Completed
+ORD-00698,2026-08-12 00:00:00.000,CUST-0216,Customer 216,Shan,Taunggyi,Electronics,Monitor,7,411000,0.1,2589300,2100000,489300,Wave Money,Kyaw Kyaw,Completed
+ORD-00699,2026-07-27 00:00:00.000,CUST-0070,Customer 070,Yangon,Yangon,Electronics,Smartphone,3,690400,0.05,1967640,1410000,557640,KBZ Pay,Aung Aung,Completed
+ORD-00700,2025-06-14 00:00:00.000,CUST-0139,Customer 139,Yangon,Hlaing,Office Supplies,Printer,1,383600,0.05,364420,280000,84420,Credit Card,Aung Aung,Completed
+ORD-00701,2026-03-25 00:00:00.000,CUST-0164,Customer 164,Mandalay,Mandalay,Electronics,Smartphone,1,672200,0.02,658756,470000,188756,Bank Transfer,Thiri,Completed
+ORD-00702,2026-08-21 00:00:00.000,CUST-0247,Customer 247,Mandalay,Amarapura,Office Supplies,Printer,4,371300,0.08,1366384,1120000,246384,Bank Transfer,Aung Aung,Completed
+ORD-00703,2026-04-13 00:00:00.000,CUST-0217,Customer 217,Mandalay,Mandalay,Electronics,Headphones,6,101400,0.02,596232,330000,266232,Wave Money,Min Min,Completed
+ORD-00704,2025-12-19 00:00:00.000,CUST-0077,Customer 077,Shan,Lashio,Electronics,Smartphone,6,640700,0.05,3651990,2820000,831990,KBZ Pay,Min Min,Completed
+ORD-00705,2026-01-12 00:00:00.000,CUST-0172,Customer 172,Mandalay,Chanmyathazi,Office Supplies,Mouse,1,29100,0.02,28518,15000,13518,Credit Card,Thiri,Completed
+ORD-00706,2026-02-05 00:00:00.000,CUST-0198,Customer 198,Mandalay,Mandalay,Office Supplies,Office Chair,3,240800,0.05,686280,495000,191280,Credit Card,Htet Htet,Completed
+ORD-00707,2025-08-04 00:00:00.000,CUST-0088,Customer 088,Bago,Pyay,Accessories,Webcam,1,81600,0,81600,52000,29600,Cash,Aung Aung,Completed
+ORD-00708,2025-05-05 00:00:00.000,CUST-0186,Customer 186,Mandalay,Chanmyathazi,Electronics,Smartphone,5,665800,0.08,3062680,2350000,712680,Credit Card,Htet Htet,Completed
+ORD-00709,2025-09-25 00:00:00.000,CUST-0128,Customer 128,Mandalay,Chanmyathazi,Office Supplies,Office Chair,4,241900,0.1,-870840,-660000,-210840,Cash,May Zin,Returned
+ORD-00710,2025-09-10 00:00:00.000,CUST-0015,Customer 015,Yangon,Mayangone,Furniture,Meeting Table,3,528500,0.08,1458660,1095000,363660,Wave Money,Thiri,Completed
+ORD-00711,2026-08-27 00:00:00.000,CUST-0104,Customer 104,Shan,Muse,Accessories,Webcam,7,80900,0.05,537985,364000,173985,KBZ Pay,Htet Htet,Completed
+ORD-00712,2025-02-12 00:00:00.000,CUST-0148,Customer 148,Yangon,Hlaing,Electronics,Laptop,3,1261900,0.02,3709986,2850000,859986,Bank Transfer,Thiri,Completed
+ORD-00713,2026-04-16 00:00:00.000,CUST-0197,Customer 197,Yangon,Mayangone,Electronics,Smartphone,4,613800,0,2455200,1880000,575200,Credit Card,Min Min,Completed
+ORD-00714,2025-01-24 00:00:00.000,CUST-0241,Customer 241,Bago,Pyay,Accessories,Power Bank,5,86400,0.05,410400,290000,120400,Cash,Min Min,Completed
+ORD-00715,2025-06-12 00:00:00.000,CUST-0187,Customer 187,Yangon,Yangon,Office Supplies,Keyboard,7,43500,0.08,280140,182000,98140,KBZ Pay,Su Su,Completed
+ORD-00716,2026-03-07 00:00:00.000,CUST-0081,Customer 081,Yangon,Mayangone,Office Supplies,Office Chair,2,246200,0.02,482552,330000,152552,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00717,2026-01-11 00:00:00.000,CUST-0124,Customer 124,Naypyidaw,Pyinmana,Electronics,Smartphone,6,683100,0.1,3688740,2820000,868740,Credit Card,Nandar,Completed
+ORD-00718,2026-07-11 00:00:00.000,CUST-0016,Customer 016,Yangon,Yangon,Office Supplies,Keyboard,4,42300,0,169200,104000,65200,Bank Transfer,Aung Aung,Completed
+ORD-00719,2026-01-06 00:00:00.000,CUST-0161,Customer 161,Yangon,Tamwe,Furniture,Desk,1,313700,0.08,288604,210000,78604,Bank Transfer,Su Su,Completed
+ORD-00720,2025-08-27 00:00:00.000,CUST-0088,Customer 088,Mandalay,Amarapura,Electronics,Smartphone,4,667100,0.08,2454928,1880000,574928,Bank Transfer,Su Su,Completed
+ORD-00721,2025-06-25 00:00:00.000,CUST-0188,Customer 188,Yangon,Tamwe,Furniture,Meeting Table,1,549400,0.08,-505448,-365000,-140448,Cash,May Zin,Returned
+ORD-00722,2026-03-17 00:00:00.000,CUST-0134,Customer 134,Naypyidaw,Zabuthiri,Office Supplies,Printer,7,354900,0,2484300,1960000,524300,Cash,May Zin,Completed
+ORD-00723,2025-06-11 00:00:00.000,CUST-0186,Customer 186,Shan,Taunggyi,Electronics,Monitor,4,397400,0.02,1557808,1200000,357808,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00724,2025-06-13 00:00:00.000,CUST-0104,Customer 104,Yangon,Tamwe,Electronics,Headphones,5,100600,0.05,477850,275000,202850,Wave Money,Kyaw Kyaw,Completed
+ORD-00725,2026-03-02 00:00:00.000,CUST-0188,Customer 188,Yangon,Tamwe,Accessories,Webcam,7,83000,0.05,551950,364000,187950,Credit Card,Thiri,Completed
+ORD-00726,2025-05-18 00:00:00.000,CUST-0001,Customer 001,Bago,Taungoo,Furniture,Desk,2,305600,0.02,598976,420000,178976,Bank Transfer,Thiri,Completed
+ORD-00727,2026-08-15 00:00:00.000,CUST-0028,Customer 028,Yangon,Mayangone,Accessories,Power Bank,5,84200,0.05,399950,290000,109950,Wave Money,Su Su,Completed
+ORD-00728,2025-04-09 00:00:00.000,CUST-0203,Customer 203,Mandalay,Chanmyathazi,Furniture,Desk,2,326100,0.05,619590,420000,199590,Cash,Htet Htet,Completed
+ORD-00729,2026-07-14 00:00:00.000,CUST-0202,Customer 202,Mandalay,Mandalay,Electronics,Headphones,6,101600,0.05,579120,330000,249120,Credit Card,Su Su,Completed
+ORD-00730,2025-02-12 00:00:00.000,CUST-0072,Customer 072,Bago,Taungoo,Electronics,Smartphone,6,618500,0,3711000,2820000,891000,Bank Transfer,Nandar,Completed
+ORD-00731,2025-11-02 00:00:00.000,CUST-0117,Customer 117,Yangon,Yangon,Electronics,Smartphone,6,635800,0.02,3738504,2820000,918504,Wave Money,Min Min,Completed
+ORD-00732,2025-10-03 00:00:00.000,CUST-0247,Customer 247,Mandalay,Amarapura,Electronics,Smartphone,2,606900,0.1,1092420,940000,152420,KBZ Pay,Htet Htet,Completed
+ORD-00733,2026-03-21 00:00:00.000,CUST-0075,Customer 075,Mandalay,Amarapura,Accessories,Laptop Bag,7,79900,0.08,514556,301000,213556,Bank Transfer,Nandar,Completed
+ORD-00734,2026-02-18 00:00:00.000,CUST-0023,Customer 023,Shan,Muse,Office Supplies,Keyboard,6,47700,0.08,263304,156000,107304,Credit Card,May Zin,Completed
+ORD-00735,2026-06-09 00:00:00.000,CUST-0200,Customer 200,Yangon,Hlaing,Office Supplies,Office Chair,5,240100,0,1200500,825000,375500,KBZ Pay,Min Min,Completed
+ORD-00736,2025-10-24 00:00:00.000,CUST-0099,Customer 099,Mandalay,Amarapura,Electronics,Headphones,2,91400,0.08,168176,110000,58176,Credit Card,Kyaw Kyaw,Completed
+ORD-00737,2025-05-18 00:00:00.000,CUST-0029,Customer 029,Yangon,Hlaing,Electronics,Laptop,1,1179900,0.05,1120905,950000,170905,Wave Money,Su Su,Completed
+ORD-00738,2025-01-20 00:00:00.000,CUST-0191,Customer 191,Yangon,Hlaing,Office Supplies,Mouse,2,26300,0.08,48392,30000,18392,Cash,Thiri,Completed
+ORD-00739,2025-01-19 00:00:00.000,CUST-0204,Customer 204,Bago,Pyay,Furniture,Meeting Table,6,497600,0.08,2746752,2190000,556752,Bank Transfer,Thiri,Completed
+ORD-00740,2025-05-19 00:00:00.000,CUST-0048,Customer 048,Shan,Taunggyi,Electronics,Monitor,4,411900,0.1,1482840,1200000,282840,Credit Card,Nandar,Completed
+ORD-00741,2025-08-01 00:00:00.000,CUST-0077,Customer 077,Bago,Pyay,Electronics,Laptop,4,1279800,0.08,4709664,3800000,909664,KBZ Pay,May Zin,Completed
+ORD-00742,2026-04-21 00:00:00.000,CUST-0058,Customer 058,Yangon,Mayangone,Accessories,USB Drive,5,31100,0.08,143060,90000,53060,Bank Transfer,Aung Aung,Completed
+ORD-00743,2025-05-22 00:00:00.000,CUST-0209,Customer 209,Naypyidaw,Pyinmana,Office Supplies,Printer,6,358500,0.08,0,0,0,KBZ Pay,Nandar,Cancelled
+ORD-00744,2025-02-12 00:00:00.000,CUST-0049,Customer 049,Mandalay,Chanmyathazi,Office Supplies,Office Chair,6,241600,0.08,1333632,990000,343632,Wave Money,Min Min,Completed
+ORD-00745,2025-09-03 00:00:00.000,CUST-0062,Customer 062,Yangon,Tamwe,Accessories,Webcam,7,83900,0.08,-540316,-364000,-176316,Bank Transfer,May Zin,Returned
+ORD-00746,2025-07-18 00:00:00.000,CUST-0052,Customer 052,Yangon,Hlaing,Office Supplies,Keyboard,6,44400,0.05,253080,156000,97080,Cash,Kyaw Kyaw,Completed
+ORD-00747,2025-03-29 00:00:00.000,CUST-0089,Customer 089,Yangon,Hlaing,Office Supplies,Printer,1,400400,0.1,360360,280000,80360,Bank Transfer,Nandar,Completed
+ORD-00748,2025-09-29 00:00:00.000,CUST-0239,Customer 239,Yangon,Yangon,Accessories,Laptop Bag,1,71900,0,-71900,-43000,-28900,KBZ Pay,Aung Aung,Returned
+ORD-00749,2025-12-04 00:00:00.000,CUST-0057,Customer 057,Shan,Taunggyi,Furniture,Desk,3,318000,0.02,934920,630000,304920,Wave Money,Nandar,Completed
+ORD-00750,2025-12-15 00:00:00.000,CUST-0130,Customer 130,Yangon,Tamwe,Electronics,Headphones,6,90600,0.02,532728,330000,202728,KBZ Pay,May Zin,Completed
+ORD-00751,2025-10-06 00:00:00.000,CUST-0146,Customer 146,Yangon,Mayangone,Electronics,Headphones,3,92800,0.08,256128,165000,91128,Cash,May Zin,Completed
+ORD-00752,2025-02-20 00:00:00.000,CUST-0010,Customer 010,Bago,Pyay,Office Supplies,Mouse,4,30200,0.02,118384,60000,58384,Cash,Htet Htet,Completed
+ORD-00753,2025-05-28 00:00:00.000,CUST-0025,Customer 025,Naypyidaw,Naypyidaw,Office Supplies,Office Chair,6,231000,0.05,1316700,990000,326700,Credit Card,Htet Htet,Completed
+ORD-00754,2026-02-09 00:00:00.000,CUST-0209,Customer 209,Yangon,Mayangone,Electronics,Smartphone,6,606100,0.08,3345672,2820000,525672,Cash,Aung Aung,Completed
+ORD-00755,2026-03-19 00:00:00.000,CUST-0014,Customer 014,Bago,Bago,Electronics,Monitor,7,404700,0.05,-2691255,-2100000,-591255,KBZ Pay,Kyaw Kyaw,Returned
+ORD-00756,2025-09-14 00:00:00.000,CUST-0072,Customer 072,Mandalay,Mandalay,Accessories,Webcam,7,87400,0.08,562856,364000,198856,Wave Money,Su Su,Completed
+ORD-00757,2025-10-10 00:00:00.000,CUST-0068,Customer 068,Shan,Muse,Office Supplies,Office Chair,7,244700,0,1712900,1155000,557900,Cash,Nandar,Completed
+ORD-00758,2026-07-29 00:00:00.000,CUST-0124,Customer 124,Naypyidaw,Naypyidaw,Office Supplies,Mouse,7,26900,0.05,178885,105000,73885,KBZ Pay,Min Min,Completed
+ORD-00759,2026-08-23 00:00:00.000,CUST-0095,Customer 095,Mandalay,Amarapura,Electronics,Laptop,3,1168200,0.1,3154140,2850000,304140,Cash,Htet Htet,Completed
+ORD-00760,2025-08-17 00:00:00.000,CUST-0054,Customer 054,Bago,Taungoo,Furniture,Meeting Table,1,558900,0.02,0,0,0,KBZ Pay,Htet Htet,Cancelled
+ORD-00761,2025-12-01 00:00:00.000,CUST-0043,Customer 043,Yangon,Hlaing,Furniture,Bookshelf,5,177600,0.08,-816960,-575000,-241960,KBZ Pay,May Zin,Returned
+ORD-00762,2025-04-11 00:00:00.000,CUST-0214,Customer 214,Shan,Muse,Electronics,Smartphone,5,657500,0.1,2958750,2350000,608750,Credit Card,Nandar,Completed
+ORD-00763,2026-03-11 00:00:00.000,CUST-0090,Customer 090,Mandalay,Amarapura,Furniture,Bookshelf,1,179400,0,179400,115000,64400,KBZ Pay,Nandar,Completed
+ORD-00764,2025-01-30 00:00:00.000,CUST-0131,Customer 131,Yangon,Mayangone,Electronics,Monitor,1,399700,0.15,339745,300000,39745,KBZ Pay,Min Min,Completed
+ORD-00765,2025-12-17 00:00:00.000,CUST-0225,Customer 225,Yangon,Mayangone,Office Supplies,Mouse,6,28000,0,168000,90000,78000,Wave Money,Htet Htet,Completed
+ORD-00766,2025-04-28 00:00:00.000,CUST-0166,Customer 166,Bago,Pyay,Furniture,Meeting Table,6,516800,0.02,3038784,2190000,848784,KBZ Pay,Su Su,Completed
+ORD-00767,2025-07-29 00:00:00.000,CUST-0088,Customer 088,Naypyidaw,Pyinmana,Office Supplies,Office Chair,3,244800,0,734400,495000,239400,KBZ Pay,Thiri,Completed
+ORD-00768,2025-01-13 00:00:00.000,CUST-0236,Customer 236,Bago,Pyay,Office Supplies,Mouse,2,26200,0.05,0,0,0,KBZ Pay,Htet Htet,Cancelled
+ORD-00769,2025-09-30 00:00:00.000,CUST-0089,Customer 089,Shan,Taunggyi,Furniture,Desk,4,296500,0.1,1067400,840000,227400,Cash,Aung Aung,Completed
+ORD-00770,2025-04-09 00:00:00.000,CUST-0083,Customer 083,Yangon,Hlaing,Office Supplies,Printer,7,403500,0.02,2768010,1960000,808010,KBZ Pay,Nandar,Completed
+ORD-00771,2025-12-25 00:00:00.000,CUST-0250,Customer 250,Mandalay,Amarapura,Accessories,Laptop Bag,6,74900,0.05,426930,258000,168930,Credit Card,May Zin,Completed
+ORD-00772,2026-04-17 00:00:00.000,CUST-0017,Customer 017,Shan,Muse,Electronics,Headphones,6,89600,0.05,510720,330000,180720,Cash,Htet Htet,Completed
+ORD-00773,2025-11-23 00:00:00.000,CUST-0073,Customer 073,Shan,Taunggyi,Accessories,USB Drive,3,32200,0.15,82110,54000,28110,Bank Transfer,Su Su,Completed
+ORD-00774,2025-02-15 00:00:00.000,CUST-0249,Customer 249,Yangon,Tamwe,Electronics,Laptop,7,1159200,0.05,7708680,6650000,1058680,Credit Card,Min Min,Completed
+ORD-00775,2026-03-18 00:00:00.000,CUST-0167,Customer 167,Naypyidaw,Zabuthiri,Furniture,Meeting Table,4,522700,0.02,2048984,1460000,588984,Wave Money,May Zin,Completed
+ORD-00776,2025-07-26 00:00:00.000,CUST-0062,Customer 062,Yangon,Mayangone,Electronics,Laptop,1,1316600,0.1,1184940,950000,234940,Wave Money,Aung Aung,Completed
+ORD-00777,2026-07-22 00:00:00.000,CUST-0175,Customer 175,Yangon,Mayangone,Accessories,USB Drive,3,31100,0.08,85836,54000,31836,Bank Transfer,Min Min,Completed
+ORD-00778,2026-03-07 00:00:00.000,CUST-0060,Customer 060,Shan,Lashio,Accessories,Webcam,7,78600,0,550200,364000,186200,Bank Transfer,Thiri,Completed
+ORD-00779,2025-09-14 00:00:00.000,CUST-0177,Customer 177,Shan,Taunggyi,Office Supplies,Keyboard,5,42400,0.05,201400,130000,71400,Cash,Nandar,Completed
+ORD-00780,2025-11-24 00:00:00.000,CUST-0131,Customer 131,Shan,Taunggyi,Electronics,Headphones,6,89000,0.05,507300,330000,177300,KBZ Pay,Aung Aung,Completed
+ORD-00781,2025-11-12 00:00:00.000,CUST-0188,Customer 188,Yangon,Hlaing,Office Supplies,Office Chair,1,237300,0.02,-232554,-165000,-67554,Credit Card,Htet Htet,Returned
+ORD-00782,2026-03-10 00:00:00.000,CUST-0247,Customer 247,Bago,Bago,Office Supplies,Printer,2,358800,0.05,681720,560000,121720,Wave Money,Htet Htet,Completed
+ORD-00783,2025-08-18 00:00:00.000,CUST-0220,Customer 220,Naypyidaw,Zabuthiri,Office Supplies,Keyboard,1,43700,0.1,39330,26000,13330,Cash,Thiri,Completed
+ORD-00784,2026-06-23 00:00:00.000,CUST-0227,Customer 227,Naypyidaw,Naypyidaw,Furniture,Meeting Table,4,526100,0,-2104400,-1460000,-644400,Bank Transfer,Thiri,Returned
+ORD-00785,2026-07-12 00:00:00.000,CUST-0237,Customer 237,Shan,Muse,Accessories,Power Bank,7,96600,0,676200,406000,270200,Cash,Min Min,Completed
+ORD-00786,2026-05-01 00:00:00.000,CUST-0154,Customer 154,Mandalay,Chanmyathazi,Furniture,Meeting Table,5,532100,0,2660500,1825000,835500,Bank Transfer,Aung Aung,Completed
+ORD-00787,2025-05-27 00:00:00.000,CUST-0165,Customer 165,Shan,Taunggyi,Furniture,Meeting Table,2,497900,0.02,975884,730000,245884,Wave Money,Su Su,Completed
+ORD-00788,2025-06-15 00:00:00.000,CUST-0205,Customer 205,Yangon,Yangon,Office Supplies,Printer,3,390600,0.05,1113210,840000,273210,KBZ Pay,Aung Aung,Completed
+ORD-00789,2025-12-03 00:00:00.000,CUST-0061,Customer 061,Yangon,Tamwe,Office Supplies,Printer,3,391200,0.08,1079712,840000,239712,KBZ Pay,May Zin,Completed
+ORD-00790,2025-06-27 00:00:00.000,CUST-0176,Customer 176,Mandalay,Chanmyathazi,Electronics,Headphones,3,91800,0.05,261630,165000,96630,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00791,2026-05-09 00:00:00.000,CUST-0081,Customer 081,Mandalay,Mandalay,Electronics,Monitor,1,446500,0.08,410780,300000,110780,KBZ Pay,May Zin,Completed
+ORD-00792,2025-01-23 00:00:00.000,CUST-0167,Customer 167,Mandalay,Amarapura,Office Supplies,Office Chair,3,246500,0.15,628575,495000,133575,Cash,Su Su,Completed
+ORD-00793,2025-11-07 00:00:00.000,CUST-0160,Customer 160,Yangon,Yangon,Furniture,Desk,4,312200,0.02,1223824,840000,383824,Credit Card,Su Su,Completed
+ORD-00794,2025-08-20 00:00:00.000,CUST-0184,Customer 184,Mandalay,Amarapura,Furniture,Meeting Table,5,509000,0,2545000,1825000,720000,KBZ Pay,May Zin,Completed
+ORD-00795,2025-05-09 00:00:00.000,CUST-0161,Customer 161,Mandalay,Mandalay,Office Supplies,Mouse,4,29500,0.05,-112100,-60000,-52100,Cash,Htet Htet,Returned
+ORD-00796,2025-07-08 00:00:00.000,CUST-0233,Customer 233,Shan,Lashio,Electronics,Smartphone,2,665100,0.02,1303596,940000,363596,Bank Transfer,May Zin,Completed
+ORD-00797,2026-03-28 00:00:00.000,CUST-0239,Customer 239,Naypyidaw,Pyinmana,Electronics,Smartphone,1,645700,0.08,594044,470000,124044,Bank Transfer,May Zin,Completed
+ORD-00798,2026-03-27 00:00:00.000,CUST-0144,Customer 144,Mandalay,Mandalay,Electronics,Smartphone,1,685900,0.05,651605,470000,181605,Credit Card,Aung Aung,Completed
+ORD-00799,2025-11-29 00:00:00.000,CUST-0112,Customer 112,Bago,Pyay,Furniture,Meeting Table,1,502600,0.02,492548,365000,127548,Cash,Kyaw Kyaw,Completed
+ORD-00800,2026-07-18 00:00:00.000,CUST-0087,Customer 087,Naypyidaw,Zabuthiri,Office Supplies,Printer,3,355400,0,1066200,840000,226200,Wave Money,Thiri,Completed
+ORD-00801,2025-09-05 00:00:00.000,CUST-0096,Customer 096,Shan,Muse,Accessories,Laptop Bag,7,73800,0.02,506268,301000,205268,KBZ Pay,Nandar,Completed
+ORD-00802,2025-11-05 00:00:00.000,CUST-0038,Customer 038,Yangon,Yangon,Accessories,USB Drive,7,32200,0.1,202860,126000,76860,Bank Transfer,Su Su,Completed
+ORD-00803,2025-02-08 00:00:00.000,CUST-0087,Customer 087,Yangon,Hlaing,Office Supplies,Office Chair,4,229400,0.05,0,0,0,KBZ Pay,Su Su,Cancelled
+ORD-00804,2025-03-03 00:00:00.000,CUST-0016,Customer 016,Yangon,Hlaing,Electronics,Smartphone,1,603900,0.02,591822,470000,121822,Wave Money,Nandar,Completed
+ORD-00805,2026-01-22 00:00:00.000,CUST-0161,Customer 161,Naypyidaw,Zabuthiri,Office Supplies,Printer,2,365400,0,730800,560000,170800,Wave Money,Nandar,Completed
+ORD-00806,2026-03-24 00:00:00.000,CUST-0238,Customer 238,Naypyidaw,Pyinmana,Electronics,Headphones,2,100000,0.02,-196000,-110000,-86000,Wave Money,Htet Htet,Returned
+ORD-00807,2026-05-05 00:00:00.000,CUST-0082,Customer 082,Naypyidaw,Naypyidaw,Electronics,Headphones,1,91200,0.08,83904,55000,28904,Wave Money,Su Su,Completed
+ORD-00808,2026-03-16 00:00:00.000,CUST-0224,Customer 224,Naypyidaw,Naypyidaw,Office Supplies,Printer,1,361100,0.05,343045,280000,63045,KBZ Pay,Nandar,Completed
+ORD-00809,2025-04-20 00:00:00.000,CUST-0086,Customer 086,Naypyidaw,Pyinmana,Furniture,Meeting Table,5,552800,0.1,2487600,1825000,662600,Credit Card,Su Su,Completed
+ORD-00810,2025-01-19 00:00:00.000,CUST-0097,Customer 097,Shan,Lashio,Furniture,Bookshelf,4,182300,0.08,-670864,-460000,-210864,Credit Card,Nandar,Returned
+ORD-00811,2025-10-05 00:00:00.000,CUST-0204,Customer 204,Yangon,Yangon,Furniture,Desk,5,305900,0.08,1407140,1050000,357140,Cash,Kyaw Kyaw,Completed
+ORD-00812,2026-06-01 00:00:00.000,CUST-0069,Customer 069,Naypyidaw,Zabuthiri,Accessories,USB Drive,3,33600,0.02,98784,54000,44784,KBZ Pay,May Zin,Completed
+ORD-00813,2025-12-04 00:00:00.000,CUST-0135,Customer 135,Bago,Pyay,Accessories,Webcam,5,87300,0,436500,260000,176500,Cash,Kyaw Kyaw,Completed
+ORD-00814,2026-03-13 00:00:00.000,CUST-0064,Customer 064,Yangon,Yangon,Furniture,Bookshelf,3,166700,0.05,475095,345000,130095,Bank Transfer,Min Min,Completed
+ORD-00815,2025-12-11 00:00:00.000,CUST-0137,Customer 137,Yangon,Mayangone,Office Supplies,Printer,3,391600,0.05,1116060,840000,276060,Credit Card,Aung Aung,Completed
+ORD-00816,2025-01-29 00:00:00.000,CUST-0237,Customer 237,Naypyidaw,Naypyidaw,Office Supplies,Keyboard,6,48500,0.08,267720,156000,111720,KBZ Pay,Thiri,Completed
+ORD-00817,2026-07-20 00:00:00.000,CUST-0049,Customer 049,Shan,Taunggyi,Electronics,Smartphone,7,625300,0,4377100,3290000,1087100,Credit Card,Aung Aung,Completed
+ORD-00818,2025-09-15 00:00:00.000,CUST-0117,Customer 117,Bago,Taungoo,Electronics,Smartphone,3,682500,0.08,1883700,1410000,473700,Credit Card,Thiri,Completed
+ORD-00819,2025-04-05 00:00:00.000,CUST-0147,Customer 147,Mandalay,Chanmyathazi,Furniture,Meeting Table,7,543100,0.05,3611615,2555000,1056615,Cash,Nandar,Completed
+ORD-00820,2025-08-01 00:00:00.000,CUST-0154,Customer 154,Naypyidaw,Naypyidaw,Electronics,Laptop,5,1214500,0.15,0,0,0,Credit Card,Su Su,Cancelled
+ORD-00821,2026-02-19 00:00:00.000,CUST-0093,Customer 093,Mandalay,Mandalay,Electronics,Monitor,3,398000,0.05,1134300,900000,234300,Wave Money,Kyaw Kyaw,Completed
+ORD-00822,2025-12-25 00:00:00.000,CUST-0036,Customer 036,Yangon,Tamwe,Electronics,Smartphone,1,657200,0.08,604624,470000,134624,Wave Money,Min Min,Completed
+ORD-00823,2025-05-23 00:00:00.000,CUST-0087,Customer 087,Yangon,Tamwe,Office Supplies,Keyboard,4,43300,0.08,159344,104000,55344,Wave Money,Kyaw Kyaw,Completed
+ORD-00824,2025-04-14 00:00:00.000,CUST-0206,Customer 206,Yangon,Mayangone,Electronics,Smartphone,4,647900,0,2591600,1880000,711600,Bank Transfer,May Zin,Completed
+ORD-00825,2025-11-12 00:00:00.000,CUST-0179,Customer 179,Yangon,Hlaing,Electronics,Laptop,7,1194700,0.1,7526610,6650000,876610,Bank Transfer,Su Su,Completed
+ORD-00826,2025-05-04 00:00:00.000,CUST-0188,Customer 188,Shan,Lashio,Office Supplies,Keyboard,6,42100,0.05,-239970,-156000,-83970,Wave Money,Nandar,Returned
+ORD-00827,2025-03-27 00:00:00.000,CUST-0072,Customer 072,Yangon,Mayangone,Office Supplies,Keyboard,7,46000,0.1,289800,182000,107800,Credit Card,Kyaw Kyaw,Completed
+ORD-00828,2025-01-24 00:00:00.000,CUST-0189,Customer 189,Mandalay,Mandalay,Electronics,Monitor,3,417500,0.05,1189875,900000,289875,Credit Card,Su Su,Completed
+ORD-00829,2026-02-24 00:00:00.000,CUST-0189,Customer 189,Yangon,Yangon,Furniture,Meeting Table,4,521600,0.05,1982080,1460000,522080,Cash,Su Su,Completed
+ORD-00830,2025-03-11 00:00:00.000,CUST-0032,Customer 032,Mandalay,Chanmyathazi,Electronics,Laptop,7,1337200,0.1,0,0,0,KBZ Pay,Kyaw Kyaw,Cancelled
+ORD-00831,2026-07-21 00:00:00.000,CUST-0163,Customer 163,Bago,Bago,Furniture,Bookshelf,6,186000,0.02,1093680,690000,403680,KBZ Pay,May Zin,Completed
+ORD-00832,2026-04-12 00:00:00.000,CUST-0175,Customer 175,Naypyidaw,Zabuthiri,Accessories,USB Drive,2,31800,0,-63600,-36000,-27600,Credit Card,Nandar,Returned
+ORD-00833,2026-06-03 00:00:00.000,CUST-0004,Customer 004,Mandalay,Chanmyathazi,Accessories,USB Drive,5,32900,0.02,161210,90000,71210,Cash,Su Su,Completed
+ORD-00834,2026-05-30 00:00:00.000,CUST-0169,Customer 169,Shan,Taunggyi,Electronics,Smartphone,6,615100,0.02,3616788,2820000,796788,Bank Transfer,Su Su,Completed
+ORD-00835,2025-06-24 00:00:00.000,CUST-0115,Customer 115,Yangon,Yangon,Accessories,Power Bank,6,90100,0.1,486540,348000,138540,Cash,Htet Htet,Completed
+ORD-00836,2026-02-06 00:00:00.000,CUST-0145,Customer 145,Mandalay,Chanmyathazi,Office Supplies,Office Chair,2,256900,0.1,462420,330000,132420,KBZ Pay,Su Su,Completed
+ORD-00837,2026-08-06 00:00:00.000,CUST-0114,Customer 114,Naypyidaw,Naypyidaw,Accessories,Power Bank,3,85500,0.05,243675,174000,69675,Credit Card,May Zin,Completed
+ORD-00838,2026-05-17 00:00:00.000,CUST-0062,Customer 062,Bago,Pyay,Furniture,Meeting Table,5,553800,0.1,2492100,1825000,667100,Cash,Min Min,Completed
+ORD-00839,2025-09-07 00:00:00.000,CUST-0164,Customer 164,Naypyidaw,Pyinmana,Office Supplies,Mouse,5,28500,0.1,128250,75000,53250,Bank Transfer,Aung Aung,Completed
+ORD-00840,2025-10-25 00:00:00.000,CUST-0235,Customer 235,Naypyidaw,Pyinmana,Furniture,Meeting Table,3,489700,0.05,1395645,1095000,300645,Cash,Min Min,Completed
+ORD-00841,2026-05-18 00:00:00.000,CUST-0146,Customer 146,Yangon,Mayangone,Electronics,Headphones,4,93500,0.02,366520,220000,146520,KBZ Pay,Htet Htet,Completed
+ORD-00842,2026-04-02 00:00:00.000,CUST-0114,Customer 114,Yangon,Mayangone,Furniture,Meeting Table,1,505800,0.05,-480510,-365000,-115510,Bank Transfer,Nandar,Returned
+ORD-00843,2026-03-12 00:00:00.000,CUST-0246,Customer 246,Yangon,Yangon,Electronics,Smartphone,2,645600,0.05,-1226640,-940000,-286640,Bank Transfer,Min Min,Returned
+ORD-00844,2026-02-04 00:00:00.000,CUST-0173,Customer 173,Yangon,Hlaing,Electronics,Headphones,6,89700,0.05,511290,330000,181290,Credit Card,Kyaw Kyaw,Completed
+ORD-00845,2026-07-01 00:00:00.000,CUST-0055,Customer 055,Bago,Bago,Accessories,Power Bank,7,88800,0.05,590520,406000,184520,Wave Money,May Zin,Completed
+ORD-00846,2025-11-29 00:00:00.000,CUST-0195,Customer 195,Mandalay,Mandalay,Accessories,Power Bank,1,94500,0,94500,58000,36500,Wave Money,May Zin,Completed
+ORD-00847,2025-01-01 00:00:00.000,CUST-0095,Customer 095,Mandalay,Mandalay,Furniture,Meeting Table,5,487900,0.05,2317525,1825000,492525,Credit Card,Nandar,Completed
+ORD-00848,2025-02-20 00:00:00.000,CUST-0215,Customer 215,Yangon,Tamwe,Accessories,Laptop Bag,5,78300,0,391500,215000,176500,Bank Transfer,Thiri,Completed
+ORD-00849,2026-08-14 00:00:00.000,CUST-0182,Customer 182,Yangon,Tamwe,Electronics,Laptop,5,1349600,0.1,6073200,4750000,1323200,KBZ Pay,Aung Aung,Completed
+ORD-00850,2026-03-09 00:00:00.000,CUST-0147,Customer 147,Yangon,Mayangone,Electronics,Smartphone,4,673800,0.15,2290920,1880000,410920,Credit Card,May Zin,Completed
+ORD-00851,2026-04-08 00:00:00.000,CUST-0221,Customer 221,Naypyidaw,Zabuthiri,Accessories,Laptop Bag,2,79600,0.15,135320,86000,49320,Credit Card,Nandar,Completed
+ORD-00852,2026-02-27 00:00:00.000,CUST-0219,Customer 219,Mandalay,Mandalay,Electronics,Monitor,5,432700,0.05,-2055325,-1500000,-555325,Bank Transfer,Kyaw Kyaw,Returned
+ORD-00853,2025-04-25 00:00:00.000,CUST-0077,Customer 077,Yangon,Tamwe,Accessories,Laptop Bag,7,70800,0.1,446040,301000,145040,KBZ Pay,May Zin,Completed
+ORD-00854,2026-03-14 00:00:00.000,CUST-0182,Customer 182,Yangon,Yangon,Furniture,Meeting Table,4,518600,0.02,2032912,1460000,572912,Bank Transfer,Nandar,Completed
+ORD-00855,2025-04-05 00:00:00.000,CUST-0196,Customer 196,Naypyidaw,Zabuthiri,Accessories,Laptop Bag,2,75700,0.15,128690,86000,42690,Wave Money,May Zin,Completed
+ORD-00856,2025-09-06 00:00:00.000,CUST-0048,Customer 048,Naypyidaw,Naypyidaw,Furniture,Bookshelf,3,168400,0.1,454680,345000,109680,Credit Card,Htet Htet,Completed
+ORD-00857,2026-05-29 00:00:00.000,CUST-0134,Customer 134,Naypyidaw,Pyinmana,Electronics,Smartphone,4,685700,0.02,2687944,1880000,807944,KBZ Pay,May Zin,Completed
+ORD-00858,2026-05-17 00:00:00.000,CUST-0174,Customer 174,Mandalay,Mandalay,Electronics,Monitor,3,409000,0.05,1165650,900000,265650,Wave Money,Su Su,Completed
+ORD-00859,2025-03-02 00:00:00.000,CUST-0082,Customer 082,Bago,Pyay,Furniture,Bookshelf,3,172700,0,518100,345000,173100,Wave Money,Nandar,Completed
+ORD-00860,2026-06-06 00:00:00.000,CUST-0047,Customer 047,Mandalay,Chanmyathazi,Accessories,Power Bank,2,83400,0.08,153456,116000,37456,Bank Transfer,May Zin,Completed
+ORD-00861,2025-02-04 00:00:00.000,CUST-0001,Customer 001,Mandalay,Chanmyathazi,Office Supplies,Mouse,1,28900,0.1,26010,15000,11010,Credit Card,Min Min,Completed
+ORD-00862,2025-05-16 00:00:00.000,CUST-0229,Customer 229,Yangon,Yangon,Electronics,Monitor,7,394600,0.05,2624090,2100000,524090,Bank Transfer,Nandar,Completed
+ORD-00863,2025-04-15 00:00:00.000,CUST-0066,Customer 066,Yangon,Tamwe,Electronics,Laptop,4,1264100,0.05,4803580,3800000,1003580,KBZ Pay,Thiri,Completed
+ORD-00864,2025-11-15 00:00:00.000,CUST-0017,Customer 017,Bago,Taungoo,Office Supplies,Office Chair,7,241300,0.15,0,0,0,Wave Money,Htet Htet,Cancelled
+ORD-00865,2025-09-22 00:00:00.000,CUST-0208,Customer 208,Naypyidaw,Naypyidaw,Furniture,Meeting Table,1,513000,0.1,461700,365000,96700,Bank Transfer,Htet Htet,Completed
+ORD-00866,2025-08-09 00:00:00.000,CUST-0235,Customer 235,Shan,Muse,Electronics,Monitor,4,413900,0.08,1523152,1200000,323152,Credit Card,Su Su,Completed
+ORD-00867,2025-11-28 00:00:00.000,CUST-0245,Customer 245,Yangon,Mayangone,Accessories,Power Bank,7,96700,0.05,643055,406000,237055,KBZ Pay,Su Su,Completed
+ORD-00868,2026-06-10 00:00:00.000,CUST-0147,Customer 147,Yangon,Hlaing,Accessories,USB Drive,6,31500,0.02,185220,108000,77220,Credit Card,Nandar,Completed
+ORD-00869,2026-02-13 00:00:00.000,CUST-0123,Customer 123,Bago,Pyay,Office Supplies,Mouse,7,28700,0.02,196882,105000,91882,Bank Transfer,Su Su,Completed
+ORD-00870,2025-03-02 00:00:00.000,CUST-0187,Customer 187,Yangon,Hlaing,Furniture,Bookshelf,6,193600,0.02,1138368,690000,448368,Bank Transfer,Htet Htet,Completed
+ORD-00871,2025-09-10 00:00:00.000,CUST-0133,Customer 133,Shan,Lashio,Office Supplies,Office Chair,2,236800,0.05,449920,330000,119920,Cash,Su Su,Completed
+ORD-00872,2026-03-30 00:00:00.000,CUST-0048,Customer 048,Yangon,Mayangone,Furniture,Meeting Table,1,498500,0.08,458620,365000,93620,Wave Money,Nandar,Completed
+ORD-00873,2026-01-11 00:00:00.000,CUST-0095,Customer 095,Naypyidaw,Pyinmana,Furniture,Bookshelf,3,185100,0.05,527535,345000,182535,Cash,Aung Aung,Completed
+ORD-00874,2025-10-24 00:00:00.000,CUST-0028,Customer 028,Shan,Lashio,Office Supplies,Mouse,7,28800,0.05,191520,105000,86520,Credit Card,Su Su,Completed
+ORD-00875,2025-10-09 00:00:00.000,CUST-0175,Customer 175,Mandalay,Chanmyathazi,Furniture,Desk,6,333900,0,2003400,1260000,743400,Cash,May Zin,Completed
+ORD-00876,2025-09-06 00:00:00.000,CUST-0124,Customer 124,Yangon,Yangon,Accessories,Power Bank,4,84900,0.02,-332808,-232000,-100808,KBZ Pay,Su Su,Returned
+ORD-00877,2025-11-12 00:00:00.000,CUST-0160,Customer 160,Yangon,Hlaing,Electronics,Smartphone,2,637300,0.02,1249108,940000,309108,Bank Transfer,Nandar,Completed
+ORD-00878,2025-03-21 00:00:00.000,CUST-0192,Customer 192,Yangon,Hlaing,Electronics,Laptop,2,1172200,0.05,2227180,1900000,327180,Cash,Aung Aung,Completed
+ORD-00879,2025-11-15 00:00:00.000,CUST-0048,Customer 048,Mandalay,Chanmyathazi,Electronics,Headphones,7,99000,0,693000,385000,308000,Cash,Htet Htet,Completed
+ORD-00880,2025-10-09 00:00:00.000,CUST-0035,Customer 035,Mandalay,Amarapura,Accessories,USB Drive,2,34200,0.08,62928,36000,26928,Bank Transfer,May Zin,Completed
+ORD-00881,2026-04-19 00:00:00.000,CUST-0093,Customer 093,Mandalay,Amarapura,Accessories,Laptop Bag,6,74100,0,444600,258000,186600,Cash,Nandar,Completed
+ORD-00882,2025-11-05 00:00:00.000,CUST-0141,Customer 141,Naypyidaw,Naypyidaw,Electronics,Smartphone,2,598600,0.02,1173256,940000,233256,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00883,2026-07-20 00:00:00.000,CUST-0222,Customer 222,Naypyidaw,Pyinmana,Electronics,Laptop,3,1332600,0.08,-3677976,-2850000,-827976,Credit Card,Su Su,Returned
+ORD-00884,2025-09-01 00:00:00.000,CUST-0058,Customer 058,Yangon,Mayangone,Accessories,Power Bank,1,96900,0.05,92055,58000,34055,Wave Money,Htet Htet,Completed
+ORD-00885,2025-06-25 00:00:00.000,CUST-0078,Customer 078,Yangon,Tamwe,Electronics,Monitor,4,410900,0.05,1561420,1200000,361420,KBZ Pay,Min Min,Completed
+ORD-00886,2025-01-29 00:00:00.000,CUST-0173,Customer 173,Mandalay,Mandalay,Office Supplies,Keyboard,3,41600,0,124800,78000,46800,KBZ Pay,Nandar,Completed
+ORD-00887,2025-09-22 00:00:00.000,CUST-0140,Customer 140,Yangon,Tamwe,Electronics,Smartphone,3,686100,0.05,1955385,1410000,545385,Bank Transfer,May Zin,Completed
+ORD-00888,2025-03-26 00:00:00.000,CUST-0178,Customer 178,Shan,Lashio,Furniture,Desk,5,323500,0.1,1455750,1050000,405750,KBZ Pay,Aung Aung,Completed
+ORD-00889,2025-05-17 00:00:00.000,CUST-0195,Customer 195,Mandalay,Amarapura,Electronics,Headphones,1,90500,0,90500,55000,35500,Wave Money,May Zin,Completed
+ORD-00890,2026-01-14 00:00:00.000,CUST-0236,Customer 236,Yangon,Yangon,Accessories,Laptop Bag,2,80200,0.02,157192,86000,71192,KBZ Pay,May Zin,Completed
+ORD-00891,2025-12-13 00:00:00.000,CUST-0149,Customer 149,Yangon,Yangon,Furniture,Desk,6,320500,0,1923000,1260000,663000,Credit Card,Htet Htet,Completed
+ORD-00892,2025-02-09 00:00:00.000,CUST-0072,Customer 072,Mandalay,Amarapura,Electronics,Laptop,6,1175300,0.05,6699210,5700000,999210,Credit Card,Nandar,Completed
+ORD-00893,2026-04-04 00:00:00.000,CUST-0031,Customer 031,Yangon,Yangon,Furniture,Meeting Table,4,488800,0,1955200,1460000,495200,Cash,Nandar,Completed
+ORD-00894,2026-07-13 00:00:00.000,CUST-0012,Customer 012,Naypyidaw,Pyinmana,Electronics,Laptop,6,1342500,0.1,7249500,5700000,1549500,Cash,Nandar,Completed
+ORD-00895,2025-08-23 00:00:00.000,CUST-0213,Customer 213,Shan,Taunggyi,Electronics,Laptop,1,1312500,0,1312500,950000,362500,Bank Transfer,Htet Htet,Completed
+ORD-00896,2026-04-27 00:00:00.000,CUST-0207,Customer 207,Naypyidaw,Naypyidaw,Furniture,Bookshelf,7,168900,0,1182300,805000,377300,Cash,Su Su,Completed
+ORD-00897,2025-04-09 00:00:00.000,CUST-0087,Customer 087,Mandalay,Amarapura,Electronics,Monitor,3,397200,0.02,1167768,900000,267768,Wave Money,Htet Htet,Completed
+ORD-00898,2025-04-02 00:00:00.000,CUST-0115,Customer 115,Naypyidaw,Naypyidaw,Office Supplies,Mouse,6,28500,0,0,0,0,Credit Card,Aung Aung,Cancelled
+ORD-00899,2025-04-22 00:00:00.000,CUST-0218,Customer 218,Naypyidaw,Zabuthiri,Office Supplies,Printer,7,371900,0.02,2551234,1960000,591234,Bank Transfer,Kyaw Kyaw,Completed
+ORD-00900,2026-05-15 00:00:00.000,CUST-0215,Customer 215,Bago,Bago,Electronics,Monitor,4,411900,0.05,0,0,0,Wave Money,Min Min,Cancelled
+ORD-00901,2026-08-25 00:00:00.000,CUST-0111,Customer 111,Yangon,Mayangone,Electronics,Monitor,1,396500,0.05,376675,300000,76675,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00902,2025-07-05 00:00:00.000,CUST-0168,Customer 168,Yangon,Tamwe,Furniture,Desk,1,286700,0.08,263764,210000,53764,Cash,Nandar,Completed
+ORD-00903,2026-06-24 00:00:00.000,CUST-0105,Customer 105,Yangon,Tamwe,Electronics,Monitor,3,431400,0,1294200,900000,394200,Bank Transfer,Htet Htet,Completed
+ORD-00904,2025-08-22 00:00:00.000,CUST-0127,Customer 127,Yangon,Hlaing,Electronics,Smartphone,6,623200,0.02,-3664416,-2820000,-844416,Cash,Min Min,Returned
+ORD-00905,2026-07-21 00:00:00.000,CUST-0182,Customer 182,Shan,Muse,Office Supplies,Mouse,1,26700,0.08,24564,15000,9564,Cash,May Zin,Completed
+ORD-00906,2025-09-02 00:00:00.000,CUST-0148,Customer 148,Yangon,Tamwe,Electronics,Monitor,3,387400,0.02,1138956,900000,238956,Credit Card,Thiri,Completed
+ORD-00907,2025-08-20 00:00:00.000,CUST-0009,Customer 009,Naypyidaw,Zabuthiri,Electronics,Laptop,2,1280700,0.15,2177190,1900000,277190,Bank Transfer,Nandar,Completed
+ORD-00908,2025-01-15 00:00:00.000,CUST-0232,Customer 232,Yangon,Tamwe,Furniture,Meeting Table,5,479900,0.15,2039575,1825000,214575,Bank Transfer,Aung Aung,Completed
+ORD-00909,2026-02-28 00:00:00.000,CUST-0003,Customer 003,Shan,Lashio,Electronics,Headphones,2,102500,0.05,194750,110000,84750,Cash,Htet Htet,Completed
+ORD-00910,2025-11-03 00:00:00.000,CUST-0150,Customer 150,Yangon,Hlaing,Accessories,Webcam,5,87600,0.08,402960,260000,142960,Credit Card,Nandar,Completed
+ORD-00911,2025-05-05 00:00:00.000,CUST-0082,Customer 082,Shan,Muse,Furniture,Meeting Table,2,482400,0,964800,730000,234800,Bank Transfer,Min Min,Completed
+ORD-00912,2026-06-11 00:00:00.000,CUST-0219,Customer 219,Bago,Pyay,Office Supplies,Mouse,5,28700,0,143500,75000,68500,Cash,Htet Htet,Completed
+ORD-00913,2026-06-17 00:00:00.000,CUST-0061,Customer 061,Naypyidaw,Naypyidaw,Accessories,USB Drive,3,32300,0.08,89148,54000,35148,Credit Card,Kyaw Kyaw,Completed
+ORD-00914,2025-11-20 00:00:00.000,CUST-0038,Customer 038,Shan,Lashio,Accessories,Power Bank,4,92500,0.08,340400,232000,108400,Credit Card,Nandar,Completed
+ORD-00915,2025-02-21 00:00:00.000,CUST-0236,Customer 236,Bago,Pyay,Office Supplies,Office Chair,7,257600,0.02,1767136,1155000,612136,KBZ Pay,Nandar,Completed
+ORD-00916,2026-06-11 00:00:00.000,CUST-0107,Customer 107,Yangon,Mayangone,Furniture,Desk,1,293700,0.1,264330,210000,54330,Credit Card,Min Min,Completed
+ORD-00917,2025-09-17 00:00:00.000,CUST-0242,Customer 242,Shan,Muse,Electronics,Headphones,1,93300,0.02,91434,55000,36434,Wave Money,Thiri,Completed
+ORD-00918,2025-10-26 00:00:00.000,CUST-0145,Customer 145,Yangon,Mayangone,Electronics,Headphones,4,91500,0.08,-336720,-220000,-116720,Cash,May Zin,Returned
+ORD-00919,2025-11-07 00:00:00.000,CUST-0187,Customer 187,Bago,Bago,Furniture,Meeting Table,7,504200,0,3529400,2555000,974400,Bank Transfer,Thiri,Completed
+ORD-00920,2025-11-27 00:00:00.000,CUST-0072,Customer 072,Mandalay,Mandalay,Office Supplies,Printer,3,349700,0.05,996645,840000,156645,KBZ Pay,Htet Htet,Completed
+ORD-00921,2025-08-05 00:00:00.000,CUST-0129,Customer 129,Mandalay,Chanmyathazi,Electronics,Headphones,1,89800,0.02,88004,55000,33004,Bank Transfer,Su Su,Completed
+ORD-00922,2025-11-10 00:00:00.000,CUST-0060,Customer 060,Shan,Lashio,Accessories,Power Bank,2,84200,0,168400,116000,52400,Cash,Min Min,Completed
+ORD-00923,2025-08-08 00:00:00.000,CUST-0246,Customer 246,Mandalay,Chanmyathazi,Office Supplies,Office Chair,2,251500,0.02,492940,330000,162940,Wave Money,May Zin,Completed
+ORD-00924,2025-08-22 00:00:00.000,CUST-0143,Customer 143,Yangon,Yangon,Office Supplies,Printer,6,398800,0.05,-2273160,-1680000,-593160,Wave Money,Min Min,Returned
+ORD-00925,2025-04-21 00:00:00.000,CUST-0048,Customer 048,Yangon,Mayangone,Office Supplies,Printer,4,365700,0.05,1389660,1120000,269660,Bank Transfer,May Zin,Completed
+ORD-00926,2025-01-01 00:00:00.000,CUST-0132,Customer 132,Naypyidaw,Naypyidaw,Electronics,Monitor,2,401700,0.05,763230,600000,163230,Bank Transfer,Nandar,Completed
+ORD-00927,2026-04-19 00:00:00.000,CUST-0195,Customer 195,Yangon,Yangon,Office Supplies,Mouse,6,25800,0.1,-139320,-90000,-49320,KBZ Pay,Kyaw Kyaw,Returned
+ORD-00928,2026-06-25 00:00:00.000,CUST-0135,Customer 135,Yangon,Tamwe,Electronics,Monitor,4,401300,0.05,1524940,1200000,324940,Wave Money,May Zin,Completed
+ORD-00929,2026-06-27 00:00:00.000,CUST-0182,Customer 182,Yangon,Mayangone,Electronics,Monitor,5,447200,0.15,0,0,0,Cash,Su Su,Cancelled
+ORD-00930,2025-01-28 00:00:00.000,CUST-0130,Customer 130,Mandalay,Amarapura,Electronics,Laptop,7,1187600,0.05,7897540,6650000,1247540,Credit Card,Min Min,Completed
+ORD-00931,2025-06-05 00:00:00.000,CUST-0010,Customer 010,Mandalay,Mandalay,Office Supplies,Mouse,4,29900,0.05,113620,60000,53620,Cash,Kyaw Kyaw,Completed
+ORD-00932,2025-04-12 00:00:00.000,CUST-0226,Customer 226,Yangon,Hlaing,Furniture,Desk,3,328000,0.08,905280,630000,275280,Bank Transfer,Htet Htet,Completed
+ORD-00933,2025-03-01 00:00:00.000,CUST-0036,Customer 036,Naypyidaw,Naypyidaw,Furniture,Meeting Table,7,522100,0.08,-3362324,-2555000,-807324,Cash,Aung Aung,Returned
+ORD-00934,2025-10-13 00:00:00.000,CUST-0072,Customer 072,Bago,Pyay,Office Supplies,Office Chair,2,231700,0,463400,330000,133400,Credit Card,Aung Aung,Completed
+ORD-00935,2025-03-12 00:00:00.000,CUST-0061,Customer 061,Mandalay,Amarapura,Electronics,Headphones,5,96400,0.05,457900,275000,182900,KBZ Pay,Min Min,Completed
+ORD-00936,2026-04-05 00:00:00.000,CUST-0078,Customer 078,Mandalay,Chanmyathazi,Office Supplies,Printer,7,392600,0.08,2528344,1960000,568344,Cash,Htet Htet,Completed
+ORD-00937,2026-04-20 00:00:00.000,CUST-0158,Customer 158,Yangon,Tamwe,Electronics,Headphones,7,90600,0.05,602490,385000,217490,Bank Transfer,Htet Htet,Completed
+ORD-00938,2025-06-08 00:00:00.000,CUST-0223,Customer 223,Shan,Lashio,Office Supplies,Printer,1,351200,0.02,344176,280000,64176,Bank Transfer,May Zin,Completed
+ORD-00939,2026-07-25 00:00:00.000,CUST-0222,Customer 222,Mandalay,Chanmyathazi,Furniture,Bookshelf,5,172200,0.08,792120,575000,217120,KBZ Pay,Htet Htet,Completed
+ORD-00940,2025-04-26 00:00:00.000,CUST-0005,Customer 005,Yangon,Yangon,Office Supplies,Mouse,7,28000,0.08,180320,105000,75320,KBZ Pay,Nandar,Completed
+ORD-00941,2025-09-30 00:00:00.000,CUST-0172,Customer 172,Mandalay,Amarapura,Furniture,Bookshelf,4,180200,0,720800,460000,260800,Wave Money,Nandar,Completed
+ORD-00942,2025-12-30 00:00:00.000,CUST-0199,Customer 199,Yangon,Hlaing,Furniture,Bookshelf,6,187700,0,1126200,690000,436200,Bank Transfer,Nandar,Completed
+ORD-00943,2026-08-06 00:00:00.000,CUST-0167,Customer 167,Bago,Taungoo,Office Supplies,Printer,4,354900,0.08,1306032,1120000,186032,Wave Money,Thiri,Completed
+ORD-00944,2026-06-20 00:00:00.000,CUST-0128,Customer 128,Shan,Muse,Accessories,Webcam,3,83400,0.05,237690,156000,81690,Bank Transfer,Min Min,Completed
+ORD-00945,2025-11-28 00:00:00.000,CUST-0049,Customer 049,Naypyidaw,Zabuthiri,Office Supplies,Mouse,5,25900,0.05,123025,75000,48025,Bank Transfer,Aung Aung,Completed
+ORD-00946,2026-02-22 00:00:00.000,CUST-0032,Customer 032,Mandalay,Mandalay,Accessories,Power Bank,4,93300,0.15,317220,232000,85220,Cash,Thiri,Completed
+ORD-00947,2025-02-06 00:00:00.000,CUST-0174,Customer 174,Mandalay,Mandalay,Electronics,Laptop,4,1238200,0.15,4209880,3800000,409880,Credit Card,Aung Aung,Completed
+ORD-00948,2025-02-15 00:00:00.000,CUST-0163,Customer 163,Mandalay,Amarapura,Furniture,Desk,7,295200,0.05,1963080,1470000,493080,KBZ Pay,May Zin,Completed
+ORD-00949,2025-11-29 00:00:00.000,CUST-0078,Customer 078,Yangon,Hlaing,Electronics,Monitor,2,394000,0,788000,600000,188000,Bank Transfer,Aung Aung,Completed
+ORD-00950,2025-12-28 00:00:00.000,CUST-0056,Customer 056,Shan,Taunggyi,Electronics,Headphones,4,97900,0.08,360272,220000,140272,Credit Card,Nandar,Completed
+ORD-00951,2025-07-15 00:00:00.000,CUST-0087,Customer 087,Yangon,Tamwe,Accessories,Power Bank,4,82900,0,331600,232000,99600,Cash,Thiri,Completed
+ORD-00952,2025-11-07 00:00:00.000,CUST-0136,Customer 136,Yangon,Hlaing,Accessories,Laptop Bag,4,78100,0.05,296780,172000,124780,Bank Transfer,Htet Htet,Completed
+ORD-00953,2026-07-07 00:00:00.000,CUST-0061,Customer 061,Yangon,Hlaing,Furniture,Bookshelf,6,171800,0,1030800,690000,340800,Cash,Nandar,Completed
+ORD-00954,2025-08-29 00:00:00.000,CUST-0023,Customer 023,Naypyidaw,Naypyidaw,Electronics,Laptop,1,1315600,0,1315600,950000,365600,Cash,Kyaw Kyaw,Completed
+ORD-00955,2026-05-06 00:00:00.000,CUST-0008,Customer 008,Yangon,Mayangone,Furniture,Bookshelf,7,171500,0,1200500,805000,395500,Bank Transfer,Nandar,Completed
+ORD-00956,2026-06-30 00:00:00.000,CUST-0028,Customer 028,Naypyidaw,Naypyidaw,Accessories,Webcam,7,82300,0.1,518490,364000,154490,Bank Transfer,Su Su,Completed
+ORD-00957,2025-03-25 00:00:00.000,CUST-0192,Customer 192,Yangon,Hlaing,Furniture,Bookshelf,7,187900,0.1,1183770,805000,378770,Bank Transfer,Su Su,Completed
+ORD-00958,2026-05-17 00:00:00.000,CUST-0247,Customer 247,Yangon,Tamwe,Office Supplies,Mouse,2,30000,0.08,55200,30000,25200,Cash,Nandar,Completed
+ORD-00959,2025-05-30 00:00:00.000,CUST-0100,Customer 100,Yangon,Yangon,Furniture,Meeting Table,1,511200,0.02,500976,365000,135976,Credit Card,Htet Htet,Completed
+ORD-00960,2025-03-18 00:00:00.000,CUST-0172,Customer 172,Naypyidaw,Naypyidaw,Furniture,Desk,2,312700,0,625400,420000,205400,Wave Money,Nandar,Completed
+ORD-00961,2026-01-08 00:00:00.000,CUST-0085,Customer 085,Mandalay,Mandalay,Office Supplies,Office Chair,5,242300,0.05,1150925,825000,325925,Bank Transfer,Thiri,Completed
+ORD-00962,2025-06-17 00:00:00.000,CUST-0240,Customer 240,Yangon,Hlaing,Electronics,Smartphone,7,624100,0.08,4019204,3290000,729204,Cash,Aung Aung,Completed
+ORD-00963,2026-05-20 00:00:00.000,CUST-0013,Customer 013,Mandalay,Chanmyathazi,Electronics,Laptop,6,1335500,0.05,7612350,5700000,1912350,Cash,Kyaw Kyaw,Completed
+ORD-00964,2026-03-30 00:00:00.000,CUST-0084,Customer 084,Yangon,Yangon,Office Supplies,Mouse,7,28800,0.08,185472,105000,80472,Credit Card,Min Min,Completed
+ORD-00965,2025-02-11 00:00:00.000,CUST-0154,Customer 154,Bago,Taungoo,Office Supplies,Keyboard,6,48600,0.05,277020,156000,121020,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00966,2026-06-15 00:00:00.000,CUST-0022,Customer 022,Bago,Taungoo,Furniture,Bookshelf,1,185800,0.05,0,0,0,Bank Transfer,Su Su,Cancelled
+ORD-00967,2025-06-21 00:00:00.000,CUST-0242,Customer 242,Naypyidaw,Zabuthiri,Office Supplies,Keyboard,4,48300,0.05,183540,104000,79540,Wave Money,Kyaw Kyaw,Completed
+ORD-00968,2026-04-07 00:00:00.000,CUST-0216,Customer 216,Shan,Muse,Accessories,Webcam,6,87900,0.02,516852,312000,204852,Bank Transfer,Nandar,Completed
+ORD-00969,2026-04-21 00:00:00.000,CUST-0219,Customer 219,Naypyidaw,Pyinmana,Furniture,Bookshelf,5,192400,0.02,942760,575000,367760,Cash,Thiri,Completed
+ORD-00970,2026-03-03 00:00:00.000,CUST-0114,Customer 114,Mandalay,Chanmyathazi,Furniture,Meeting Table,7,538500,0,3769500,2555000,1214500,Bank Transfer,Min Min,Completed
+ORD-00971,2025-10-30 00:00:00.000,CUST-0146,Customer 146,Yangon,Yangon,Office Supplies,Keyboard,5,47200,0,236000,130000,106000,Credit Card,Thiri,Completed
+ORD-00972,2026-01-29 00:00:00.000,CUST-0120,Customer 120,Naypyidaw,Pyinmana,Electronics,Headphones,4,101200,0.08,372416,220000,152416,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00973,2025-12-17 00:00:00.000,CUST-0109,Customer 109,Yangon,Hlaing,Electronics,Headphones,2,101500,0.08,186760,110000,76760,Cash,Htet Htet,Completed
+ORD-00974,2025-09-04 00:00:00.000,CUST-0136,Customer 136,Naypyidaw,Pyinmana,Electronics,Headphones,1,96900,0.05,92055,55000,37055,Wave Money,May Zin,Completed
+ORD-00975,2025-10-30 00:00:00.000,CUST-0090,Customer 090,Shan,Lashio,Office Supplies,Mouse,5,30100,0.1,135450,75000,60450,Wave Money,Nandar,Completed
+ORD-00976,2026-07-21 00:00:00.000,CUST-0154,Customer 154,Shan,Taunggyi,Office Supplies,Office Chair,7,246900,0.02,1693734,1155000,538734,Wave Money,May Zin,Completed
+ORD-00977,2025-08-30 00:00:00.000,CUST-0232,Customer 232,Bago,Pyay,Office Supplies,Office Chair,2,228400,0.15,388280,330000,58280,Wave Money,May Zin,Completed
+ORD-00978,2026-03-22 00:00:00.000,CUST-0173,Customer 173,Mandalay,Mandalay,Furniture,Meeting Table,1,493800,0.05,469110,365000,104110,Credit Card,Htet Htet,Completed
+ORD-00979,2026-07-13 00:00:00.000,CUST-0188,Customer 188,Mandalay,Mandalay,Electronics,Smartphone,1,609300,0.15,517905,470000,47905,Cash,Min Min,Completed
+ORD-00980,2025-04-03 00:00:00.000,CUST-0062,Customer 062,Yangon,Tamwe,Electronics,Laptop,5,1207100,0.02,5914790,4750000,1164790,Credit Card,Min Min,Completed
+ORD-00981,2025-09-30 00:00:00.000,CUST-0159,Customer 159,Yangon,Tamwe,Office Supplies,Mouse,3,29900,0,89700,45000,44700,Cash,Aung Aung,Completed
+ORD-00982,2025-04-28 00:00:00.000,CUST-0228,Customer 228,Yangon,Mayangone,Furniture,Bookshelf,3,172100,0.02,0,0,0,Credit Card,May Zin,Cancelled
+ORD-00983,2026-06-06 00:00:00.000,CUST-0095,Customer 095,Bago,Taungoo,Electronics,Headphones,4,95600,0,382400,220000,162400,KBZ Pay,May Zin,Completed
+ORD-00984,2026-02-02 00:00:00.000,CUST-0182,Customer 182,Bago,Taungoo,Accessories,USB Drive,6,32000,0.08,176640,108000,68640,Credit Card,Thiri,Completed
+ORD-00985,2026-06-06 00:00:00.000,CUST-0172,Customer 172,Shan,Taunggyi,Electronics,Monitor,3,408500,0.05,-1164225,-900000,-264225,Bank Transfer,Kyaw Kyaw,Returned
+ORD-00986,2026-05-05 00:00:00.000,CUST-0219,Customer 219,Mandalay,Mandalay,Electronics,Headphones,6,94300,0.05,537510,330000,207510,Credit Card,Aung Aung,Completed
+ORD-00987,2026-02-13 00:00:00.000,CUST-0096,Customer 096,Mandalay,Chanmyathazi,Furniture,Meeting Table,3,539500,0.02,1586130,1095000,491130,Wave Money,Htet Htet,Completed
+ORD-00988,2025-10-04 00:00:00.000,CUST-0125,Customer 125,Mandalay,Amarapura,Furniture,Meeting Table,7,537000,0.05,-3571050,-2555000,-1016050,Credit Card,Kyaw Kyaw,Returned
+ORD-00989,2026-07-03 00:00:00.000,CUST-0212,Customer 212,Yangon,Yangon,Furniture,Meeting Table,7,551300,0,3859100,2555000,1304100,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00990,2026-08-18 00:00:00.000,CUST-0128,Customer 128,Shan,Lashio,Electronics,Laptop,7,1236900,0.02,8485134,6650000,1835134,Cash,Min Min,Completed
+ORD-00991,2026-06-07 00:00:00.000,CUST-0056,Customer 056,Mandalay,Mandalay,Electronics,Smartphone,2,630200,0.05,1197380,940000,257380,Bank Transfer,Aung Aung,Completed
+ORD-00992,2025-05-12 00:00:00.000,CUST-0048,Customer 048,Yangon,Mayangone,Electronics,Headphones,6,101000,0.05,575700,330000,245700,Cash,Su Su,Completed
+ORD-00993,2025-08-21 00:00:00.000,CUST-0161,Customer 161,Naypyidaw,Zabuthiri,Office Supplies,Office Chair,2,244900,0.08,0,0,0,KBZ Pay,Thiri,Cancelled
+ORD-00994,2026-04-09 00:00:00.000,CUST-0159,Customer 159,Shan,Taunggyi,Office Supplies,Keyboard,6,45300,0,271800,156000,115800,Cash,Thiri,Completed
+ORD-00995,2025-01-27 00:00:00.000,CUST-0038,Customer 038,Yangon,Mayangone,Furniture,Bookshelf,2,186700,0,373400,230000,143400,Bank Transfer,Nandar,Completed
+ORD-00996,2026-01-30 00:00:00.000,CUST-0052,Customer 052,Mandalay,Amarapura,Office Supplies,Printer,3,398500,0.02,1171590,840000,331590,Wave Money,Su Su,Completed
+ORD-00997,2025-04-01 00:00:00.000,CUST-0142,Customer 142,Shan,Lashio,Accessories,Laptop Bag,3,69900,0.15,178245,129000,49245,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00998,2025-07-26 00:00:00.000,CUST-0070,Customer 070,Naypyidaw,Naypyidaw,Office Supplies,Printer,1,372000,0.08,342240,280000,62240,KBZ Pay,Kyaw Kyaw,Completed
+ORD-00999,2026-03-03 00:00:00.000,CUST-0057,Customer 057,Naypyidaw,Naypyidaw,Accessories,USB Drive,3,29700,0.15,75735,54000,21735,Cash,Thiri,Completed
+ORD-01000,2025-09-03 00:00:00.000,CUST-0187,Customer 187,Bago,Pyay,Electronics,Monitor,7,400000,0,2800000,2100000,700000,Credit Card,Htet Htet,Completed
