@@ -1,10 +1,10 @@
-# Retail Sales Analysis — SQL Portfolio Project
+# 📊 Retail Sales Analysis — SQL Portfolio Project
 
-## 📊 Project Overview
+## 🔎 Project Overview
 
-This project is a **Retail Sales Analysis** project built to demonstrate practical SQL skills for a Data Analyst / Business Intelligence Analyst role.
+This project is a **Retail Sales Analysis** project created to demonstrate practical SQL skills for a **Data Analyst / Business Intelligence Analyst** role.
 
-The project analyzes retail sales data to identify business performance, sales trends, customer behavior, product performance, regional performance, and salesperson performance.
+The project analyzes **1,000 retail sales records** to understand sales performance, profitability, customer behavior, product performance, regional performance, and salesperson performance.
 
 The analysis was performed using **Microsoft SQL Server and SQL Server Management Studio (SSMS)**.
 
@@ -12,18 +12,18 @@ The analysis was performed using **Microsoft SQL Server and SQL Server Managemen
 
 ## 🎯 Business Objective
 
-The main objective of this project is to use SQL to transform raw sales data into meaningful business insights that can support data-driven decision-making.
+The main objective is to use SQL to transform transactional sales data into meaningful business insights that can support **data-driven decision-making**.
 
-The project focuses on answering questions such as:
+The analysis answers questions such as:
 
-* What are the company's total sales and profit?
+* What are the company's total sales, cost, and profit?
 * Which region generates the highest sales?
 * Which products generate the highest sales and profit?
 * Which product categories have the highest profit margin?
-* Which customers generate the most revenue?
+* Which customers generate the most sales?
 * Which salesperson performs best?
-* Which months generate the highest sales?
-* How many orders and products are sold?
+* Which month generates the highest sales?
+* How many orders and units were sold?
 
 ---
 
@@ -33,24 +33,24 @@ The dataset contains **1,000 retail sales records**.
 
 ### Main Columns
 
-| Column           | Description                           |
-| ---------------- | ------------------------------------- |
-| Order_ID         | Unique order identifier               |
-| Order_Date       | Date of the order                     |
-| Customer_ID      | Customer identifier                   |
-| Customer_Name    | Customer name                         |
-| Region           | Sales region                          |
-| City             | Customer city                         |
-| Product_Category | Product category                      |
-| Product          | Product name                          |
-| Quantity         | Quantity sold                         |
-| Unit_Price       | Price per unit                        |
-| Discount         | Discount applied                      |
-| Sales            | Total sales amount                    |
-| Cost             | Product cost                          |
-| Profit           | Profit generated                      |
-| Payment_Method   | Payment method                        |
-| Salesperson      | Salesperson responsible for the order |
+| Column             | Description                           |
+| ------------------ | ------------------------------------- |
+| `Order_ID`         | Unique order identifier               |
+| `Order_Date`       | Date of the order                     |
+| `Customer_ID`      | Customer identifier                   |
+| `Customer_Name`    | Customer name                         |
+| `Region`           | Sales region                          |
+| `City`             | Customer city                         |
+| `Product_Category` | Product category                      |
+| `Product`          | Product name                          |
+| `Quantity`         | Quantity sold                         |
+| `Unit_Price`       | Price per unit                        |
+| `Discount`         | Discount applied                      |
+| `Sales`            | Total sales amount                    |
+| `Cost`             | Product cost                          |
+| `Profit`           | Profit generated                      |
+| `Payment_Method`   | Payment method                        |
+| `Salesperson`      | Salesperson responsible for the order |
 
 ---
 
@@ -59,7 +59,7 @@ The dataset contains **1,000 retail sales records**.
 * **Microsoft SQL Server**
 * **SQL Server Management Studio (SSMS)**
 * **SQL**
-* **Microsoft Excel** — used as the original data source and for supporting analysis
+* **Microsoft Excel** — source data and supporting analysis
 
 ---
 
@@ -77,30 +77,28 @@ RetailSalesDB
 dbo.Sales_Data_Clean$
 ```
 
-The cleaned dataset contains **1,000 records**.
+The cleaned table contains **1,000 records**.
 
 ---
 
-## 🔍 SQL Analysis
-
-The project includes several areas of SQL analysis.
+## 🔍 Analysis Performed
 
 ### 1. Data Exploration
 
-* View sample records
-* Count total records
-* Inspect table structure
-* Check column names and data types
+* Viewed sample records
+* Counted total records
+* Inspected table structure
+* Checked column names and data types
 
 ### 2. Data Quality
 
-* Check duplicate Order IDs
-* Check missing Customer IDs
-* Check missing Product values
+* Checked duplicate Order IDs
+* Checked missing Customer IDs
+* Checked missing Product values
 
 ### 3. Business KPIs
 
-Calculated key business metrics including:
+Calculated:
 
 * Total Sales
 * Total Cost
@@ -148,15 +146,15 @@ Analyzed:
 
 ## 📈 Business KPIs
 
-| KPI                 |      Result |
-| ------------------- | ----------: |
-| Total Sales         | 921,232,075 |
-| Total Cost          | 693,913,000 |
-| Total Profit        | 227,319,075 |
-| Total Orders        |       1,000 |
-| Total Quantity Sold |       3,986 |
-| Average Order Value | 921,232.075 |
-| Profit Margin       |      24.68% |
+| KPI                    |      Result |
+| ---------------------- | ----------: |
+| 💰 Total Sales         | 921,232,075 |
+| 💵 Total Cost          | 693,913,000 |
+| 📈 Total Profit        | 227,319,075 |
+| 🧾 Total Orders        |       1,000 |
+| 📦 Total Quantity Sold |       3,986 |
+| 🛒 Average Order Value | 921,232.075 |
+| 📊 Profit Margin       |      24.68% |
 
 ---
 
@@ -168,33 +166,47 @@ Analyzed:
 
 ### 💻 Most Profitable Product
 
-**Laptop** generated the highest profit among the products analyzed.
+**Laptop** generated the highest profit among the analyzed products.
 
 ### 👤 Top Salesperson
 
-**Nandar** generated the highest sales among the salespeople.
+**Nandar** generated the highest sales among the analyzed salespeople.
 
 ### 📅 Highest Sales Month
 
-**April** generated the highest monthly sales, with approximately:
+**April** generated the highest monthly sales with:
 
-```text
-127,333,461
-```
+**127,333,461**
 
 ### 💰 Overall Profitability
 
-The business generated approximately:
+The business generated:
 
-```text
-227,319,075
-```
+**227,319,075**
 
 in total profit, representing an overall profit margin of:
 
-```text
-24.68%
-```
+**24.68%**
+
+---
+
+## 📸 Analysis Results
+
+### Business KPIs
+
+![KPI Results](Screenshots/KPI_Results.png)
+
+### Regional Sales Analysis
+
+![Region Analysis](Screenshots/Region_Analysis.png)
+
+### Product Analysis
+
+![Product Analysis](Screenshots/Product_Analysis.png)
+
+### Customer Analysis
+
+![Customer Analysis](Screenshots/Customer_Analysis.png)
 
 ---
 
@@ -215,10 +227,11 @@ This project demonstrates practical SQL skills including:
 * `MONTH()`
 * Aggregate Functions
 * Data Quality Checks
-* Business KPI Calculations
+* KPI Calculations
 * Sales Analysis
 * Customer Analysis
 * Product Analysis
+* Category Analysis
 * Regional Analysis
 * Salesperson Analysis
 * `INFORMATION_SCHEMA`
@@ -247,11 +260,27 @@ Retail-Sales-SQL-Analysis
 
 ---
 
+## 📂 Project Files
+
+### SQL Analysis
+
+The complete SQL analysis script is available here:
+
+[Retail Sales Analysis SQL](SQL/Retail_Sales_Analysis.sql)
+
+### Dataset
+
+The cleaned 1,000-row dataset is available here:
+
+[Sales Data Clean CSV](Dataset/Sales_Data_Clean.csv)
+
+---
+
 ## 🚀 Project Outcome
 
-This project demonstrates how SQL can be used to analyze retail business data and convert raw transactional data into useful business information.
+This project demonstrates how SQL can be used to analyze retail transaction data and convert raw data into useful business information.
 
-The analysis helps identify:
+The analysis provides insights into:
 
 * Revenue performance
 * Profitability
@@ -261,18 +290,18 @@ The analysis helps identify:
 * Regional performance
 * Salesperson performance
 
-The project is part of my **Data Analyst / Business Intelligence portfolio** and demonstrates my ability to use SQL for practical business analysis.
+This project is part of my **Data Analyst / Business Intelligence portfolio** and demonstrates my ability to use SQL for practical business analysis.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 About Me
 
 **Zayar Lin Htet**
 
-Computer Science Student
-Professional Diploma in Business Intelligence & Data Analysis
+🎓 Computer Science Student
+📊 Professional Diploma in Business Intelligence & Data Analysis
 
-### Areas of Interest
+### Career Interests
 
 * Data Analysis
 * Business Intelligence
