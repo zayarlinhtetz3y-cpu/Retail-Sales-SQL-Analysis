@@ -148,37 +148,37 @@ Analyzed:
 
 | KPI                    |      Result |
 | ---------------------- | ----------: |
-| 💰 Total Sales         | 921,232,075 |
-| 💵 Total Cost          | 693,913,000 |
-| 📈 Total Profit        | 227,319,075 |
-| 🧾 Total Orders        |       1,000 |
-| 📦 Total Quantity Sold |       3,986 |
-| 🛒 Average Order Value | 921,232.075 |
-| 📊 Profit Margin       |      24.68% |
+|  Total Sales         | 921,232,075 |
+|  Total Cost          | 693,913,000 |
+|  Total Profit        | 227,319,075 |
+|  Total Orders        |       1,000 |
+|  Total Quantity Sold |       3,986 |
+|  Average Order Value | 921,232.075 |
+|  Profit Margin       |      24.68% |
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
-### 🥇 Highest Sales Region
+###  Highest Sales Region
 
 **Yangon** generated the highest sales among the analyzed regions.
 
-### 💻 Most Profitable Product
+###  Most Profitable Product
 
 **Laptop** generated the highest profit among the analyzed products.
 
-### 👤 Top Salesperson
+###  Top Salesperson
 
 **Nandar** generated the highest sales among the analyzed salespeople.
 
-### 📅 Highest Sales Month
+###  Highest Sales Month
 
 **April** generated the highest monthly sales with:
 
 **127,333,461**
 
-### 💰 Overall Profitability
+###  Overall Profitability
 
 The business generated:
 
